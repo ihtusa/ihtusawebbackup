@@ -25,7 +25,7 @@ instant_articles_submission_id:
 ampforwp_custom_content_editor:
   - ""
 ampforwp_custom_content_editor_checkbox:
-  - null
+  - ""
 ampforwp-amp-on-off:
   - default
 apple_news_sections:
@@ -42,7 +42,10 @@ apple_news_coverart:
   - 'a:1:{s:11:"orientation";s:9:"landscape";}'
 ---
 Originally posted May 27, 2017 by <a href="http://www.modbee.com/news/local/education/article153089529.html" target="_blank" rel="noopener noreferrer">The Modesto Bee</a>.
-<p id="content-body-">At Prescott Junior High in north Modesto, pull-ups get counted, daily runs get timed, and the results matter – improvement can change your shorts.</p>
+<p id="content-body-"><span class="ng_byline_name">BY NAN AUSTIN</span>
+<span class="ng_byline_email"><a title="" href="mailto:naustin@modbee.com">naustin@modbee.com</a></span></p>
+At Prescott Junior High in north Modesto, pull-ups get counted, daily runs get timed, and the results matter – improvement can change your shorts.
+
 While PE for most has wasted away in the shadow of math and reading scores, the Prescott Roadrunners keep a tradition of physical challenges. Hitting tougher and tougher targets for speed, strength and endurance earn kids a progression of colored gym shorts.It was those gym shorts that brought filmmaker Doug Orchard to Prescott, thanks to a chance encounter with alumna Jennifer Barcellos Dyan.
 
 Orchard was midway through his documentary “<a title="" href="https://www.linkedin.com/pulse/our-documentary-motivation-factor-won-best-feature-also-doug-orchard" target="_blank" rel="noopener noreferrer">The Motivation Factor</a>,” on the power PE programs of the 1960s epitomized by <a title="" href="http://mentalfloss.com/article/62991/1960s-high-school-gym-class-would-ruin-you" target="_blank" rel="noopener noreferrer">La Sierra High School in Carmichael</a>.
@@ -89,11 +92,4 @@ The school has a no-cut policy for all its sports, encouraging everyone to play,
 
 “About two-thirds of the school goes out for the track team,” Skavdahl said. “They’re very inclusive. That school has such a low incidence of discipline – that PE program teaches a lot more than fitness, a lot more.”
 
-</div>
-</div>
 [contact-form-7 id="463" title="Contact Us"]
-
-<div class="byline element-spacing-small">
-<span class="ng_byline_name">BY NAN AUSTIN</span>
-<span class="ng_byline_email"><a title="" href="mailto:naustin@modbee.com">naustin@modbee.com</a></span>
-</div>
