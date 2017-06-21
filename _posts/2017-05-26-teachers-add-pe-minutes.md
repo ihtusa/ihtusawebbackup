@@ -39,14 +39,14 @@ apple_news_api_id:
 apple_news_api_created_at:
   - 2017-06-21T18:50:50Z
 apple_news_api_modified_at:
-  - 2017-06-21T18:50:50Z
+  - 2017-06-21T18:51:26Z
 apple_news_api_share_url:
   - >
     https://apple.news/AEYHEj1GfR2aH11sP3B2rog
 apple_news_api_revision:
-  - AAAAAAAAAAD//////////w==
+  - AAAAAAAAAAAAAAAAAAAAAA==
 instant_articles_submission_id:
-  - "279296075811532"
+  - "141767089728954"
 ---
 Originally published May 26, 2017 in the <a href="http://www.timestelegram.com/news/20170526/central-valley-teachers-suggest-ways-to-add-pe-minutes" target="_blank" rel="noopener">Times Telegram</a>, written by Donna Thompson.
 
