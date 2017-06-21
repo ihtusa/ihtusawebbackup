@@ -4,7 +4,7 @@ post_title: >
   Central Valley teachers suggest ways to
   add PE minutes
 author: IHT Spirit
-post_date: 2017-06-21 13:50:40
+post_date: 2017-05-26 13:50:40
 post_excerpt: ""
 layout: post
 permalink: >
@@ -34,6 +34,19 @@ ampforwp_custom_content_editor_checkbox:
   - ""
 ampforwp-amp-on-off:
   - default
+apple_news_api_id:
+  - 1181c48f-519f-4766-87d7-5b0fdc1daba2
+apple_news_api_created_at:
+  - 2017-06-21T18:50:50Z
+apple_news_api_modified_at:
+  - 2017-06-21T18:50:50Z
+apple_news_api_share_url:
+  - >
+    https://apple.news/AEYHEj1GfR2aH11sP3B2rog
+apple_news_api_revision:
+  - AAAAAAAAAAD//////////w==
+instant_articles_submission_id:
+  - "279296075811532"
 ---
 Originally published May 26, 2017 in the <a href="http://www.timestelegram.com/news/20170526/central-valley-teachers-suggest-ways-to-add-pe-minutes" target="_blank" rel="noopener">Times Telegram</a>, written by Donna Thompson.
 
