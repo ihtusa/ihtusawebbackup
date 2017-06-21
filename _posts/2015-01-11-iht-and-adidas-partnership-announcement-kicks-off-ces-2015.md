@@ -1,0 +1,29 @@
+---
+ID: 1270
+post_title: >
+  IHT and adidas Partnership Announcement
+  Kicks Off CES 2015
+author: Interactive Health Technologies
+post_date: 2015-01-11 05:43:45
+post_excerpt: ""
+layout: post
+permalink: >
+  https://ihtusa.com/iht-and-adidas-partnership-announcement-kicks-off-ces-2015/
+published: true
+sidebar:
+  - right
+rop_post_url_twitter:
+  - 'https://ihtusa.com/iht-and-adidas-partnership-announcement-kicks-off-ces-2015/?utm_source=ReviveOldPost&utm_medium=social&utm_campaign=ReviveOldPost'
+---
+What were the most exciting developments at International CES this year?  It wasn’t the wafer thin TVs from Sony.  Nor the curved ones from Samsung.  Not even the augmented reality glasses from Osterhout Design Group rate.  Each of these can be classified as simply the latest in the we-made-it-because-we-could brand of products that are seen every year at the world’s largest electronics show.  They may be cool, but they’re the history of CES — not its future.
+
+<!--more-->
+
+The real advancements on display at International CES came from less predictable sources — and in less device-centric ways.  First, several automotive brands including Ford, GM, and Audi eclipsed CES’s traditional tech companies by showcasing truly useful, truly breakthrough innovations.  Mercedes’ introduced its <a href="http://media.daimler.com/dcmedia/0-921-1775416-1-1778134-1-0-0-0-0-0-0-0-0-0-0-0-0-0-0.html" target="_blank">F015 Luxury in Motion</a> self-driving car while <a href="https://www.press.bmwgroup.com/usa/pressDetail.html?title=bmw-to-showcase-innovations-including-highly-fully-automated-driving-driver-interface-advancements&amp;outputChannelId=9&amp;id=T0198902EN_US&amp;left_menu_item=node__5238" target="_blank">BMW introduced</a> cars with 360-degree collision avoidance and parking assist.  And, Mark Fields, Ford’s President and CEO. delivered a <a href="http://www.cesweb.org/News/CES-TV/Video-Detail?vID=UTlmIgRwbxXH&amp;dID=DliGIusJiD1C&amp;sID=OhYr3WpdgEMj" target="_blank">keynote</a><a href="http://www.cesweb.org/News/CES-TV/Video-Detail?vID=UTlmIgRwbxXH&amp;dID=DliGIusJiD1C&amp;sID=OhYr3WpdgEMj" target="_blank"> address</a>. Automotive companies brought exquisite designs, impressive technology stories, and elaborate displays to CES — and not a single free-standing gadget.
+
+Hardware also played second fiddle to platforms, interfaces, and new business models in the media solutions and business services promoted at <a href="http://www.cesweb.org/News/Press-Releases/CES-Press-Release.aspx?NodeID=7972f891-4c3d-4b70-907d-bcda721d7749" target="_blank">C Space</a>, a meeting and exhibition hub targeted to the marketing, advertising, content, and creative communities at CES.  The <a href="http://ana.net/" target="_blank">Association of National Advertiser</a>s partnered with the Consumer Electronics Association to produce C Space, and as an indication of the importance of media at the show, the attraction was billed as one of the three zones that comprised CES.  Executives from Google and Yahoo delivered keynotes and Amazon Media Group, Brightline, and the Onion were among the unusual suspects at the show.
+
+Other surprises at the show included Under Armour, Adidas, and NBCUniversal, all signaling the mainstreaming of brands at the intersection of technology and sports and fitness.  Digital health and fitness has been a growing presence at CES in recent years, but gadgets like Fitbit and Shine have dominated the news to date. This year the show welcomed its first mainstream sports and active lifestyle brand as a major exhibitor — Under Armour commanded a huge exhibit space and introduced <a href="https://www.underarmour.com/en-us/ua-record" target="_blank">UA Record</a>, a health-tracking software that pairs with a host of wearable devices.  NBCUniversal bowed<a href="https://www.radiusfitness.com/" target="_blank">Radius</a>, a subscription digital video service featuring original branded fitness content like videos from celebrity trainers.  And, Adidas headlined the <a href="http://fitnesstechsummit.com/" target="_blank">FitnessTech Summit</a> by announcing a <a href="http://news.adidas.com/us/Latest-News/adidas-set-to-unlock-the-health-potential-in-U.S.-schools-/s/e2da8d3c-7ffc-4e8f-9b0d-8c5c38ca69b5" target="_blank">partnership</a> with Interactive Health Technologies targeted to improve the physical education of middle- and high-schoolers.
+<p class="next_to_loge">The Consumer Electronics Show has a rich history in gadgets and gizmos, but given the range of companies and market sectors that now participate, the show’s future may no longer reside in electronic products.  The most exciting, useful, and broadly appealing developments of tomorrow will be technology that is integrated into our existing products, our lifestyles, even our own bodies — and the value of technology will increasingly be derived from content and applications in addition to, or even in place of, products.  The Consumer Electronics Show needs a more inclusive, expansive brand name to reflect the current reality and future potential of technological innovation.  It has outgrown its hardware-centric identity.  It’s time to rebrand CES.</p>
+<p class="sigfile next_to_loge">Denise Lee Yohn, Forbes</p>
+<p class="sigfile next_to_loge"><em>Denise Lee Yohn is a brand-building expert, speaker, and author of</em> <a href="http://deniseleeyohn.com/brand-book/" target="_blank">What Great Brands Do</a>.<em> Visit her <a href="http://deniseleeyohn.com/" target="_blank">site</a>, sign up for her <a href="http://deniseleeyohn.com/resources/newsletters/" target="_blank">newsletter </a>and follow her on <a href="http://twitter.com/deniseleeyohn" target="_blank">Twitter</a>.</em></p>

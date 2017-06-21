@@ -1,0 +1,23 @@
+---
+ID: 2148
+post_title: >
+  Skillastics® is the Movement – IHT
+  Spirit System Measures that Movement
+author: IHT Spirit
+post_date: 2013-07-01 11:24:02
+post_excerpt: ""
+layout: post
+permalink: >
+  https://ihtusa.com/skillastics-movement-iht-spirit-system-measures-movement/
+published: true
+sidebar:
+  - right
+rop_post_url_twitter:
+  - 'https://ihtusa.com/skillastics-movement-iht-spirit-system-measures-movement/?utm_source=ReviveOldPost&utm_medium=social&utm_campaign=ReviveOldPost'
+---
+<article><a href="https://ihtusa.com/wp-content/uploads/2016/07/physical-education-alt.jpg"><img class="alignleft size-medium wp-image-2149" src="https://ihtusa.com/wp-content/uploads/2016/07/physical-education-alt-300x103.jpg" alt="physical-education-alt" width="300" height="103" /></a>July 1, 2013
+Originally published on the <a href="http://www.skillastics.com/blog/skillastics-is-the-movement-iht-spirit-system-measures-that-movement" target="_blank">Skillastics </a>blog. Imagine you owned Skillastics<sup>®</sup>.  If you did, you’d know it’s a great way to get your students moving in any space, with a lot of participants all at once, and it’s especially effective when time is limited. But the question many teachers who already use Skillastics<sup>®</sup> ask is, “<i>Now that I’ve got them moving, how do I measure it in just as simple, efficient way”?</i> Now imagine you own Skillastics<sup>®</sup> and the IHT Spirit System, the newest, most innovative heart rate monitor assessment technology in the educational market today.  If you did, you’d know the answer to the question above has finally been answered by picturing the following scene:<!--more-->Forbes Middle School Physical Education teacher Danielle Garcia is excited to start an evidence-based and standard aligned lesson. This lesson is designed not only get heart rates up, but one that provides an excellent teaching tool to prepare her students for the FITNESSGRAM®.  As class begins each student’s heart rate races into the “yellow and red” zones! The lesson progresses, student’s heart rates are up, they are breathing heavy, while laughing and having fun.  Eventually, the bell rings and the class comes to an end. Students have smiles on their faces as their heart rates begin to return to the resting “blue” zone. Students quickly and effortlessly take their assigned IHT Spirit heart rate monitors off, in less than a second; they scan it across the Spirit Reader and return it to their specified numbered holder. This allows students to easily locate their designated monitor next class. Beep! Beep! Beep! The web-based Spirit System recognizes and counts all 47 monitors in seconds. The Spirit software instantly receives; student ID numbers, heart rates, the Skillastics<sup>®</sup> activity information and the activity time. The system downloads all the data at the individual, class and school levels, and then erases it off the monitor, so that it’s ready for the next class.Thanks to Skillastics<sup>®</sup> and the Spirit System, Mrs. Garcia knows she taught a high quality, engaging class that made a real difference in her student’s lives. The best part is that she was able to focus more quality time on her students instead of the tedious and time consuming class management distractions. This was possible due to the easy set-up of Skillastics<sup>®</sup> and the Spirit System’s instantaneous and simple tracking assessment.  As an extra bonus, Mrs. Garcia knows the data from the Spirit System can help validate her efforts as a great teacher.Mrs. Garcia walks a few students out as they recap their fun day. She congratulates them on reaching their individual and class heart rate goals and reminds them to check their smart phones later to see their individual data, which is displayed in colorful graphs. Parents can also opt in to receive all of this information via email!Forbes Middle School is competing with other middle schools across the district, who are all utilizing Skillastics<sup>®</sup> as a great activity, while tracking results with the Spirit System to measure their student’s effort.Back in the gym, Mrs. Garcia selects the report icon and runs a summary report to see whether her students achieved the state mandated 50% of moderate-to-vigorous-physical-activity (MVPA) during her lesson.  Satisfied, she logs off as her next class shuffles in…..With the possibilities endless in both activities and measurement, envision what Skillastics<sup>®</sup>and the Spirit System can do for you!
+
+[turbo_widget widget-prefix=pw_call_to_action&obj-class=PW_Call_To_Action&widget-pw_call_to_action--text=%5Bbutton+href%3D%22ihtusa.com%2Fzone%22%5Dadidas+Zone+for+IHT+Spirit+Demo%5B%2Fbutton%5D&widget-pw_call_to_action--button_text=]
+
+</article>
