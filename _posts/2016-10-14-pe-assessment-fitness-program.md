@@ -19,7 +19,7 @@ per-page-ath-content:
 ampforwp_custom_content_editor:
   - ""
 ampforwp_custom_content_editor_checkbox:
-  - null
+  - ""
 ampforwp-amp-on-off:
   - default
 rop_post_url_twitter:
@@ -86,16 +86,6 @@ instant_articles_submission_id:
 <span style="font-weight: 400;">“</span><span style="font-weight: 400;">We are just in the implementation phase with the IHT Spirit System as we still have to train new teachers on how to use it and every P.E. teacher how to use the system with the heart rate monitors,” he said. “It is hoped that we will be able to run the system in full in 2017-18 school year.”</span>
 
 <span style="font-weight: 400;">Manders has big plans for his country’s physical education program, and IHT is thrilled to support the efforts that will shape an entire country.</span>
-
-&nbsp;
-
-&nbsp;
-
-&nbsp;
-
-&nbsp;
-
-&nbsp;
 
 [turbo_widget widget-prefix=pw_call_to_action&obj-class=PW_Call_To_Action&widget-pw_call_to_action--text=%5Bbutton+href%3D%22ihtusa.com%2Fzone%22%5Dadidas+Zone+for+IHT+Spirit+Demo%5B%2Fbutton%5D&widget-pw_call_to_action--button_text=]
 
