@@ -35,16 +35,14 @@ apple_news_coverart:
 ampforwp_custom_content_editor:
   - ""
 ampforwp_custom_content_editor_checkbox:
-  - null
+  - ""
 ampforwp-amp-on-off:
   - default
 instant_articles_submission_id:
   - "101591300455360"
 ---
 <article>Tue, 14 Jun 2016<a href="https://ihtusa.com/wp-content/uploads/2016/06/IMG_1666.jpg"><img class="alignleft wp-image-1956 size-medium" src="https://ihtusa.com/wp-content/uploads/2016/06/IMG_1666-300x203.jpg" alt="PE assessment tips" width="300" height="203" /></a>
-To paraphrase the great <a href="http://www.robertearlkeen.com/" target="_blank" rel="noopener noreferrer">Robert Earl Keen</a>, the road goes on forever but the learning never ends.School may be out for summer, and while they take a well-deserved break from the classrooms, the next lesson plan is never far from a teacher’s mind. With that in mind, we at IHT want to do our part to help physical education teachers best utilize the <a href="http://www.ihtusa.com/spirit-system">IHT Spirit System</a> as they work to teach students the importance of overall health and its relationship to their entire academic performance with PE assessment tips from teachers getting positive results.<!--more-->We can evaluate the performance reports all we want – and the data shows that students are working harder than ever to improve their physical conditioning. Of the 35 schools that used the IHT Spirit System the most in 2015-16, 29 logged more than 50 percent of their total workout time in the target heart rate zones. But what, exactly, drives those students to work hard?
-
-Every PE teacher has an idea of what works best for their students, what motivates them to work hard each class. The best teachers, though, are eager to learn from their colleagues. So, what have the teachers using the IHT Spirit System found as the best ways to get students working hard?
+To paraphrase the great <a href="http://www.robertearlkeen.com/" target="_blank" rel="noopener noreferrer">Robert Earl Keen</a>, the road goes on forever but the learning never ends.School may be out for summer, and while they take a well-deserved break from the classrooms, the next lesson plan is never far from a teacher’s mind. With that in mind, we at IHT want to do our part to help physical education teachers best utilize the <a href="http://www.ihtusa.com/spirit-system">IHT Spirit System</a> as they work to teach students the importance of overall health and its relationship to their entire academic performance with PE assessment tips from teachers getting positive results.<!--more-->We can evaluate the performance reports all we want – and the data shows that students are working harder than ever to improve their physical conditioning. Of the 35 schools that used the IHT Spirit System the most in 2015-16, 29 logged more than 50 percent of their total workout time in the target heart rate zones. But what, exactly, drives those students to work hard?Every PE teacher has an idea of what works best for their students, what motivates them to work hard each class. The best teachers, though, are eager to learn from their colleagues. So, what have the teachers using the IHT Spirit System found as the best ways to get students working hard?
 <h2>PE Assessment tips from teachers</h2>
 Use – or create – activities that keep are easy to explain and keep everyone moving. A student, especially a younger student, who has to wait his turn or listen to extensive instruction is more apt to disengage from the class.
 
