@@ -40,7 +40,7 @@ ampforwp_custom_content_editor_checkbox:
 ampforwp-amp-on-off:
   - default
 instant_articles_submission_id:
-  - "138208776750543"
+  - "466210373756519"
 ---
 Aug. 24, 2016
 
