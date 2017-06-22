@@ -36,7 +36,7 @@ apple_news_coverart:
 ampforwp_custom_content_editor:
   - ""
 ampforwp_custom_content_editor_checkbox:
-  - null
+  - ""
 ampforwp-amp-on-off:
   - default
 instant_articles_submission_id:
@@ -116,22 +116,6 @@ Aug. 24, 2016
 <span style="font-weight: 400;">We see the benefit of a self-insurance plan for schools using these shared devices. Schools can charge a small fee -- a percentage of the device’s retail price -- and create a pool by which they can purchase replacements when necessary. A benefit: if the fund has money left at the end of the school year, that money could be used to fund the next round of Zone purchases.</span>
 
 <span style="font-weight: 400;">IHT developed the Zone as a tool to improve physical education, helping students see their exertion level and understand how that impacts their health and well-being. We appreciate that schools dedicate precious financial resources to purchasing this type of technology and we want to help protect that investment.</span>
-
-&nbsp;
-
-&nbsp;
-
-&nbsp;
-
-&nbsp;
-
-&nbsp;
-
-&nbsp;
-
-&nbsp;
-
-&nbsp;
 
 [turbo_widget widget-prefix=pw_call_to_action&obj-class=PW_Call_To_Action&widget-pw_call_to_action--text=%5Bbutton+href%3D%22ihtusa.com%2Fzone%22%5Dadidas+Zone+for+IHT+Spirit+Demo%5B%2Fbutton%5D&widget-pw_call_to_action--button_text=]
 
