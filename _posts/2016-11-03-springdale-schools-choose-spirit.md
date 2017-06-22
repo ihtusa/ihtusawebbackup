@@ -21,7 +21,7 @@ per-page-ath-content:
 ampforwp_custom_content_editor:
   - ""
 ampforwp_custom_content_editor_checkbox:
-  - null
+  - ""
 ampforwp-amp-on-off:
   - default
 rop_post_url_twitter:
@@ -78,14 +78,6 @@ Nov 3, 2016
 <span style="font-weight: 400;">“We’re already limited in the amount of time we have in PE class anyway,” he explained. “If we have rubrics to assess things like throwing and catching and striking or dribbling or whatever and [teachers] can do it in the context a game rather than say with a specific skills test, that’s something that would be really nice in meeting the objectives of the lesson plus getting an assessment done, too.”</span>
 
 <span style="font-weight: 400;">We worked diligently to develop a new, more complete assessment platform that makes things easier for students and teachers alike. As Ferguson notes, it’s not enough to simply offer tools. Teachers and administrators need effective and reliable tools that make assessing student performance and gathering that data seamless. We’re happy another school district has found the needed tools inside the Spirit System.</span>
-
-&nbsp;
-
-&nbsp;
-
-&nbsp;
-
-&nbsp;
 
 [turbo_widget widget-prefix=pw_call_to_action&obj-class=PW_Call_To_Action&widget-pw_call_to_action--text=%5Bbutton+href%3D%22ihtusa.com%2Fzone%22%5Dadidas+Zone+for+IHT+Spirit+Demo%5B%2Fbutton%5D&widget-pw_call_to_action--button_text=]
 
