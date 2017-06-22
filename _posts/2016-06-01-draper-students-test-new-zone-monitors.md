@@ -32,11 +32,13 @@ apple_news_coverart:
 ampforwp_custom_content_editor:
   - ""
 ampforwp_custom_content_editor_checkbox:
-  - null
+  - ""
 ampforwp-amp-on-off:
   - default
 instant_articles_submission_id:
   - "125653411350153"
+rop_post_url_twitter:
+  - 'https://ihtusa.com/draper-students-test-new-zone-monitors/?utm_source=ReviveOldPost&utm_medium=social&utm_campaign=ReviveOldPost'
 ---
 [embed]https://vimeo.com/168987875[/embed]
 
