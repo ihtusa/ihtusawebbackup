@@ -23,7 +23,7 @@ per-page-ath-content:
 ampforwp_custom_content_editor:
   - ""
 ampforwp_custom_content_editor_checkbox:
-  - null
+  - ""
 ampforwp-amp-on-off:
   - default
 rop_post_url_twitter:
@@ -84,18 +84,6 @@ instant_articles_submission_id:
 <span style="font-weight: 400;">Best and Kinney have been pleased with how motivated their students have been beginning their journey with the IHT Spirit System and can’t wait to see how students progress as they get more familiar with their data and what it teaches them. </span>
 
 <span style="font-weight: 400;">“The sky’s the limit with how and where we want to go with it,” Kinney said.</span>
-
-&nbsp;
-
-&nbsp;
-
-&nbsp;
-
-&nbsp;
-
-&nbsp;
-
-&nbsp;
 
 [turbo_widget widget-prefix=pw_call_to_action&obj-class=PW_Call_To_Action&widget-pw_call_to_action--text=%5Bbutton+href%3D%22ihtusa.com%2Fzone%22%5Dadidas+Zone+for+IHT+Spirit+Demo%5B%2Fbutton%5D&widget-pw_call_to_action--button_text=]
 
