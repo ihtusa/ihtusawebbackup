@@ -33,7 +33,7 @@ apple_news_coverart:
 ampforwp_custom_content_editor:
   - ""
 ampforwp_custom_content_editor_checkbox:
-  - null
+  - ""
 ampforwp-amp-on-off:
   - default
 instant_articles_submission_id:
@@ -84,16 +84,6 @@ instant_articles_submission_id:
 <span style="font-weight: 400;">“</span><span style="font-weight: 400;">The goal is to be able to track their fitness testing from year to year as well as allowing the students to see how being physically active and fit will help be more successful in other parts of their lives as well,” she said.</span>
 
 <span style="font-weight: 400;">For more information on the flipped classroom model, contact Luck at <a href="mailto: lucke@oskycsd.org" target="_blank" rel="noopener noreferrer">lucke@oskycsd.org</a>.</span>
-
-&nbsp;
-
-&nbsp;
-
-&nbsp;
-
-&nbsp;
-
-&nbsp;
 
 [turbo_widget widget-prefix=pw_call_to_action&obj-class=PW_Call_To_Action&widget-pw_call_to_action--text=%5Bbutton+href%3D%22ihtusa.com%2Fzone%22%5Dadidas+Zone+for+IHT+Spirit+Demo%5B%2Fbutton%5D&widget-pw_call_to_action--button_text=]
 
