@@ -29,11 +29,13 @@ apple_news_coverart:
 ampforwp_custom_content_editor:
   - ""
 ampforwp_custom_content_editor_checkbox:
-  - null
+  - ""
 ampforwp-amp-on-off:
   - default
 instant_articles_submission_id:
   - "1421335861292158"
+rop_post_url_twitter:
+  - 'https://ihtusa.com/how-essa-impacts-pe-funding/?utm_source=ReviveOldPost&utm_medium=social&utm_campaign=ReviveOldPost'
 ---
 <span style="font-weight: 400;">Aug. 3, 2016</span>
 
