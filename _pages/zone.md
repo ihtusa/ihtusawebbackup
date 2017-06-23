@@ -83,9 +83,9 @@ avrghdftrcd_footer_code:
 ampforwp-amp-on-off:
   - default
 ampforwp_custom_content_editor:
-  - '<p style="text-align: center;">[contact-form-7 id="313" title="REQUEST A QUICK QUOTE"]</p>'
+  - ""
 ampforwp_custom_content_editor_checkbox:
-  - 'yes'
+  - null
 apple_news_sections:
   - 'a:1:{i:0;s:72:"https://news-api.apple.com/sections/aa8f55ca-7abf-3ed0-a6c4-79170654793d";}'
 apple_news_is_preview:
@@ -99,7 +99,7 @@ apple_news_pullquote_position:
 apple_news_coverart:
   - 'a:1:{s:11:"orientation";s:9:"landscape";}'
 ampforwp_custom_sidebar_select:
-  - layout-builder
+  - none
 apple_news_api_id:
   - 3fb8a6c1-c1d5-45cf-80f6-24719c3b1f79
 apple_news_api_created_at:
