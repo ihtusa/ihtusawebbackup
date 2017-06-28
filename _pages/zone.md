@@ -85,7 +85,7 @@ ampforwp-amp-on-off:
 ampforwp_custom_content_editor:
   - ""
 ampforwp_custom_content_editor_checkbox:
-  - ""
+  - null
 apple_news_sections:
   - 'a:1:{i:0;s:72:"https://news-api.apple.com/sections/aa8f55ca-7abf-3ed0-a6c4-79170654793d";}'
 apple_news_is_preview:
