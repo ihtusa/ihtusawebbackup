@@ -172,7 +172,7 @@ slides_5_slide_open_link_in_new_window:
 ampforwp_custom_content_editor:
   - ""
 ampforwp_custom_content_editor_checkbox:
-  - ""
+  - null
 ampforwp-amp-on-off:
   - default
 apple_news_sections:
@@ -187,6 +187,8 @@ apple_news_pullquote_position:
   - middle
 apple_news_coverart:
   - 'a:1:{s:11:"orientation";s:9:"landscape";}'
+ampforwp_custom_sidebar_select:
+  - none
 ---
 <div id="pl-1582"  class="panel-layout" ><div id="pg-1582-0"  class="panel-grid panel-no-style"  data-style="{&quot;background_display&quot;:&quot;tile&quot;}" ><div id="pgc-1582-0-0"  class="panel-grid-cell panel-grid-cell-empty"  data-weight="0.049973347549" ></div><div id="pgc-1582-0-1"  class="panel-grid-cell panel-grid-cell-mobile-last"  data-weight="0.900453091682" ><div id="panel-1582-0-1-0" class="so-panel widget widget_black-studio-tinymce widget_black_studio_tinymce panel-first-child panel-last-child" data-index="0" data-style="{&quot;padding&quot;:&quot;-50px&quot;,&quot;background_display&quot;:&quot;tile&quot;,&quot;featured_widgets&quot;:&quot;&quot;,&quot;bigger_title&quot;:&quot;&quot;}" ><div class="panel-widget-style panel-widget-style-for-1582-0-1-0" ><div class="textwidget"><h3 style="font-size: 44px; text-align: center;">PHYSICAL EDUCATION’S LARGEST CONNECTED ASSESSMENT PLATFORM</h3><p style="text-align: center;">Interactive Health Technologies has developed the gold standard in wrist-based wearable fitness and assessment technology that supports students from kindergarten through graduation day. Through personalized learning during physical education and physical activity, coupled with an innovative curriculum, we empower students to take ownership of their health and well-being while supporting teachers and administrators in measuring and connecting student outcomes between fitness, academic progress and social and emotional learning.</p></br></br></div></div></div></div><div id="pgc-1582-0-2"  class="panel-grid-cell panel-grid-cell-empty"  data-weight="0.049573560769" ></div></div><div id="pg-1582-1"  class="panel-grid panel-has-style"  data-style="{&quot;class&quot;:&quot;jumbotron-overlap&quot;,&quot;background_display&quot;:&quot;tile&quot;,&quot;bottom_margin&quot;:&quot;80px&quot;}" ><div class="jumbotron-overlap panel-row-style panel-row-style-for-1582-1" ><div id="pgc-1582-1-0"  class="panel-grid-cell"  data-weight="0.333333333333" ><div id="panel-1582-1-0-0" class="so-panel widget widget_black-studio-tinymce widget_black_studio_tinymce panel-first-child" data-index="1" data-style="{&quot;background_display&quot;:&quot;tile&quot;,&quot;featured_widgets&quot;:&quot;&quot;,&quot;bigger_title&quot;:&quot;&quot;}" ><div class="textwidget"><p><img class="aligncenter wp-image-1583 size-full" src="https://ihtusa.com/wp-content/uploads/2016/03/ZONE-500x250-on-White.jpg" alt="" width="500" height="250" /></p></div></div><div id="panel-1582-1-0-1" class="so-panel widget widget_black-studio-tinymce widget_black_studio_tinymce panel-last-child" data-index="2" data-style="{&quot;background_display&quot;:&quot;tile&quot;,&quot;featured_widgets&quot;:&quot;&quot;,&quot;bigger_title&quot;:&quot;&quot;}" ><div class="textwidget"><h1 style="font-size: 24px; text-align: center;">WEARABLE TECHNOLOGY</h1>
 The adidas ZONE for IHT Spirit uses wrist-based convenience to deliver personalized learning to students while measuring your program’s effectiveness.
