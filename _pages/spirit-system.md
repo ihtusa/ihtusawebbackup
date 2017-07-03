@@ -76,6 +76,12 @@ apple_news_pullquote_position:
   - middle
 apple_news_coverart:
   - 'a:1:{s:11:"orientation";s:9:"landscape";}'
+ampforwp_custom_content_editor:
+  - ""
+ampforwp_custom_content_editor_checkbox:
+  - null
+ampforwp_custom_sidebar_select:
+  - none
 ---
 <div id="pl-76"  class="panel-layout" ><div id="pg-76-0"  class="panel-grid panel-no-style"  data-style="{&quot;background_display&quot;:&quot;tile&quot;}" ><div id="pgc-76-0-0"  class="panel-grid-cell panel-grid-cell-empty"  data-weight="0.049751243782" ></div><div id="pgc-76-0-1"  class="panel-grid-cell panel-grid-cell-mobile-last"  data-weight="0.900497512436" ><div id="panel-76-0-1-0" class="so-panel widget widget_black-studio-tinymce widget_black_studio_tinymce panel-first-child panel-last-child" data-index="0" data-style="{&quot;background_display&quot;:&quot;tile&quot;,&quot;featured_widgets&quot;:&quot;&quot;,&quot;bigger_title&quot;:true}" ><div class="widget-title--big panel-widget-style panel-widget-style-for-76-0-1-0" ><div class="textwidget"><h3 style="font-size: 44px; text-align: center;">A SOLUTION FOR EVERYONE</h3><p style="text-align: center;">Designed specifically for physical education, the IHT Spirit System<sup>®</sup> uses technology to teach students how to manage their individual health and fitness by improving PE assessment. Using PE-specific wireless heart rate monitors to collect fitness data, user-friendly curriculum resources and customizable <a href="https://www.ihtspirit.com/home#/measures">IHT assessment measures</a> to jumpstart your program and a superior customer success support team, the IHT Spirit System® supports the development of healthy habits that drive students from elementary school to graduation day.</p>
 
