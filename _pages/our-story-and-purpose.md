@@ -57,7 +57,7 @@ apple_news_coverart:
 ampforwp_custom_content_editor:
   - ""
 ampforwp_custom_content_editor_checkbox:
-  - ""
+  - null
 ampforwp_custom_sidebar_select:
   - none
 ---
