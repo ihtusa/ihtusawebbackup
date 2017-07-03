@@ -172,7 +172,7 @@ slides_5_slide_open_link_in_new_window:
 ampforwp_custom_content_editor:
   - ""
 ampforwp_custom_content_editor_checkbox:
-  - ""
+  - null
 ampforwp-amp-on-off:
   - default
 apple_news_sections:
