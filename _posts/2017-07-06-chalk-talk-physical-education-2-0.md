@@ -16,7 +16,9 @@ By NANCY BLAKE For the Frontiersman
 
 [caption id="attachment_3696" align="alignleft" width="300"]<a href="https://ihtusa.com/wp-content/uploads/2017/07/Goosebay.jpg"><img class="wp-image-3696 size-medium" src="https://ihtusa.com/wp-content/uploads/2017/07/Goosebay-300x222.jpg" alt="technology" width="300" height="222" /></a> From Frontiersman.com[/caption]
 
-When you reflect on your experiences in physical education class, you might remember kickball, jump rope, basketball, and a variety of other games and activities. You might recall the annual fitness tests, where you were challenged to swiftly run a mile alongside your peers, perform as many sit-ups as possible in 60-seconds, and lift your chin over the pull-up bar until your arms felt like spaghetti. Sport skills and health-related fitness components are still the backbone of a quality physical education curriculum, but you may be surprised to learn how these skills and concepts are being taught in today’s P.E.</div>
+When you reflect on your experiences in physical education class, you might remember kickball, jump rope, basketball, and a variety of other games and activities. You might recall the annual fitness tests, where you were challenged to swiftly run a mile alongside your peers, perform as many sit-ups as possible in 60-seconds, and lift your chin over the pull-up bar until your arms felt like spaghetti. Sport skills and health-related fitness components are still the backbone of a quality physical education curriculum, but you may be surprised to learn how these skills and concepts are being taught in today’s P.E.
+
+</div>
 <!--more-->
 <div class="subscriber-preview">Our world has changed drastically due to technology. Many of us even use digital tools to help monitor our exercise habits. Wearable fitness gadgets have become commonplace. We employ these devices for personal accountability, and sometimes to foster friendly competition for added motivation. You can even find this type of technology in today’s physical education classes, for many of the same reasons.</div>
 <div></div>
