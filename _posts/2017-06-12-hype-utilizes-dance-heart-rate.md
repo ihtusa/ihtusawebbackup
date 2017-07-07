@@ -4,46 +4,12 @@ post_title: >
   HYPE motivates NYC students to improve
   fitness, passion for health
 author: IHT Spirit
-post_date: 2017-06-12 11:21:15
 post_excerpt: ""
 layout: post
 permalink: >
   https://ihtusa.com/hype-utilizes-dance-heart-rate/
 published: true
-sidebar:
-  - right
-avrghdftrcd_head_code:
-  - ""
-avrghdftrcd_footer_code:
-  - ""
-per-page-ath-content:
-  - ""
-rop_post_url_twitter:
-  - 'https://ihtusa.com/idea-schools-thrive-academically/?utm_source=ReviveOldPost&utm_medium=social&utm_campaign=ReviveOldPost'
-rop_post_url_facebook:
-  - 'https://ihtusa.com/idea-schools-thrive-academically/?utm_source=ReviveOldPost&utm_medium=social&utm_campaign=ReviveOldPost'
-ampforwp_custom_content_editor:
-  - ""
-ampforwp_custom_content_editor_checkbox:
-  - null
-ampforwp-amp-on-off:
-  - default
-instant_articles_force_submit:
-  - "1"
-instant_articles_submission_id:
-  - "1790431457933780"
-apple_news_sections:
-  - 'a:0:{}'
-apple_news_is_preview:
-  - ""
-apple_news_is_sponsored:
-  - ""
-apple_news_pullquote:
-  - ""
-apple_news_pullquote_position:
-  - middle
-apple_news_coverart:
-  - 'a:1:{s:11:"orientation";s:9:"landscape";}'
+post_date: 2017-06-12 11:21:15
 ---
 [caption id="attachment_3597" align="aligncenter" width="612"]<a href="https://ihtusa.com/wp-content/uploads/2017/06/HYPE-Blog-dancing.jpg"><img class="wp-image-3597" src="https://ihtusa.com/wp-content/uploads/2017/06/HYPE-Blog-dancing-1024x548.jpg" alt="HYPE" width="612" height="328" /></a> HYPE students perform during their showcase at St. Simon Stock School in New York. Photos courtesy of Hip Hop Public Health.[/caption]
 
@@ -79,7 +45,7 @@ apple_news_coverart:
 
 <span style="font-weight: 400;">“As we moved through the program, they began asking for time to jog around the gym, and they would run looking at their monitors,” WaAaK said. “You could see them speed up or slow down based on what color they were seeing on the monitor.”</span>
 
-<span style="font-weight: 400;">“Once they noticed the colors change, they became motivated by it,” said Madeleine Gordillo, one of the instructors and a researcher with Hip Hop Public Health and the Columbia University Medical Center’s Neurology Department. “They were able to track their progress based on the colors changing, and they were able to do their own performance analysis.”</span>
+<span style="font-weight: 400;">“Once they noticed the colors change, they became motivated by it,” said Madeleine Gordillo, one of the instructors along with Vanessa Sawyer and a researcher with Hip Hop Public Health and the Columbia University Medical Center’s Neurology Department. “They were able to track their progress based on the colors changing, and they were able to do their own performance analysis.”</span>
 
 <span style="font-weight: 400;">The ability to analyze their own effort is a skill that will help them take ownership of their health as they move through life.</span>
 
