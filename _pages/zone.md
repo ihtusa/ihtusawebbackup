@@ -95,25 +95,25 @@ post_date: 2016-03-10 18:49:28
 </div>
 <div class="rc"></div>
 <div class="rc"></div>
-<p style="text-align: center;"><div role="form" class="wpcf7" id="wpcf7-f463-o1" lang="en-US" dir="ltr">
+<p style="text-align: center;"><div role="form" class="wpcf7" id="wpcf7-f313-o1" lang="en-US" dir="ltr">
 <div class="screen-reader-response"></div>
-<form action="/wp-admin/post.php#wpcf7-f463-o1" method="post" class="wpcf7-form" novalidate="novalidate">
+<form action="/wp-admin/post.php#wpcf7-f313-o1" method="post" class="wpcf7-form" novalidate="novalidate">
 <div style="display: none;">
-<input type="hidden" name="_wpcf7" value="463" />
+<input type="hidden" name="_wpcf7" value="313" />
 <input type="hidden" name="_wpcf7_version" value="4.8" />
 <input type="hidden" name="_wpcf7_locale" value="en_US" />
-<input type="hidden" name="_wpcf7_unit_tag" value="wpcf7-f463-o1" />
+<input type="hidden" name="_wpcf7_unit_tag" value="wpcf7-f313-o1" />
 <input type="hidden" name="_wpcf7_container_post" value="0" />
-<input type="hidden" name="_wpcf7_nonce" value="58bd107aac" />
+<input type="hidden" name="_wpcf7_nonce" value="4a5b73494d" />
 </div>
 <div class="contact-form-small">
 <div class="row">
 <div class="col-xs-12  col-md-6">
 Name<br />
       <span class="wpcf7-form-control-wrap your-name"><input type="text" name="your-name" value="" size="40" class="wpcf7-form-control wpcf7-text wpcf7-validates-as-required" aria-required="true" aria-invalid="false" placeholder="First and Last Name" /></span><br />
-Email Address<br />
+Email<br />
       <span class="wpcf7-form-control-wrap your-email"><input type="email" name="your-email" value="" size="40" class="wpcf7-form-control wpcf7-text wpcf7-email wpcf7-validates-as-required wpcf7-validates-as-email" aria-required="true" aria-invalid="false" placeholder="Email address" /></span><br />
-Contact Number<br />
+Contact Phone Number<br />
 <span class="wpcf7-form-control-wrap your-tel"><input type="tel" name="your-tel" value="" size="40" class="wpcf7-form-control wpcf7-text wpcf7-tel wpcf7-validates-as-required wpcf7-validates-as-tel" aria-required="true" aria-invalid="false" placeholder="Phone Number" /></span><br />
 Select Your State or Country<br />
 <span class="wpcf7-form-control-wrap state"><select name="state" class="wpcf7-form-control wpcf7-select wpcf7-validates-as-required" aria-required="true" aria-invalid="false"><option value="AL">AL</option><option value="AK">AK</option><option value="AZ">AZ</option><option value="AR">AR</option><option value="CA">CA</option><option value="CO">CO</option><option value="CT">CT</option><option value="DE">DE</option><option value="FL">FL</option><option value="GA">GA</option><option value="HI">HI</option><option value="ID">ID</option><option value="IL">IL</option><option value="IN">IN</option><option value="IA">IA</option><option value="KS">KS</option><option value="KY">KY</option><option value="LA">LA</option><option value="ME">ME</option><option value="MD">MD</option><option value="MA">MA</option><option value="MI">MI</option><option value="MN">MN</option><option value="MS">MS</option><option value="MO">MO</option><option value="MT">MT</option><option value="NE">NE</option><option value="NV">NV</option><option value="NH">NH</option><option value="NJ">NJ</option><option value="NM">NM</option><option value="NY">NY</option><option value="NC">NC</option><option value="ND">ND</option><option value="OH">OH</option><option value="OK">OK</option><option value="OR">OR</option><option value="PA">PA</option><option value="RI">RI</option><option value="SC">SC</option><option value="SD">SD</option><option value="TN">TN</option><option value="TX">TX</option><option value="UT">UT</option><option value="VT">VT</option><option value="VA">VA</option><option value="WA">WA</option><option value="Washington D.C.">Washington D.C.</option><option value="WV">WV</option><option value="WI">WI</option><option value="WY">WY</option><option value="CANADA">CANADA</option><option value="BERMUDA">BERMUDA</option><option value="AUSTRALIA">AUSTRALIA</option><option value="UNITED KINGDOM">UNITED KINGDOM</option><option value="SOUTH AFRICA">SOUTH AFRICA</option><option value="International - Other">International - Other</option></select></span></p></div>
@@ -126,37 +126,10 @@ Number of Schools In Your District<br />
         <span class="wpcf7-form-control-wrap numberofschools"><select name="numberofschools" class="wpcf7-form-control wpcf7-select wpcf7-validates-as-required" aria-required="true" aria-invalid="false"><option value="0-15">0-15</option><option value="15+">15+</option></select></span>
     </div>
 <div class="col-xs-12  col-md-12">
-<input type='hidden' id="zc_gad" name="zc_gad" value="1"/><br />
-      <input type="submit" value="GET STARTED" class="wpcf7-form-control wpcf7-submit btn btn-primary pull-right" /></p></div>
+<input type='hidden' id="zc_gad" name="zc_gad" value=""/><br />
+      <input type="submit" value="GET STARTED" class="wpcf7-form-control wpcf7-submit btn btn-primary pull-right" />
+    </div>
 </p></div>
-</div>
-<div style="display:none;">
-<span class="wpcf7-form-control-wrap fc_campaign"><input type="text" name="fc_campaign" value="" size="40" class="wpcf7-form-control wpcf7-text" aria-invalid="false" /></span><br />
-<span class="wpcf7-form-control-wrap fc_channel"><input type="text" name="fc_channel" value="" size="40" class="wpcf7-form-control wpcf7-text" aria-invalid="false" /></span><br />
-<span class="wpcf7-form-control-wrap fc_content"><input type="text" name="fc_content" value="" size="40" class="wpcf7-form-control wpcf7-text" aria-invalid="false" /></span><br />
-<span class="wpcf7-form-control-wrap fc_landing"><input type="text" name="fc_landing" value="" size="40" class="wpcf7-form-control wpcf7-text" aria-invalid="false" /></span><br />
-<span class="wpcf7-form-control-wrap fc_medium"><input type="text" name="fc_medium" value="" size="40" class="wpcf7-form-control wpcf7-text" aria-invalid="false" /></span><br />
-<span class="wpcf7-form-control-wrap fc_referrer"><input type="text" name="fc_referrer" value="" size="40" class="wpcf7-form-control wpcf7-text" aria-invalid="false" /></span><br />
-<span class="wpcf7-form-control-wrap fc_source"><input type="text" name="fc_source" value="" size="40" class="wpcf7-form-control wpcf7-text" aria-invalid="false" /></span><br />
-<span class="wpcf7-form-control-wrap fc_term"><input type="text" name="fc_term" value="" size="40" class="wpcf7-form-control wpcf7-text" aria-invalid="false" /></span><br />
-<span class="wpcf7-form-control-wrap lc_campaign"><input type="text" name="lc_campaign" value="" size="40" class="wpcf7-form-control wpcf7-text" aria-invalid="false" /></span><br />
-<span class="wpcf7-form-control-wrap lc_channel"><input type="text" name="lc_channel" value="" size="40" class="wpcf7-form-control wpcf7-text" aria-invalid="false" /></span><br />
-<span class="wpcf7-form-control-wrap lc_content"><input type="text" name="lc_content" value="" size="40" class="wpcf7-form-control wpcf7-text" aria-invalid="false" /></span><br />
-<span class="wpcf7-form-control-wrap lc_landing"><input type="text" name="lc_landing" value="" size="40" class="wpcf7-form-control wpcf7-text" aria-invalid="false" /></span><br />
-<span class="wpcf7-form-control-wrap lc_medium"><input type="text" name="lc_medium" value="" size="40" class="wpcf7-form-control wpcf7-text" aria-invalid="false" /></span><br />
-<span class="wpcf7-form-control-wrap lc_referrer"><input type="text" name="lc_referrer" value="" size="40" class="wpcf7-form-control wpcf7-text" aria-invalid="false" /></span><br />
-<span class="wpcf7-form-control-wrap lc_source"><input type="text" name="lc_source" value="" size="40" class="wpcf7-form-control wpcf7-text" aria-invalid="false" /></span><br />
-<span class="wpcf7-form-control-wrap lc_term"><input type="text" name="lc_term" value="" size="40" class="wpcf7-form-control wpcf7-text" aria-invalid="false" /></span><br />
-<span class="wpcf7-form-control-wrap OS"><input type="text" name="OS" value="" size="40" class="wpcf7-form-control wpcf7-text" aria-invalid="false" /></span><br />
-<span class="wpcf7-form-control-wrap GA_Client_ID"><input type="text" name="GA_Client_ID" value="" size="40" class="wpcf7-form-control wpcf7-text" aria-invalid="false" /></span><br />
-<span class="wpcf7-form-control-wrap all_traffic_sources"><input type="text" name="all_traffic_sources" value="" size="40" class="wpcf7-form-control wpcf7-text" aria-invalid="false" /></span><br />
-<span class="wpcf7-form-control-wrap browser"><input type="text" name="browser" value="" size="40" class="wpcf7-form-control wpcf7-text" aria-invalid="false" /></span><br />
-<span class="wpcf7-form-control-wrap city"><input type="text" name="city" value="" size="40" class="wpcf7-form-control wpcf7-text" aria-invalid="false" /></span><br />
-<span class="wpcf7-form-control-wrap device"><input type="text" name="device" value="" size="40" class="wpcf7-form-control wpcf7-text" aria-invalid="false" /></span><br />
-<span class="wpcf7-form-control-wrap page_visits"><input type="text" name="page_visits" value="" size="40" class="wpcf7-form-control wpcf7-text" aria-invalid="false" /></span><br />
-<span class="wpcf7-form-control-wrap pages_visited_list"><input type="text" name="pages_visited_list" value="" size="40" class="wpcf7-form-control wpcf7-text" aria-invalid="false" /></span><br />
-<span class="wpcf7-form-control-wrap region"><input type="text" name="region" value="" size="40" class="wpcf7-form-control wpcf7-text" aria-invalid="false" /></span><br />
-<span class="wpcf7-form-control-wrap time_zone"><input type="text" name="time_zone" value="" size="40" class="wpcf7-form-control wpcf7-text" aria-invalid="false" /></span>
 </div>
 <div class="wpcf7-response-output wpcf7-display-none"></div></form></div></p></div></div></div><div id="pgc-1540-4-2"  class="panel-grid-cell panel-grid-cell-empty"  data-weight="0.049751243782" ></div></div><div id="pg-1540-5"  class="panel-grid panel-no-style"  data-style="{&quot;background_display&quot;:&quot;tile&quot;}" ><div id="pgc-1540-5-0"  class="panel-grid-cell"  data-weight="1" ><div id="panel-1540-5-0-0" class="so-panel widget widget_pw_call_to_action widget-call-to-action panel-first-child" data-index="18" data-style="{&quot;background_display&quot;:&quot;tile&quot;,&quot;featured_widgets&quot;:&quot;&quot;,&quot;bigger_title&quot;:&quot;&quot;}" >				<div class="call-to-action">
 					<div class="call-to-action__text">
