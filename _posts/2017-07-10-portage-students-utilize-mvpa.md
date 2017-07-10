@@ -1,5 +1,5 @@
 ---
-ID: 5510
+ID: 5537
 post_title: >
   Portage Central students maximize MVPA
   minutes to reach healthy fitness levels
@@ -9,7 +9,7 @@ layout: post
 permalink: >
   https://ihtusa.com/portage-students-utilize-mvpa/
 published: true
-post_date: 2017-07-10 16:48:26
+post_date: 2017-07-10 17:07:38
 ---
 July 10, 2017 - <span style="font-weight: 400;">Motivated by readings on their heart rate monitors, students at </span><a href="http://cms.portageps.org/"><span style="font-weight: 400;">Portage Central Middle School</span></a><span style="font-weight: 400;"> logged more than 10,000 hours of moderate to vigorous physical activity in the just-completed school year while improving their </span><a href="http://pyfp.org/"><span style="font-weight: 400;">Presidential Youth Fitness Program</span></a><span style="font-weight: 400;"> scores in several key areas. </span>
 
