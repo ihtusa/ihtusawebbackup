@@ -1,9 +1,8 @@
 ---
 ID: 5510
 post_title: >
-  Portage Central students make most of
-  MVPA minutes to reach healthy fitness
-  levels
+  Portage Central students maximize MVPA
+  minutes to reach healthy fitness levels
 author: IHT Spirit
 post_excerpt: ""
 layout: post
