@@ -25,7 +25,7 @@ July 10, 2017 - <span style="font-weight: 400;">Motivated by readings on their 
 <h4><b>Maximized efforts brings results</b></h4>
 <span style="font-weight: 400;"><a href="https://ihtusa.com/wp-content/uploads/2017/07/Portage3.jpg"><img class="alignright wp-image-5512 size-medium" src="https://ihtusa.com/wp-content/uploads/2017/07/Portage3-300x248.jpg" alt="Portage" width="300" height="248" /></a>Across the five PYFP measures (mile run, PACER, 90-degree push-up, sit-and-reach and curl-up) Dunlop assessed throughout the year, nearly half of the school’s 230 eighth graders achieved the healthy fitness zone standard in all of them. Another 19 students exceeded the standard in all five assessments.</span>
 
-<span style="font-weight: 400;">Those results didn’t happen overnight. Students wore the heart rate monitors in class and received feedback after each session in the form of easy-to-read heart rate reports sent via email. Parents also received the emailed reports. Dunlop regularly checked to make sure students are looking at – and understanding – the reports they received. </span>
+<span style="font-weight: 400;">Those results didn’t happen overnight. Students wore the heart rate monitors in class and received feedback after each session in the form of easy-to-read heart rate reports sent via email. Parents also received the emailed reports. Dunlop regularly checked to make sure students were looking at – and understanding – the reports they received. </span>
 
 <span style="font-weight: 400;">“The kids get it,” Dunlop said. “We give them assignments where they go to a Google form and answer questions that show they understand what they are reading in the reports they receive. That gives them a sense of what is really going on.”</span>
 
