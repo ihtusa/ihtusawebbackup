@@ -11,7 +11,7 @@ permalink: >
 published: true
 post_date: 2017-07-10 17:07:38
 ---
-July 10, 2017 - <span style="font-weight: 400;">Motivated by readings on their heart rate monitors, students at </span><a href="http://cms.portageps.org/"><span style="font-weight: 400;">Portage Central Middle School</span></a><span style="font-weight: 400;"> logged more than 10,000 hours of moderate to vigorous physical activity in the just-completed school year while improving their </span><a href="http://pyfp.org/"><span style="font-weight: 400;">Presidential Youth Fitness Program</span></a><span style="font-weight: 400;"> scores in several key areas. </span>
+July 10, 2017 - <span style="font-weight: 400;">Motivated by readings on their heart rate monitors, students at </span><a href="http://cms.portageps.org/"><span style="font-weight: 400;">Portage Central Middle School</span></a><span style="font-weight: 400;"> logged more than 6,000 hours of moderate to vigorous physical activity in the just-completed school year while improving their </span><a href="http://pyfp.org/"><span style="font-weight: 400;">Presidential Youth Fitness Program</span></a><span style="font-weight: 400;"> scores in several key areas. </span>
 
 <span style="font-weight: 400;"><a href="https://ihtusa.com/wp-content/uploads/2017/07/Portage4.jpg"><img class="alignleft wp-image-5511 size-medium" src="https://ihtusa.com/wp-content/uploads/2017/07/Portage4-300x181.jpg" alt="Portage" width="300" height="181" /></a>“Being able to see their heart rate takes their effort and motivation to another level,” said PCMS Athletic Coordinator John Dunlop. </span>
 
