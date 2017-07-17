@@ -4,57 +4,12 @@ post_title: >
   Maury River Middle adds IHT Spirit
   System to individualize PE for students
 author: IHT Spirit
-post_date: 2017-06-02 16:46:08
 post_excerpt: ""
 layout: post
 permalink: >
   https://ihtusa.com/maury-river-middle-adds-spirit-system/
 published: true
-sidebar:
-  - right
-avrghdftrcd_head_code:
-  - ""
-avrghdftrcd_footer_code:
-  - ""
-per-page-ath-content:
-  - ""
-rop_post_url_twitter:
-  - 'https://ihtusa.com/idea-schools-thrive-academically/?utm_source=ReviveOldPost&utm_medium=social&utm_campaign=ReviveOldPost'
-rop_post_url_facebook:
-  - 'https://ihtusa.com/idea-schools-thrive-academically/?utm_source=ReviveOldPost&utm_medium=social&utm_campaign=ReviveOldPost'
-ampforwp_custom_content_editor:
-  - ""
-ampforwp_custom_content_editor_checkbox:
-  - null
-ampforwp-amp-on-off:
-  - default
-instant_articles_force_submit:
-  - "1"
-instant_articles_submission_id:
-  - "338466489927032"
-apple_news_sections:
-  - 'a:0:{}'
-apple_news_is_preview:
-  - ""
-apple_news_is_sponsored:
-  - ""
-apple_news_pullquote:
-  - ""
-apple_news_pullquote_position:
-  - middle
-apple_news_coverart:
-  - 'a:1:{s:11:"orientation";s:9:"landscape";}'
-apple_news_api_id:
-  - 4c21602d-9a1e-4235-848b-047e8df4c381
-apple_news_api_created_at:
-  - 2017-06-16T22:59:29Z
-apple_news_api_modified_at:
-  - 2017-06-16T22:59:30Z
-apple_news_api_share_url:
-  - >
-    https://apple.news/ATCFgLZoeQjWEiwR-jfTDgQ
-apple_news_api_revision:
-  - AAAAAAAAAAD//////////w==
+post_date: 2017-06-02 16:46:08
 ---
 <span style="font-weight: 400;">June 2, 2017 - <a href="http://mrms.rockbridge.k12.va.us/" target="_blank" rel="noopener noreferrer">Maury River Middle School</a> (Lexington, Va.) aims to change the way Virginia schools engage students through physical education.</span>
 
@@ -64,7 +19,7 @@ apple_news_api_revision:
 <h4><b>Multiple funding sources</b></h4>
 <span style="font-weight: 400;">Maury River will have multiple sets of Zone monitors to use beginning this summer. <a href="http://www.rockbridge.k12.va.us/" target="_blank" rel="noopener noreferrer">Rockbridge County Schools</a> used a federal grant to buy a set of monitors to be used with a 21</span><span style="font-weight: 400;">st</span><span style="font-weight: 400;"> Century Community Learning Center Afterschool Program. Shortly after that purchase, the district’s Career and Technical Education program purchased a set for use during the school day in collaboration with the physical education department. Additional sets are being purchased for the physical education department with funds allocated directly by Dr. Phillip Thompson, the new school superintendent, and the local education foundation. </span>
 
-<span style="font-weight: 400;">“Through the use of the adidas Zone, our mobile App, student journaling and instant feedback, we are excited to partner with Maury River Middle School and help enhance their students’ overall educational experience both during their after-school program and in class when the new school year begins,” said Jen Ohlson, IHT’s founder and president. </span>
+<span style="font-weight: 400;">“Through the use of the adidas Zone, our mobile App [to be released in the fall], student journaling and instant feedback, we are excited to partner with Maury River Middle School and help enhance their students’ overall educational experience both during their after-school program and in class when the new school year begins,” said Jen Ohlson, IHT’s founder and president. </span>
 
 <span style="font-weight: 400;">The adidas ZONE monitors and the software are two primary components of the IHT Spirit System®, tools that help students learn to manage their own physical fitness and well-being and allow teachers a vehicle to objectively assess and grade each student on their actual performance during class.</span>
 
