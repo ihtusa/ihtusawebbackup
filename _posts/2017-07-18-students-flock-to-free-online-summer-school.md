@@ -35,5 +35,5 @@ St. Louis Post-Dispatch
 <p class="subscriber-only">Grandview’s online summer school has proven popular despite minimal advertising, officials say. Administrators hope to persuade Missouri to allow a statewide online school, administered by the district, during the school year.</p>
 <p class="subscriber-only">“We think there is a need for a year-round virtual school program in the state of Missouri,” Brown said.</p>
 Kristen Taketa is the K-12 education reporter for the St. Louis Post-Dispatch.
-<h4>How'd you find us?</h4>
+<h4>Ready for more information?</h4>
 <div class="author-box-avatar">[contact-form-7 id="463" title="Contact Us"]</div>
