@@ -15,7 +15,7 @@ Originally published June 17, 2017 in the <a href="https://www.irishtimes.com/ne
 
 Heading in for English, my first paper, and trying to calm myself until the paper came out.<!--more-->
 
-[caption id="attachment_5619" align="alignleft" width="300"]<a href="https://ihtusa.com/wp-content/uploads/2017/07/IrishTimes-capture-feature.jpg"><img class="size-medium wp-image-5619" src="https://ihtusa.com/wp-content/uploads/2017/07/IrishTimes-capture-feature-300x161.jpg" alt="PE" width="300" height="161" /></a> Photo: Dan Sheridan / Inpho[/caption]
+[caption id="attachment_5619" align="alignright" width="300"]<a href="https://ihtusa.com/wp-content/uploads/2017/07/IrishTimes-capture-feature.jpg"><img class="size-medium wp-image-5619" src="https://ihtusa.com/wp-content/uploads/2017/07/IrishTimes-capture-feature-300x161.jpg" alt="PE" width="300" height="161" /></a> Photo: Dan Sheridan / Inpho[/caption]
 
 <strong>Who was your most influential teacher and why?</strong>
 
