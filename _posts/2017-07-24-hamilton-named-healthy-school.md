@@ -30,3 +30,5 @@ The members talked about the new start and end times for both schools and decide
 The school board did not get the chance to discuss some of the items on the agenda due to Superintendent Rex Mitchell and Chairman Johnny Bullard being in Tallahassee. There will be a special meeting on July 24 at 4 p.m.
 <h4>Ready for more information?</h4>
 [contact-form-7 id="463" title="Contact Us"]
+
+[turbo_widget widget-prefix=pw_call_to_action&obj-class=PW_Call_To_Action&widget-pw_call_to_action--text=%5Bbutton+href%3D%22ihtusa.com%2Fzone%22%5Dadidas+Zone+for+IHT+Spirit+Demo%5B%2Fbutton%5D&widget-pw_call_to_action--button_text=]
