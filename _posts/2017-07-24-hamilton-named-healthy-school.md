@@ -28,5 +28,5 @@ The Florida Coordinated School Health Partnership (CSH) is a program which helps
 The members talked about the new start and end times for both schools and decided on starting at 8 a.m. to 3:01 p.m. for Hamilton County High School and starting at 8:10 a.m. to 3:10 p.m. for Hamilton County Elementary School.
 
 The school board did not get the chance to discuss some of the items on the agenda due to Superintendent Rex Mitchell and Chairman Johnny Bullard being in Tallahassee. There will be a special meeting on July 24 at 4 p.m.
-
-&nbsp;
+<h4>Ready for more information?</h4>
+[contact-form-7 id="463" title="Contact Us"]
