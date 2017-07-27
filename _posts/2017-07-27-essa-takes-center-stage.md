@@ -11,7 +11,7 @@ permalink: >
 published: true
 post_date: 2017-07-27 06:53:27
 ---
-<span style="font-weight: 400;">July 27, 2017 - A new era begins next month as the U.S. Department of Education focuses on a more well-rounded approach to student development under the Every Student Succeeds Act. Education leaders are keeping an eye on Washington, D.C. while the DoE works to approve each state’s plan for the first year under ESSA. </span>
+<span style="font-weight: 400;">July 27, 2017 - A new era begins next month as the U.S. Department of Education focuses on a more well-rounded approach to student development under the Every Student Succeeds Act. </span>
 
 <span style="font-weight: 400;">ESSA becomes the nation’s public education standard with the arrival of the 2017-18 school year. Educators have one eye trained on ESSA’s implementation, the other on Congress as it deliberates over the DoE’s 2017-28 budget. </span>
 
