@@ -8,7 +8,8 @@ permalink: https://ihtusa.com/pe-blog-news/
 published: true
 post_date: 2016-05-10 13:16:49
 ---
-<h2>PE Blog</h2>
+PE Blog | Physical Education News
+
 [wp_blog_designer id="1"]
 
 &nbsp;
@@ -16,7 +17,4 @@ post_date: 2016-05-10 13:16:49
 &nbsp;
 
 FITNESSGRAM® and Healthy Fitness Zone® are brand names and are trademarked by The Cooper Institute®, Dallas, Texas.
-
-PE Blog | Physical Education News
-
-PE Blog - Physical Education News
+<h2>PE Blog - Physical Education News</h2>
