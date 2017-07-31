@@ -9,8 +9,6 @@ published: true
 post_date: 2016-05-10 13:16:49
 ---
 <h2>PE Blog</h2>
-PE Blog - Physical Education News
-<h2></h2>
 [wp_blog_designer id="1"]
 
 &nbsp;
@@ -19,4 +17,6 @@ PE Blog - Physical Education News
 
 FITNESSGRAM® and Healthy Fitness Zone® are brand names and are trademarked by The Cooper Institute®, Dallas, Texas.
 
-&lt;p&gt;PE Blog | Physical Education News&lt;/p&gt;
+PE Blog | Physical Education News
+
+PE Blog - Physical Education News
