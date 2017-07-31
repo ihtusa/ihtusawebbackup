@@ -8,7 +8,7 @@ permalink: https://ihtusa.com/blog-and-news/
 published: true
 post_date: 2016-05-10 13:16:49
 ---
-<p>PE Blog | IHT Spirit System News</p>
+<p><h2>PE Blog | IHT Spirit System News</h2></p>
 [wp_blog_designer id="1"]
 
 &nbsp;
