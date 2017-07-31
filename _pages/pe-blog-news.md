@@ -4,7 +4,7 @@ post_title: PE Blog | IHT Spirit System News
 author: Brandon Stephens
 post_excerpt: ""
 layout: page
-permalink: https://ihtusa.com/blog-and-news/
+permalink: https://ihtusa.com/pe-blog-news/
 published: true
 post_date: 2016-05-10 13:16:49
 ---
@@ -18,3 +18,5 @@ PE Blog - Physical Education News
 &nbsp;
 
 FITNESSGRAM® and Healthy Fitness Zone® are brand names and are trademarked by The Cooper Institute®, Dallas, Texas.
+
+&lt;p&gt;PE Blog | Physical Education News&lt;/p&gt;
