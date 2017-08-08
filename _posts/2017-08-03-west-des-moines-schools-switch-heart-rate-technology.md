@@ -11,8 +11,6 @@ permalink: >
 published: true
 post_date: 2017-08-03 16:20:17
 ---
-&nbsp;
-
 <em><span style="font-weight: 400;">“This is what we need to do to help students be healthy and fit for life. If we don’t provide the necessary tools, we are doing the students a disservice.”</span></em>
 
 <span style="font-weight: 400;">Aug. 3, 2017 - Two years ago, Brian Rhoads implemented a pilot program to study heart rate in his physical education classes at Valley Southwoods Freshman High School (West Des Moines, Iowa). The program continues this school year district-wide in all 13 of </span><a href="http://www.wdmcs.org/"><span style="font-weight: 400;">West Des Moines</span></a><span style="font-weight: 400;">’ campuses but with IHT Spirit System equipment.</span>
