@@ -16,7 +16,7 @@ post_date: 2017-08-08 09:07:51
 
 Aug. 3, 2017 - Two years ago, Brian Rhoads implemented a pilot program to study heart rate in his physical education classes at Valley Southwoods Freshman High School (West Des Moines, Iowa). The program continues this school year district-wide in all 13 of <a href="http://www.wdmcs.org/" target="_blank" rel="noopener">West Des Moines</a>’ campuses but with IHT Spirit System equipment.
 
-“We piloted a program using [a heart rate technology company's] chest strap monitors in our 9th grade building,” Rhoads said. “The next year we tried out their wrist monitors, but they weren’t multi-user friendly in a school of 700 students.”
+“We piloted a program using [a heart rate technology company's] chest strap monitors in our 9th grade building,” Rhoads said. “The next year we tried out [the same company's] wrist monitors, but they weren’t multi-user friendly in a school of 700 students.”
 
 To meet the needs of their innovative program, Rhoads used research and analysis to convince West Des Moines' leadership to switch to the IHT Spirit System, complete with assessment software, to be used throughout the district. As the new K-12 PE Curriculum Leader for the district, Rhoads saw a better fit for the district's needs: the <a href="https://ihtusa.com/zone/" target="_blank" rel="noopener">adidas ZONE for IHT Spirit</a> wrist heart rate monitors and the <a href="https://ihtusa.com/spirit-system/assessment-software/" target="_blank" rel="noopener">IHT Spirit Assessment Measures software.</a> He estimates that 7,500 students will use the heart rate monitors this year.
 
