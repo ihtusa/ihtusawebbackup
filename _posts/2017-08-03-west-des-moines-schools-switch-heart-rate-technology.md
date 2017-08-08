@@ -1,8 +1,9 @@
 ---
 ID: 5781
 post_title: >
-  After just two years, West Des Moines
-  schools switch heart rate technology
+  After two years, West Des Moines schools
+  switch to IHT Spirit heart rate
+  technology
 author: IHT Spirit
 post_excerpt: ""
 layout: post
