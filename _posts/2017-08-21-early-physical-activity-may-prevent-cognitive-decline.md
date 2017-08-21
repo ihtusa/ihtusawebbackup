@@ -7,7 +7,7 @@ author: IHT Spirit
 post_excerpt: ""
 layout: post
 permalink: >
-  https://ihtusa.com/early-life-physical-activity-may-prevent-cognitive-decline/
+  https://ihtusa.com/early-physical-activity-may-prevent-cognitive-decline/
 published: true
 post_date: 2017-08-21 11:14:01
 ---
