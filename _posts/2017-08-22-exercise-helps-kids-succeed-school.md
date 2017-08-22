@@ -17,7 +17,7 @@ The benefits of exercise have long been shared and addressed as a means to self-
 
 Exercise has profound effects on the brain. Physical exercise turns on our brains, leaves us more fit and turns us into better learners. Recent research reveals improved benefits to students’ learning cognition, attention span, and memory.<!--more-->
 
-[caption id="attachment_5833" align="alignleft" width="300"]<a href="https://ihtusa.com/wp-content/uploads/2017/08/8-22share1feature.jpg"><img class="size-medium wp-image-5833" src="https://ihtusa.com/wp-content/uploads/2017/08/8-22share1feature-300x161.jpg" alt="" width="300" height="161" /></a> Healthy[/caption]
+<a href="https://ihtusa.com/wp-content/uploads/2017/08/8-22share1feature.jpg"><img class="alignleft wp-image-5833 size-medium" src="https://ihtusa.com/wp-content/uploads/2017/08/8-22share1feature-300x161.jpg" alt="Exercise" width="300" height="161" /></a>
 
 Exercise helps students regulate emotions, like depression, anxiety, and aggression. It can also help students excel academically and improve self-concept and motivation.
 
@@ -54,3 +54,7 @@ Suggestions:
 7) Be a role model for active behavior. Children learn behaviors from adults.
 
 <em>Marc Bauer is an assistant professor, COE, Kinesiology Sports Science, at the University of Nebraska at Kearney.</em>
+<h4>Seeking IHT Spirit System information?</h4>
+[contact-form-7 id="463" title="Contact Us"]
+
+[turbo_widget widget-prefix=pw_call_to_action&obj-class=PW_Call_To_Action&widget-pw_call_to_action--text=%5Bbutton+href%3D%22ihtusa.com%2Fzone%22%5Dadidas+Zone+for+IHT+Spirit+Demo%5B%2Fbutton%5D&widget-pw_call_to_action--button_text=]
