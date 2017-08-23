@@ -14,11 +14,9 @@ post_date: 2016-10-27 11:30:13
 <h3 style="text-align: center;">Downloadable Resources from IHT Spirit</h3>
 </div>
 </div>
-&nbsp;
+[turbo_widget widget-prefix=sow-button&obj-class=SiteOrigin_Widget_Button_Widget&widget-sow-button-1-text=Click+Here+To+Download+IHT's+Free+EBOOK&amp;=1503518181392&widget-sow-button-1-url=https%3A%2F%2Fdrive.google.com%2Ffile%2Fd%2F0B8e5BMmP2zcDZWo3TmRQbk9ObmM%2Fview&widget-sow-button-1-new_window=true&widget-sow-button-1-button_icon-icon_color-1=%23dd9933&widget-sow-button-1-button_icon-so_field_container_state=open&widget-sow-button-1-design-width-1=400&widget-sow-button-1-design-align-1=center&widget-sow-button-1-design-theme-1=atom&widget-sow-button-1-design-button_color-1=%23dd9933&widget-sow-button-1-design-text_color-1=&widget-sow-button-1-design-hover-1=true&widget-sow-button-1-design-font-1=default&widget-sow-button-1-design-font_size-1=1&widget-sow-button-1-design-rounding-1=0.25&widget-sow-button-1-design-padding-1=1&widget-sow-button-1-design-so_field_container_state=open&widget-sow-button-1-attributes-id-1=&widget-sow-button-1-attributes-classes-1=&widget-sow-button-1-attributes-title-1=&widget-sow-button-1-attributes-onclick-1=&widget-sow-button-1-attributes-rel-1=&widget-sow-button-1-attributes-so_field_container_state=open]
 
 &nbsp;
-
-Click To Download<a href="https://drive.google.com/file/d/0B8e5BMmP2zcDZWo3TmRQbk9ObmM/view">IHT Spirit 8-page Catalog</a>
 
 &nbsp;
 <div>
