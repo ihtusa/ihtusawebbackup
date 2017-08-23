@@ -9,9 +9,10 @@ permalink: >
 published: true
 post_date: 2017-08-23 13:26:45
 ---
-Originally published Aug. 8 in the <a href="http://www.sltrib.com/opinion/commentary/2017/08/20/commentary-utah-students-and-teachers-need-real-middle-school-health-pe-and-art/" target="_blank" rel="noopener">Salt Lake Tribune</a>.
-<div class="author-name georgia">By Tim Pettus</div>
-<div>
+<p style="text-align: left;">Originally published Aug. 8 in the <a href="http://www.sltrib.com/opinion/commentary/2017/08/20/commentary-utah-students-and-teachers-need-real-middle-school-health-pe-and-art/" target="_blank" rel="noopener">Salt Lake Tribune</a>.</p>
+
+<div class="author-name georgia" style="text-align: left;">By Tim Pettus</div>
+<div style="text-align: left;">
 <div class="row paragraph-row">
 <p class="col-md-8 col-md-offset-2 col-sm-12 col-xs-12 col-print-12" style="text-align: left;">During an interview on KSL radio August 8, <a href="https://www.schools.utah.gov/" target="_blank" rel="noopener">Utah State Board of Education</a> member Linda Hansen stated, “instead of having a separate class for PE, they may integrate health/PE type issues into other classes that they have.”</p>
 <p class="col-md-8 col-md-offset-2 col-sm-12 col-xs-12 col-print-12" style="text-align: left;">Is Hansen implying that overworked classroom teachers will happily take on more work and teach a subject they did not study in college, are not qualified to teach, and most likely don’t want to teach?</p>
@@ -21,7 +22,7 @@ Originally published Aug. 8 in the <a href="http://www.sltrib.com/opinion/commen
 <p class="element element-paragraph text-align-override-left"><!--more--></p>
 
 
-[caption id="attachment_5835" align="alignleft" width="300"]<a href="https://ihtusa.com/wp-content/uploads/2017/08/Utah-boe-Hansen-feature.jpg"><img class="wp-image-5835 size-medium" src="https://ihtusa.com/wp-content/uploads/2017/08/Utah-boe-Hansen-feature-300x161.jpg" alt="teacher" width="300" height="161" /></a> 2016 photo by Rick Bowmer published in the Utah Standard-Examiner.[/caption]
+[caption id="attachment_5835" align="alignleft" width="300"]<a href="https://ihtusa.com/wp-content/uploads/2017/08/Utah-boe-Hansen-feature.jpg"><img class="size-medium wp-image-5835" src="https://ihtusa.com/wp-content/uploads/2017/08/Utah-boe-Hansen-feature-300x161.jpg" alt="teacher" width="300" height="161" /></a> 2016 photo by Rick Bowmer published in the Utah Standard-Examiner.[/caption]
 
 The high teacher burnout rate in Utah has been well documented recently. A few districts are giving substantial raises, a good first step to reverse the burnout trend, but let’s also focus on teacher workload. The math, science, and English teachers are busy enough correcting papers and planning lessons. They don’t need a health, PE, or art lesson added to their already overloaded plate.
 
@@ -41,7 +42,6 @@ Hopefully, our schools will make the right choice and continue to hire qualified
 <em>Tim Pettus holds a Master of Arts in Teaching Physical Education (Winthrop University).  He is starting his 12<sup>th</sup> year as an Elementary Physical Education Teacher at The Waterford School, Sandy, UT.</em>
 
 </div>
-<h4>Seeking IHT Spirit System information?</h4>
-[contact-form-7 id="463" title="Contact Us"]
-
+<h4 style="text-align: left;">Seeking IHT Spirit System information?</h4>
+<p style="text-align: left;">[contact-form-7 id="463" title="Contact Us"]</p>
 [turbo_widget widget-prefix=pw_call_to_action&obj-class=PW_Call_To_Action&widget-pw_call_to_action--text=%5Bbutton+href%3D%22ihtusa.com%2Fzone%22%5Dadidas+Zone+for+IHT+Spirit+Demo%5B%2Fbutton%5D&widget-pw_call_to_action--button_text=]
