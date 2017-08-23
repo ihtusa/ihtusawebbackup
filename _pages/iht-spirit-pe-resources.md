@@ -2,40 +2,12 @@
 ID: 2709
 post_title: adidas Lesson Resources
 author: Jack Hoover
-post_date: 2016-10-27 11:30:13
 post_excerpt: ""
 layout: page
 permalink: >
   https://ihtusa.com/iht-spirit-pe-resources/
 published: true
-subtitle:
-  - 'Worksheet and Lessons from adidas '
-background_image:
-  - ""
-background_image_horizontal_position:
-  - center
-background_image_vertical_position:
-  - center
-background_image_repeat:
-  - repeat
-background_image_attachment:
-  - scroll
-background_color:
-  - ""
-sidebar:
-  - right
-avrghdftrcd_head_code:
-  - ""
-avrghdftrcd_footer_code:
-  - ""
-per-page-ath-content:
-  - ""
-ampforwp-amp-on-off:
-  - default
-ampforwp_custom_content_editor:
-  - ""
-ampforwp_custom_content_editor_checkbox:
-  - null
+post_date: 2016-10-27 11:30:13
 ---
 <div>
 <div>
@@ -46,7 +18,7 @@ ampforwp_custom_content_editor_checkbox:
 
 &nbsp;
 
-Click To Download -&gt; <a href="https://ihtusa.com/wp-content/uploads/2016/10/8-page-catalog-LR.pdf">IHT Spirit 8-page Catalog[su_document url="https://ihtusa.com/wp-content/uploads/2016/10/8-page-catalog-LR.pdf"]</a>
+Click To Download<a href="https://drive.google.com/file/d/0B8e5BMmP2zcDZWo3TmRQbk9ObmM/view">IHT Spirit 8-page Catalog</a>
 
 &nbsp;
 <div>
