@@ -9,20 +9,20 @@ permalink: >
 published: true
 post_date: 2016-10-27 11:30:13
 ---
-<div id="pl-2709"  class="panel-layout" ><div id="pg-2709-0"  class="panel-grid panel-no-style" ><div id="pgc-2709-0-0"  class="panel-grid-cell"  data-weight="1" ><div id="panel-2709-0-0-0" class="so-panel widget widget_sow-image panel-first-child" data-index="0" data-style="{&quot;background_image_attachment&quot;:false,&quot;background_display&quot;:&quot;tile&quot;,&quot;featured_widgets&quot;:&quot;&quot;,&quot;bigger_title&quot;:&quot;&quot;}" ><div class="so-widget-sow-image so-widget-sow-image-default-eef982a7180b">
-
-<div class="sow-image-container">
-<a href="https://drive.google.com/file/d/0B8e5BMmP2zcDZWo3TmRQbk9ObmM/view" target="_blank" >	<img src="https://ihtusa.com/wp-content/uploads/2016/10/Catalog-Cover.png" width="796" height="1232" srcset="https://ihtusa.com/wp-content/uploads/2016/10/Catalog-Cover.png 796w, https://ihtusa.com/wp-content/uploads/2016/10/Catalog-Cover-194x300.png 194w, https://ihtusa.com/wp-content/uploads/2016/10/Catalog-Cover-768x1189.png 768w, https://ihtusa.com/wp-content/uploads/2016/10/Catalog-Cover-662x1024.png 662w" sizes="(max-width: 796px) 100vw, 796px" title="Catalog Cover" 		class="so-widget-image"/>
-</a></div>
-
-</div></div><div id="panel-2709-0-0-1" class="so-panel widget widget_sow-button panel-last-child" data-index="1" data-style="{&quot;background_image_attachment&quot;:false,&quot;background_display&quot;:&quot;tile&quot;,&quot;featured_widgets&quot;:&quot;&quot;,&quot;bigger_title&quot;:&quot;&quot;}" ><div class="so-widget-sow-button so-widget-sow-button-atom-f65ebfc7e7d0"><div class="ow-button-base ow-button-align-center">
+<div id="pl-2709"  class="panel-layout" ><div id="pg-2709-0"  class="panel-grid panel-no-style" ><div id="pgc-2709-0-0"  class="panel-grid-cell"  data-weight="1" ><div id="panel-2709-0-0-0" class="so-panel widget widget_sow-button panel-first-child" data-index="0" data-style="{&quot;background_display&quot;:&quot;tile&quot;,&quot;featured_widgets&quot;:&quot;&quot;,&quot;bigger_title&quot;:&quot;&quot;}" ><div class="so-widget-sow-button so-widget-sow-button-atom-f65ebfc7e7d0"><div class="ow-button-base ow-button-align-center">
 	<a href="https://drive.google.com/file/d/0B8e5BMmP2zcDZWo3TmRQbk9ObmM/view" class=" ow-button-hover" target="_blank" >
 		<span>
 			<span class="sow-icon-fontawesome" data-sow-icon="&#xf0ed;" ></span>
 			Click To Download IHT's Free EBook		</span>
 	</a>
 </div>
-</div></div></div></div><div id="pg-2709-1"  class="panel-grid panel-no-style"  data-style="{&quot;background_image_attachment&quot;:false,&quot;background_display&quot;:&quot;tile&quot;,&quot;cell_alignment&quot;:&quot;flex-start&quot;}" ><div id="pgc-2709-1-0"  class="panel-grid-cell"  data-weight="1" ><div id="panel-2709-1-0-0" class="so-panel widget widget_sow-editor panel-first-child panel-last-child" data-index="2" data-style="{&quot;background_image_attachment&quot;:false,&quot;background_display&quot;:&quot;tile&quot;,&quot;featured_widgets&quot;:&quot;&quot;,&quot;bigger_title&quot;:&quot;&quot;}" ><div class="so-widget-sow-editor so-widget-sow-editor-base">
+</div></div><div id="panel-2709-0-0-1" class="so-panel widget widget_sow-image panel-last-child" data-index="1" data-style="{&quot;background_image_attachment&quot;:false,&quot;background_display&quot;:&quot;tile&quot;,&quot;featured_widgets&quot;:&quot;&quot;,&quot;bigger_title&quot;:&quot;&quot;}" ><div class="so-widget-sow-image so-widget-sow-image-default-eef982a7180b">
+
+<div class="sow-image-container">
+<a href="https://drive.google.com/file/d/0B8e5BMmP2zcDZWo3TmRQbk9ObmM/view" target="_blank" >	<img src="https://ihtusa.com/wp-content/uploads/2016/10/Catalog-Cover-662x1024.png" width="662" height="1024" srcset="https://ihtusa.com/wp-content/uploads/2016/10/Catalog-Cover-662x1024.png 662w, https://ihtusa.com/wp-content/uploads/2016/10/Catalog-Cover-194x300.png 194w, https://ihtusa.com/wp-content/uploads/2016/10/Catalog-Cover-768x1189.png 768w, https://ihtusa.com/wp-content/uploads/2016/10/Catalog-Cover.png 796w" sizes="(max-width: 662px) 100vw, 662px" title="Catalog Cover" 		class="so-widget-image"/>
+</a></div>
+
+</div></div></div></div><div id="pg-2709-1"  class="panel-grid panel-no-style"  data-style="{&quot;background_display&quot;:&quot;tile&quot;,&quot;cell_alignment&quot;:&quot;flex-start&quot;}" ><div id="pgc-2709-1-0"  class="panel-grid-cell"  data-weight="1" ><div id="panel-2709-1-0-0" class="so-panel widget widget_sow-editor panel-first-child panel-last-child" data-index="2" data-style="{&quot;background_display&quot;:&quot;tile&quot;,&quot;featured_widgets&quot;:&quot;&quot;,&quot;bigger_title&quot;:&quot;&quot;}" ><div class="so-widget-sow-editor so-widget-sow-editor-base">
 <div class="siteorigin-widget-tinymce textwidget">
 	<div> </div>
 <p> </p>
