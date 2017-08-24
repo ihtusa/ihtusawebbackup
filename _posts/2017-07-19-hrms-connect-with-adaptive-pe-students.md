@@ -11,7 +11,7 @@ permalink: >
 published: true
 post_date: 2017-07-19 12:55:34
 ---
-Testing July 19, 2017 - <span style="font-weight: 400;">A teacher’s unique use of heart rate monitors helped Ann Arbor, Mich., adaptive physical education students learn to manage their health during the school day.</span>
+July 19, 2017 - <span style="font-weight: 400;">A teacher’s unique use of heart rate monitors helped Ann Arbor, Mich., adaptive physical education students learn to manage their health during the school day.</span>
 
 [caption id="attachment_5609" align="alignright" width="300"]<a href="https://ihtusa.com/wp-content/uploads/2017/07/Deak-photo.jpg"><img class="size-medium wp-image-5609" src="https://ihtusa.com/wp-content/uploads/2017/07/Deak-photo-300x262.jpg" alt="adaptive" width="300" height="262" /></a> Deak Swearingen (right) with colleague Gloria O'Neill.[/caption]
 
