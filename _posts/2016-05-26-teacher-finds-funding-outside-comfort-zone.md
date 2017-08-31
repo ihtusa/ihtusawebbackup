@@ -4,42 +4,12 @@ post_title: >
   Teacher steps out of comfort zone to
   find funding for adidas Zone monitors
 author: IHT Spirit
-post_date: 2016-05-26 11:12:44
 post_excerpt: ""
 layout: post
 permalink: >
   https://ihtusa.com/teacher-finds-funding-outside-comfort-zone/
 published: true
-sidebar:
-  - right
-rop_post_url_facebook:
-  - 'https://ihtusa.com/teacher-finds-funding-outside-comfort-zone/?utm_source=ReviveOldPost&utm_medium=social&utm_campaign=ReviveOldPost'
-rop_post_url_twitter:
-  - 'https://ihtusa.com/teacher-finds-funding-outside-comfort-zone/?utm_source=ReviveOldPost&utm_medium=social&utm_campaign=ReviveOldPost'
-avrghdftrcd_head_code:
-  - ""
-avrghdftrcd_footer_code:
-  - ""
-apple_news_sections:
-  - 'a:0:{}'
-apple_news_is_preview:
-  - ""
-apple_news_is_sponsored:
-  - ""
-apple_news_pullquote:
-  - ""
-apple_news_pullquote_position:
-  - middle
-apple_news_coverart:
-  - 'a:1:{s:11:"orientation";s:9:"landscape";}'
-ampforwp_custom_content_editor:
-  - ""
-ampforwp_custom_content_editor_checkbox:
-  - ""
-ampforwp-amp-on-off:
-  - default
-instant_articles_submission_id:
-  - "274017656405285"
+post_date: 2016-05-26 11:12:44
 ---
 <article>Thurs, 26 May 2016</article><article>Ben Hemberger routinely talks to his physical education students at <a href="http://www.fosston.k12.mn.us/" target="_blank" rel="noopener noreferrer">Fosston (Minn.) High School</a> about getting outside of their comfort zones.“Sometimes if you want to see progress, you need to do things you may not be used to or comfortable doing,” he said.<!--more-->
 <a href="https://ihtusa.com/wp-content/uploads/2016/05/ben.jpg"><img class="alignleft wp-image-1950 size-medium" src="https://ihtusa.com/wp-content/uploads/2016/05/ben-300x300.jpg" alt="comfort" width="300" height="300" /></a>To make sure his students have access to IHT's newest technology, the <a href="https://ihtusa.com/zone/" target="_blank" rel="noopener noreferrer">adidas Zone for IHT Spirit</a>, Hemberger took his own advice. While he’s used to speaking in front of groups, he’s decidedly less comfortable asking for money. Yet that’s exactly where he found himself earlier this month, speaking to two Fosston civic organizations about the <a href="https://ihtusa.com/spirit-system/" target="_blank" rel="noopener noreferrer">IHT Spirit System</a>. Hemberger appeared in search of the remaining funds to purchase a class set of the new Zone wrist-worn heart rate monitors.
