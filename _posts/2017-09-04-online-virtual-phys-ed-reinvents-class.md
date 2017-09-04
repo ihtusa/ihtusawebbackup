@@ -42,9 +42,11 @@ Scott worked as a PE coach in schools across the state before coming to work at 
 
 South Carolina isn't the only state where virtual PE has gained popularity in the last decade.
 
-In a <a href="http://scholarcommons.usf.edu/cgi/viewcontent.cgi?article=6158&amp;context=etd" target="_blank" rel="noopener">2013 graduate thesis</a> completed at the University of South Florida, Leslie Michelle Williams acknowledged skepticism about the idea within the teaching profession but found that virtual PE "has been a viable option for some teachers in the U.S. and Canada.""This is becoming part of the new look of 21st-century physical education," Williams wrote.
+In a <a href="http://scholarcommons.usf.edu/cgi/viewcontent.cgi?article=6158&amp;context=etd" target="_blank" rel="noopener">2013 graduate thesis</a> completed at the University of South Florida, Leslie Michelle Williams acknowledged skepticism about the idea within the teaching profession but found that virtual PE "has been a viable option for some teachers in the U.S. and Canada."
 
 "This is becoming part of the new look of 21st-century physical education," Williams wrote.
+
+&nbsp;
 
 In a review of existing research, Williams found that some virtual PE students "prefer not to dress out at school and participate in physical activities around their peers." Other students were high achievers getting their PE requirement out of the way at home to free up time in their school schedule for more Advanced Placement and college-credit courses.
 
