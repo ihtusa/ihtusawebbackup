@@ -6,7 +6,8 @@ post_title: >
 author: IHT Spirit
 post_excerpt: ""
 layout: post
-permalink: https://ihtusa.com/5913-2/
+permalink: >
+  https://ihtusa.com/students-awarded-pe-achievements/
 published: true
 post_date: 2017-09-08 10:28:15
 ---
