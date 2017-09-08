@@ -25,7 +25,7 @@ While the classes are physically rigorous, often looking and sounding like an ad
 
 <a href="https://ihtusa.com/wp-content/uploads/2017/09/Atlanta-image.jpg"><img class="alignright wp-image-5914" src="https://ihtusa.com/wp-content/uploads/2017/09/Atlanta-image-300x161.jpg" alt="" width="450" height="241" /></a>For the third consecutive year, the school earned the Platinum Georgia Shape Award from Governor Nathan Deal's office. Principal Dr. John Waller says the award proves students and teachers strive far beyond general school PE guidelines, <span class="vm-hook-outer vm-hook-default"><span class="vm-hook">working</span></span> in and out of the gym to fight childhood obesity.
 
-“Our students rotate through PE twice a week and in some cases and that's actually more than they would then they would get for music or art. We also know that physical activity stimulates the brain and it helps kids to concentrate on the academics, so what’s happening in that gym is really important,” Dr. Waller told FOX ’5 Portia Bruner.
+“Our students rotate through PE twice a week and in some cases and that's actually more than they would get for music or art. We also know that physical activity stimulates the brain and it helps kids to concentrate on the academics, so what’s happening in that gym is really important,” Dr. Waller told FOX ’5 Portia Bruner.
 
 Coach Julie leads “Power Up for 30," which is an optional warm up class before the school day even begins and there's plenty to do after school.
 
