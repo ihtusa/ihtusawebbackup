@@ -11,7 +11,7 @@ permalink: >
 published: true
 post_date: 2017-09-12 23:51:17
 ---
-Sept. 13, 2017 - <span style="font-weight: 400;">By pairing a daily goal with new heart rate technology, students at <a href="http://www.oabcig.org/" target="_blank" rel="noopener">Battle Creek Ida Grove High School</a> (Ida Grove, Iowa) proved they can take ownership of their own fitness programs.</span>
+Sept. 13, 2017 - <span style="font-weight: 400;">By pairing a daily goal with new heart rate technology, students at <a href="http://www.oabcig.org/" target="_blank" rel="noopener">Odebolt Arthur Battle Creek Ida Grove High School</a> (Ida Grove, Iowa) proved they can take ownership of their own fitness programs.</span>
 
 <span style="font-weight: 400;">Students in Jeff Miesner’s physical education classes began using the adidas <a href="http://ihtusa.com/zone" target="_blank" rel="noopener">ZONE </a>for IHT Spirit wrist heart rate monitors in October, 2016. At the start, students participated in workouts Miesner developed. Months later, the teacher felt comfortable stepping back, observing and encouraging students as they worked toward each day’s goal of minutes of Moderate to Vigorous Physical Activity. </span><!--more-->
 <h4><b>Goal-driven students</b></h4>
