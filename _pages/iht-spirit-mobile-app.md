@@ -5,7 +5,7 @@ author: IHT Spirit
 post_excerpt: ""
 layout: page
 permalink: >
-  https://ihtusa.com/who-we-serve/distance-learning/iht-spirit-mobile-app/
+  https://ihtusa.com/iht-spirit-mobile-app/
 published: true
 post_date: 2017-09-19 00:00:51
 ---
