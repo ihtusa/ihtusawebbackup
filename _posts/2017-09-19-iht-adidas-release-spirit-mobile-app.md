@@ -22,7 +22,7 @@ post_date: 2017-09-19 00:00:12
 
 <span style="font-weight: 400;">IHT and adidas partnered to develop the adidas ZONE for IHT Spirit wrist heart rate monitor, which made its debut in schools in the 2016-17 school year. By capturing student heart rate data with the adidas ZONE and analyzing that data, the IHT Spirit System® Assessment Software provides students with a report of each individual workout, connecting them with vital information that can help them develop the intrinsic exercise habits that serve them beyond graduation.</span>
 
-<span style="font-weight: 400;">The IHT Spirit Mobile App is a free download available in both the <a href="https://itunes.apple.com/us/app/iht-spirit/id1253349313?mt=8" target="_blank" rel="noopener">iOS APP</a> store and the <a href="https://play.google.com/store/apps/details?id=com.adidas.iht" target="_blank" rel="noopener">Google Play</a> store. </span>
+<span style="font-weight: 400;">The IHT Spirit Mobile App is a free download available in both the <a href="https://itunes.apple.com/us/app/iht-spirit/id1253349313?mt=8" target="_blank" rel="noopener">iOS APP</a> store and the <a href="https://play.google.com/store/apps/details?id=com.ihtusa.ihtspirit" target="_blank" rel="noopener">Google Play</a> store. </span>
 
 <b>About IHT</b>
 
