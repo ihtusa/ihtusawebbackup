@@ -12,7 +12,7 @@ permalink: >
 published: true
 post_date: 2017-09-19 00:00:46
 ---
-<span style="font-weight: 400;">On </span>Tuesday, Sept. 19<span style="font-weight: 400;">, IHT released its newest tool to further personalize physical education for every student: the IHT Spirit Mobile App.</span>
+<span style="font-weight: 400;">On </span>Tuesday, Sept. 19<span style="font-weight: 400;">, 2017, IHT released its newest tool to further personalize physical education for every student: the IHT Spirit Mobile App.</span>
 
 <span style="font-weight: 400;">The new mobile app, available as a free download through the Google Play and iOS App stores, enables users to take part in physical education classes and workouts connected to the <a href="http://ihtusa.com/spirit-system">IHT Spirit System®</a> outside of the traditional school day and classroom. By controlling their adidas Zone for IHT Spirit wrist heart rate monitors on their mobile phones, students connect back to classroom workouts or track workouts they design themselves.  </span>
 
@@ -52,7 +52,7 @@ post_date: 2017-09-19 00:00:46
 </ul>
 <span style="font-weight: 400;">Through easy engagement, students start their exercise with instruction and motivation and end it with a social and emotional query, journaling and progress tracking throughout the year as they develop habits to transform their fitness life.</span>
 
-<span style="font-weight: 400;">More information on the IHT Spirit Mobile App, including links to download from the <a href="https://itunes.apple.com/us/app/iht-spirit/id1253349313?mt=8" target="_blank" rel="noopener">Apple </a>and <a href="https://play.google.com/store/apps/details?id=com.adidas.iht" target="_blank" rel="noopener">Google Play</a> stores, can be found at </span><a href="http://www.ihtusa.com/mobile-app"><span style="font-weight: 400;">www.ihtusa.com/mobile-app</span></a><span style="font-weight: 400;">. The adidas Zone heart rate monitor and other Spirit System components, including a kit for personal student use, can be purchased at </span><a href="https://shop.ihtusa.com/"><span style="font-weight: 400;">shop.ihtusa.com</span></a><span style="font-weight: 400;">.</span>
+<span style="font-weight: 400;">More information on the IHT Spirit Mobile App, including links to download from the <a href="https://itunes.apple.com/us/app/iht-spirit/id1253349313?mt=8" target="_blank" rel="noopener">Apple </a>and <a href="https://play.google.com/store/apps/details?id=com.ihtusa.ihtspirit" target="_blank" rel="noopener">Google Play</a> stores, can be found at </span><a href="http://www.ihtusa.com/mobile-app"><span style="font-weight: 400;">www.ihtusa.com/mobile-app</span></a><span style="font-weight: 400;">. The adidas Zone heart rate monitor and other Spirit System components, including a kit for personal student use, can be purchased at </span><a href="https://shop.ihtusa.com/"><span style="font-weight: 400;">shop.ihtusa.com</span></a><span style="font-weight: 400;">.</span>
 <h4>Seeking IHT Spirit System information?</h4>
 [contact-form-7 id="463" title="Contact Us"]
 
