@@ -11,7 +11,7 @@ permalink: >
 published: true
 post_date: 2017-09-15 15:26:53
 ---
-Originally published Sept. 14, 2017 in the <a href="http://www.waynepost.com/news/20170914/clyde-savannah-elementary-receives-active-schools-award" target="_blank" rel="noopener">Wayne Post</a>.
+Originally published Sept. 14, 2017 in the <a href="http://www.waynepost.com/news/20170914/clyde-savannah-elementary-receives-active-schools-award" target="_blank" rel="nofollow noopener">Wayne Post</a>.
 
 Active Schools, a national movement dedicated to ensuring 60 minutes of daily physical activity is the norm in K-12 schools, honored Clyde-Savannah Elementary School with <span style="color: inherit; font-size: inherit;">the 2017 </span>Let’s Move! Active Schools National Award for its efforts in creating an active school environment.
 
