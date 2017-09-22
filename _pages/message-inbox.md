@@ -4,7 +4,7 @@ post_title: Message Inbox
 author: Jack Hoover
 post_excerpt: ""
 layout: page
-permalink: https://ihtusa.com/5995-2/
+permalink: https://ihtusa.com/message-inbox/
 published: true
 post_date: 2017-09-22 13:56:17
 ---
