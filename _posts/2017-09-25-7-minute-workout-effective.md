@@ -118,6 +118,10 @@ You’ll hear some nay-sayers, but they haven’t read all the research that has
 The 7-minute workout is highly effective for you. It’s easier to fit into a busy day, and you’ll be able to focus on improving strength in specific areas of your body. The change in routine will help to keep your mind happy, as you avoid the boredom of long, drawn-out workouts. You can get rid of all those excuses holding you back from putting your health first.
 
 Will you add a 7-minute workout to your day? It really could be the best thing you have ever done.
+<h4>Seeking IHT Spirit System information?</h4>
+[contact-form-7 id="463" title="Contact Us"]
+
+[turbo_widget widget-prefix=pw_call_to_action&obj-class=PW_Call_To_Action&widget-pw_call_to_action--text=%5Bbutton+href%3D%22ihtusa.com%2Fzone%22%5Dadidas+Zone+for+IHT+Spirit+Demo%5B%2Fbutton%5D&widget-pw_call_to_action--button_text=]
 
 </div>
 </div>
