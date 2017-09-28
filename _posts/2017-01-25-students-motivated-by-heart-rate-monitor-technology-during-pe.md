@@ -4,46 +4,12 @@ post_title: >
   Students motivated by wearing heart rate
   monitors during PE
 author: IHT Spirit
-post_date: 2017-01-25 14:36:28
 post_excerpt: ""
 layout: post
 permalink: >
   https://ihtusa.com/students-motivated-by-heart-rate-monitor-technology-during-pe/
 published: true
-sidebar:
-  - right
-avrghdftrcd_head_code:
-  - ""
-avrghdftrcd_footer_code:
-  - ""
-apss_content_flag:
-  - "0"
-per-page-ath-content:
-  - ""
-ampforwp_custom_content_editor:
-  - ""
-ampforwp_custom_content_editor_checkbox:
-  - ""
-ampforwp-amp-on-off:
-  - default
-rop_post_url_twitter:
-  - 'https://ihtusa.com/students-motivated-by-heart-rate-monitor-technology-during-pe/?utm_source=ReviveOldPost&utm_medium=social&utm_campaign=ReviveOldPost'
-rop_post_url_facebook:
-  - 'https://ihtusa.com/students-motivated-by-heart-rate-monitor-technology-during-pe/?utm_source=ReviveOldPost&utm_medium=social&utm_campaign=ReviveOldPost'
-apple_news_sections:
-  - 'a:0:{}'
-apple_news_is_preview:
-  - ""
-apple_news_is_sponsored:
-  - ""
-apple_news_pullquote:
-  - ""
-apple_news_pullquote_position:
-  - middle
-apple_news_coverart:
-  - 'a:1:{s:11:"orientation";s:9:"landscape";}'
-instant_articles_submission_id:
-  - "1567484713293675"
+post_date: 2017-01-25 14:36:28
 ---
 <span style="font-weight: 400;">Jan. 26, 2017 - Ridge View (Holstein, Iowa) High School physical educators Justin Kinney and Matt Best introduced </span><a href="https://ihtusa.com/zone/"><span style="font-weight: 400;">adidas Zone for IHT Spirit</span></a><span style="font-weight: 400;"> heart rate monitors to their physical education classes in December, hoping to motivate students they feared simply went through the motions during class. </span>
 
@@ -84,6 +50,8 @@ instant_articles_submission_id:
 <span style="font-weight: 400;">Best and Kinney have been pleased with how motivated their students have been beginning their journey with the IHT Spirit System and can’t wait to see how students progress as they get more familiar with their data and what it teaches them. </span>
 
 <span style="font-weight: 400;">“The sky’s the limit with how and where we want to go with it,” Kinney said.</span>
+<h4>Seeking IHT Spirit System information?</h4>
+[contact-form-7 id="463" title="Contact Us"]
 
 [turbo_widget widget-prefix=pw_call_to_action&obj-class=PW_Call_To_Action&widget-pw_call_to_action--text=%5Bbutton+href%3D%22ihtusa.com%2Fzone%22%5Dadidas+Zone+for+IHT+Spirit+Demo%5B%2Fbutton%5D&widget-pw_call_to_action--button_text=]
 
