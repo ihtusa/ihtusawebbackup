@@ -34,6 +34,8 @@ For additional reading, citations and links for academic research are available 
 
 <a href="https://www.researchgate.net/publication/312181714_Cybercycling_Effects_on_Classroom_Behavior_in_Children_With_Behavioral_Health_Disorders_An_RCT">Cybercycling Effects on Classroom Behavior in Children With Behavioral Health Disorders: An RCT.</a> Bowling, April &amp; Slavet, James &amp; Miller, Daniel &amp; Haneuse, Sebastien &amp; Beardslee, William &amp; Davison, Kirsten. (2017). Cybercycling Effects on Classroom Behavior in Children With Behavioral Health Disorders: An RCT. Pediatrics, January 2017. <a href="https://www.researchgate.net/publication/312181714_Cybercycling_Effects_on_Classroom_Behavior_in_Children_With_Behavioral_Health_Disorders_An_RCT">Link</a>
 
+&nbsp;
+
 Questions about IHT's MVPA philosophy or anything related to your Spirit System use? Please don't hesitate to call us at <a href="tel:(512)%20522-9354" target="_blank" rel="noopener" data-ac-default-color="1">(512) 522-9354</a> and we will help you through any issue. You can also find guides, troubleshooting tips and more at the Spirit dashboard, located <a href="http://ihtspirit.com" target="_blank" rel="nofollow noopener" data-ac-default-color="1">here</a>.
 <h4>Seeking IHT Spirit System information?</h4>
 [contact-form-7 id="463" title="Contact Us"]
