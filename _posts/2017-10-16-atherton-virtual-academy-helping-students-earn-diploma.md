@@ -51,7 +51,7 @@ The number of students at AVA grew from 29 in the 2013-2014 school year, to 79 i
 To schedule enrollment in AVA or ask questions, call Sarah Gilmore at 810-591-0850.
 <h3 class="article-newsletter-signup">Seeking IHT Spirit System information?</h3>
 <p class="article-newsletter-signup">[contact-form-7 id="463" title="Contact Us"]</p>
-[turbo_widget widget-prefix=pw_call_to_action-1&obj-class=PW_Call_To_Action&id_base=pw_call_to_action&widget-pw_call_to_action-1-text=Experience+the+Spirit+Mobile+App+for+Virtual+P.E.&widget-pw_call_to_action-1-button_text=%5Bbutton+href%3D%22http%3A%2F%2Fihutsa.com%2Fiht-spirit-mobile-app%22%5DText%5B%2Fbutton%5D]
+[turbo_widget widget-prefix=pw_call_to_action-1&obj-class=PW_Call_To_Action&id_base=pw_call_to_action&widget-pw_call_to_action-1-text=&widget-pw_call_to_action-1-button_text=%5Bbutton+href%3D%22http%3A%2F%2Fihtusa.com%2Fiht-spirit-mobile-app%22%5DExperience+the+Spirit+Mobile+App+for+Virtual+P.E.%5B%2Fbutton%5D]
 
 </div>
 </div>
