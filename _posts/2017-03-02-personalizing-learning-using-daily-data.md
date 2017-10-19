@@ -5,45 +5,12 @@ post_title: >
   students highlighted by 6 key seconds of
   coaching every day
 author: IHT Spirit
-post_date: 2017-03-02 17:23:38
 post_excerpt: ""
 layout: post
 permalink: >
   https://ihtusa.com/personalizing-learning-using-daily-data/
 published: true
-ampforwp_custom_content_editor_checkbox:
-  - null
-  - null
-sidebar:
-  - right
-avrghdftrcd_head_code:
-  - ""
-avrghdftrcd_footer_code:
-  - ""
-per-page-ath-content:
-  - ""
-ampforwp_custom_content_editor:
-  - ""
-ampforwp-amp-on-off:
-  - default
-rop_post_url_twitter:
-  - 'https://ihtusa.com/personalizing-learning-using-daily-data/?utm_source=ReviveOldPost&utm_medium=social&utm_campaign=ReviveOldPost'
-rop_post_url_facebook:
-  - 'https://ihtusa.com/personalizing-learning-using-daily-data/?utm_source=ReviveOldPost&utm_medium=social&utm_campaign=ReviveOldPost'
-apple_news_sections:
-  - 'a:0:{}'
-apple_news_is_preview:
-  - ""
-apple_news_is_sponsored:
-  - ""
-apple_news_pullquote:
-  - ""
-apple_news_pullquote_position:
-  - middle
-apple_news_coverart:
-  - 'a:1:{s:11:"orientation";s:9:"landscape";}'
-instant_articles_submission_id:
-  - "1908083126135988"
+post_date: 2017-03-02 17:23:38
 ---
 March 2, 2017 - Within six seconds following a physical education class, teachers using the IHT Spirit System already have important data necessary to evaluate that day’s workout and help motivate each student to improve in the next workout.
 
@@ -63,7 +30,7 @@ March 2, 2017 - Within six seconds following a physical education class, teache
 
 <span style="font-weight: 400;">“If the score goes down, you’re likely to get one of those [chronic heart] diseases,” Stubbs said. “If it goes up, you’re very unlikely to get diabetes, you’re very unlikely to get high cholesterol. That’s it. You need to track it in class and we do it with the Zones and IHT Spirit System.”</span>
 <h4><b>Software promotes a unifying PE mission</b></h4>
-<span style="font-weight: 400;"><a href="https://ihtusa.com/wp-content/uploads/2017/03/IMG_0518.jpg"><img class="alignright wp-image-3027 size-full" src="https://ihtusa.com/wp-content/uploads/2017/03/IMG_0518.jpg" alt="data" width="360" height="458" /></a>By joining IHT’s technology with his vision, Stubbs created a PE ecosystem he believes will positively impact the heart health - and lives - of the next generation of students.</span>
+<span style="font-weight: 400;">By joining IHT’s technology with his vision, Stubbs created a PE ecosystem he believes will positively impact the heart health - and lives - of the next generation of students.</span>
 
 <span style="font-weight: 400;">“You’ve built the mission and connected the dots,” he said. “I can give that mission to a PE teacher and to a school and they will take that up. But if you just sell them a watch or monitor without education, without the professional development, without unbelievable software, it’s useless. I haven’t seen anyone yet who can do software the way IHT does it.”</span>
 
