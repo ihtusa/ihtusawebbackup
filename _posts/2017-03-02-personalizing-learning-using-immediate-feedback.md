@@ -8,7 +8,7 @@ author: IHT Spirit
 post_excerpt: ""
 layout: post
 permalink: >
-  https://ihtusa.com/personalizing-learning-using-daily-data/
+  https://ihtusa.com/personalizing-learning-using-immediate-feedback/
 published: true
 post_date: 2017-03-02 17:23:38
 ---
