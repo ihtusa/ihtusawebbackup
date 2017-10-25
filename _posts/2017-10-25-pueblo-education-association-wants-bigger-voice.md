@@ -50,5 +50,10 @@ Added board member R. Kenneth O'Neal, "This was very well thought out, and it ha
 "This is absolutely on the right track."
 
 <em><a href="mailto:jpompia@chieftain.com" target="_blank" rel="nofollow noopener">jpompia@chieftain.com</a></em>
-<div data-refreshable="true" data-region="fixed-big-ad-bottom-asset"></div>
+<div data-refreshable="true" data-region="fixed-big-ad-bottom-asset">
+<h3 class="article-newsletter-signup">Seeking IHT Spirit System information?</h3>
+<p class="article-newsletter-signup">[contact-form-7 id="3054" title="How'd you find us?"]</p>
+[turbo_widget widget-prefix=pw_call_to_action&obj-class=PW_Call_To_Action&widget-pw_call_to_action--text=%5Bbutton+href%3D%22ihtusa.com%2Fzone%22%5Dadidas+Zone+for+IHT+Spirit+Demo%5B%2Fbutton%5D&widget-pw_call_to_action--button_text=]
+
+</div>
 <div id="tncms-region-article_instory_bottom" class="tncms-region hidden-print"></div>
