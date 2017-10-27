@@ -11,7 +11,7 @@ post_date: 2017-10-27 10:04:02
 ---
 Originally published Oct. 26, 2017 in the <a href="http://www.rgj.com/story/sponsor-story/outlets-at-legend/2017/10/26/outlets-legends-run-education-support-physical-education-and-academics-wcsds-biggest-fundraiser/803857001/" target="_blank" rel="nofollow noopener">Reno Gazette-Journal</a>
 <p class="speakable-p-1 p-text">School budgets for physical education have steadily dwindled over the years even though research shows that exercise improves behavior, brain function, and the ability to pay attention. All things that potentially support cognitive learning in the classroom.</p>
-<p class="speakable-p-2 p-text">The 12th Annual Run for Education aims to raise $200,000 this month to support student fitness and academics. It’s a fun and family-friendly event organized by the Education Alliance of Washoe County with the support of educators, community leaders and sponsors like Scheels, UNR, and Yamana Gold, and numerous other partners.</p>
+<p class="speakable-p-2 p-text">The 12th Annual Run for Education aims to raise $200,000 this month to support student fitness and academics. It’s a fun and family-friendly event organized by the <a href="https://ed-alliance.org/" target="_blank" rel="nofollow noopener">Education Alliance of Washoe County</a> with the support of educators, community leaders and sponsors like Scheels, UNR, and Yamana Gold, and numerous other partners.</p>
 <p class="p-text"><!--more--></p>
 
 
