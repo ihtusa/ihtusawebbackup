@@ -20,7 +20,7 @@ Originally published Oct. 26, 2017 in the <a href="http://www.rgj.com/story/spon
 <p class="p-text">Michael Connors, Race Director since 2013, expressed gratitude for being able to hold the immense event at Outlets at Legends.</p>
 <p class="p-text">“Legends does a lot for this event. They’re so wonderful and supportive and generous. They make it possible.”</p>
 <p class="p-text">This is the largest fundraiser for WCSD for the year. Approximately 4,000 runners are expected this year, most are students from over 90 schools in the district. More than 8,000 will be in attendance to cheer them on.</p>
-<p class="p-text">All sponsorship proceeds go right back to schools and students in the Washoe County School District. To date, Run for Education has raised more than $1.7 million through registrations and sponsorships.</p>
+<p class="p-text">All sponsorship proceeds go right back to schools and students in the <a href="https://www.washoeschools.net/" target="_blank" rel="nofollow noopener">Washoe County School District</a>. To date, Run for Education has raised more than $1.7 million through registrations and sponsorships.</p>
 <p class="p-text">“Without this event, schools wouldn’t receive things vital to their education,” says Michael Connors, also an English teacher at North Valleys High School.</p>
 <p class="p-text">Speaking from firsthand experience, he says that students can tell when they don’t have what is needed. “It tells them we don’t value those things.”</p>
 
