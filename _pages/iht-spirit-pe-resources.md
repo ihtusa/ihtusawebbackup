@@ -16,25 +16,25 @@ post_date: 2017-09-18 11:00:23
 			Click To Download IHT's Free EBook		</span>
 	</a>
 </div>
-</div></div><div id="panel-2709-0-0-1" class="so-panel widget widget_sow-image" data-index="1" data-style="{&quot;background_image_attachment&quot;:false,&quot;background_display&quot;:&quot;tile&quot;,&quot;featured_widgets&quot;:&quot;&quot;,&quot;bigger_title&quot;:&quot;&quot;}" ><div class="so-widget-sow-image so-widget-sow-image-default-eef982a7180b">
-
-<div class="sow-image-container">
-<a href="https://drive.google.com/file/d/0B8e5BMmP2zcDZWo3TmRQbk9ObmM/view" target="_blank" >	<img src="https://ihtusa.com/wp-content/uploads/2016/10/Catalog-Cover-662x1024.png" width="662" height="1024" srcset="https://ihtusa.com/wp-content/uploads/2016/10/Catalog-Cover-662x1024.png 662w, https://ihtusa.com/wp-content/uploads/2016/10/Catalog-Cover-194x300.png 194w, https://ihtusa.com/wp-content/uploads/2016/10/Catalog-Cover-768x1189.png 768w, https://ihtusa.com/wp-content/uploads/2016/10/Catalog-Cover.png 796w" sizes="(max-width: 662px) 100vw, 662px" title="Catalog Cover" 		class="so-widget-image"/>
-</a></div>
-
-</div></div><div id="panel-2709-0-0-2" class="so-panel widget widget_sow-image" data-index="2" data-style="{&quot;background_image_attachment&quot;:false,&quot;background_display&quot;:&quot;tile&quot;,&quot;featured_widgets&quot;:&quot;&quot;,&quot;bigger_title&quot;:&quot;&quot;}" ><div class="so-widget-sow-image so-widget-sow-image-default-2daac9b0bc02">
+</div></div><div id="panel-2709-0-0-1" class="so-panel widget widget_sow-image" data-index="1" data-style="{&quot;background_display&quot;:&quot;tile&quot;,&quot;featured_widgets&quot;:&quot;&quot;,&quot;bigger_title&quot;:&quot;&quot;}" ><div class="so-widget-sow-image so-widget-sow-image-default-2daac9b0bc02">
 
 <div class="sow-image-container">
 	<img src="https://ihtusa.com/wp-content/uploads/2017/09/adidas-November-teacher-pdf-232x300.jpg" width="232" height="300" sizes="(max-width: 232px) 100vw, 232px" title="November adidas Lesson for IHT Spirit - teacher guide" 		class="so-widget-image"/>
 </div>
 
-	<h3 class="widget-title"><span class="widget-title__inline">November adidas Lesson for IHT Spirit - teacher guide</span></h3></div></div><div id="panel-2709-0-0-3" class="so-panel widget widget_sow-image panel-last-child" data-index="3" data-style="{&quot;background_image_attachment&quot;:false,&quot;background_display&quot;:&quot;tile&quot;,&quot;featured_widgets&quot;:&quot;&quot;,&quot;bigger_title&quot;:&quot;&quot;}" ><div class="so-widget-sow-image so-widget-sow-image-default-2daac9b0bc02">
+	<h3 class="widget-title"><span class="widget-title__inline">November adidas Lesson for IHT Spirit - teacher guide</span></h3></div></div><div id="panel-2709-0-0-2" class="so-panel widget widget_sow-image" data-index="2" data-style="{&quot;background_display&quot;:&quot;tile&quot;,&quot;featured_widgets&quot;:&quot;&quot;,&quot;bigger_title&quot;:&quot;&quot;}" ><div class="so-widget-sow-image so-widget-sow-image-default-2daac9b0bc02">
 
 <div class="sow-image-container">
 	<img src="https://ihtusa.com/wp-content/uploads/2017/09/adidas-November-student-pdf-232x300.jpg" width="232" height="300" sizes="(max-width: 232px) 100vw, 232px" title="November adidas Lesson for IHT Spirit - student worksheet" 		class="so-widget-image"/>
 </div>
 
-	<h3 class="widget-title"><span class="widget-title__inline">November adidas Lesson for IHT Spirit - student worksheet</span></h3></div></div></div></div><div id="pg-2709-1"  class="panel-grid panel-no-style"  data-style="{&quot;background_display&quot;:&quot;tile&quot;,&quot;cell_alignment&quot;:&quot;flex-start&quot;}" ><div id="pgc-2709-1-0"  class="panel-grid-cell"  data-weight="1" ><div id="panel-2709-1-0-0" class="so-panel widget widget_sow-editor panel-first-child panel-last-child" data-index="4" data-style="{&quot;background_image_attachment&quot;:false,&quot;background_display&quot;:&quot;tile&quot;,&quot;featured_widgets&quot;:&quot;&quot;,&quot;bigger_title&quot;:&quot;&quot;}" ><div class="so-widget-sow-editor so-widget-sow-editor-base">
+	<h3 class="widget-title"><span class="widget-title__inline">November adidas Lesson for IHT Spirit - student worksheet</span></h3></div></div><div id="panel-2709-0-0-3" class="so-panel widget widget_sow-image panel-last-child" data-index="3" data-style="{&quot;background_display&quot;:&quot;tile&quot;,&quot;featured_widgets&quot;:&quot;&quot;,&quot;bigger_title&quot;:&quot;&quot;}" ><div class="so-widget-sow-image so-widget-sow-image-default-eef982a7180b">
+
+<div class="sow-image-container">
+<a href="https://drive.google.com/file/d/0B8e5BMmP2zcDZWo3TmRQbk9ObmM/view" target="_blank" >	<img src="https://ihtusa.com/wp-content/uploads/2016/10/Catalog-Cover-662x1024.png" width="662" height="1024" srcset="https://ihtusa.com/wp-content/uploads/2016/10/Catalog-Cover-662x1024.png 662w, https://ihtusa.com/wp-content/uploads/2016/10/Catalog-Cover-194x300.png 194w, https://ihtusa.com/wp-content/uploads/2016/10/Catalog-Cover-768x1189.png 768w, https://ihtusa.com/wp-content/uploads/2016/10/Catalog-Cover.png 796w" sizes="(max-width: 662px) 100vw, 662px" title="Catalog Cover" 		class="so-widget-image"/>
+</a></div>
+
+</div></div></div></div><div id="pg-2709-1"  class="panel-grid panel-no-style"  data-style="{&quot;background_display&quot;:&quot;tile&quot;,&quot;cell_alignment&quot;:&quot;flex-start&quot;}" ><div id="pgc-2709-1-0"  class="panel-grid-cell"  data-weight="1" ><div id="panel-2709-1-0-0" class="so-panel widget widget_sow-editor panel-first-child panel-last-child" data-index="4" data-style="{&quot;background_display&quot;:&quot;tile&quot;,&quot;featured_widgets&quot;:&quot;&quot;,&quot;bigger_title&quot;:&quot;&quot;}" ><div class="so-widget-sow-editor so-widget-sow-editor-base">
 <div class="siteorigin-widget-tinymce textwidget">
 	<h3>Student Resource PDF Download</h3>
 [caption id="attachment_2691" align="alignleft" width="309"]<a href="https://ihtusa.com/wp-content/uploads/2016/10/Student_worksheet_1.pdf"><img class="wp-image-2691" src="https://ihtusa.com/wp-content/uploads/2016/09/FitKit.jpg" width="309" height="206" /></a> Student Lesson #1 adidas Worksheet PDF Download[/caption]
