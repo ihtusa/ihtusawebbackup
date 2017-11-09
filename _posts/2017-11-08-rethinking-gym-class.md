@@ -33,9 +33,7 @@ At a time when schools are all about getting students ready for college or jobs,
 Connecticut, Vermont and Michigan are among states that include physical education or fitness in their accountability plans for the U.S. Education Department under the new law. The more holistic view of school quality is a departure from the old law’s heavy reliance on test scores.
 
 In the shadow of Washington state’s Mount Rainier, physical education teacher Tracy Krause’s students have for several years been fly-fishing and rock climbing as part of an “Outdoor Academy” program that also incorporates English Language Arts and environmental science. All freshmen at Krause’s Tahoma High School take a foundations class that lets them explore things like dance, yoga, strength, and conditioning.
-<div class="in-article-image "></div>
-“Our (school) motto is ‘future ready.’ We want kids to leave with a plan for the future, whether it’s college or the military or going straight to the workforce, and I think the same needs to be true about their health,” Krause said.
-
+<div class="in-article-image "> “Our (school) motto is ‘future ready.’ We want kids to leave with a plan for the future, whether it’s college or the military or going straight to the workforce, and I think the same needs to be true about their health,” Krause said.</div>
 Washington, D.C., teachers put all of the district’s second-graders on bicycles to gain a lifelong skill. Fourth- and seventh-graders do parkour, in which students leap and vault over obstacles in a way that’s more freewheeling than skill-specific gymnastics. D.C. sixth-graders learn orienteering, including how to read a compass and geocache. High schoolers swim.
 
 “We want to teach a variety of these foundational movement skills with cycling, swimming, parkour. So that they’re very individualized,” said Miriam Kenyon, the district’s director of health and physical education, “and when you have that, you can’t take it away.”
