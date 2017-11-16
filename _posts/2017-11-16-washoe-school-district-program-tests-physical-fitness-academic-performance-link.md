@@ -22,29 +22,19 @@ post_date: 2017-11-16 12:46:30
 
 <span style="font-weight: 400;">Students wear the heart rate monitors and receive immediate feedback on attaining the goal of minutes spent exercising at an elevated heart rate. The adidas Zone monitors show students their actual heart rate as well as the color “zone” they are exercising in. Blue represents exercise at a relaxed heart rate; yellow indicates moderate heart rate; and red indicates vigorous activity. Students are encouraged to exercise in the yellow and red zones.</span>
 
+[caption id="attachment_2783" align="alignleft" width="300"]<a href="https://vimeo.com/179769093"><img class="wp-image-2783 size-medium" src="https://ihtusa.com/wp-content/uploads/2016/11/hands-in-300x160.jpg" alt="hands-in" width="300" height="160" /></a> <strong>Experience the adidas Zone for IHT Spirit</strong>[/caption]
+
 <span style="font-weight: 400;">Since she introduced the adidas Zone heart rate monitors, Fagan’s noticed improved student fitness across the board in her classes. In addition to daily activities such as circuit training and golf, Fagan will assess student fitness through elements of the </span><a href="https://www.pyfp.org/" target="_blank" rel="nofollow noopener"><span style="font-weight: 400;">Presidential Youth Fitness Program’s FitnessGram®</span></a><span style="font-weight: 400;"> tests.</span>
 
 <span style="font-weight: 400;">“Wearing the heart rate monitors, the students are much more self-motivated,” she said. “We picked students for the program who came to the middle school without having had formal physical education before. We are seeing what we hoped to see. They compete against each other but more importantly they compete against what they’ve achieved in the past themselves in terms of time spent in the target heart rate zones.”</span>
-<h4>Experience the adidas Zone for IHT Spirit</h4>
-<iframe src="https://player.vimeo.com/video/179769093" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
-
-
-<span style="font-weight: 400;">Students have begun to understand what a beneficial workout feels like.</span>
-
-<span style="font-weight: 400;">“It is different because you actually have an idea on how hard you are working,” said student Griffin Strom.</span>
-
-<span style="font-weight: 400;"><a href="https://ihtusa.com/wp-content/uploads/2017/11/WASHOE6.jpg"><img class="alignright wp-image-6170" src="https://ihtusa.com/wp-content/uploads/2017/11/WASHOE6-300x249.jpg" alt="Fagan" width="450" height="373" /></a>The students see their heart rates while working out, but the </span><a href="https://ihtusa.com/spirit-system/"><span style="font-weight: 400;">IHT’s Spirit System</span></a><span style="font-weight: 400;"> software takes that awareness further. Immediately after their class session, students receive an email detailing how their heart responded in the just-completed workout. Parents receive that email as well, getting an idea of exactly what their child accomplished during physical education that day.</span>
-
-<span style="font-weight: 400;">“I learn how hard my daughter works in P.E. in getting her heart rate up, and I learned that she is not as happy as she could be with where her heart rate is during exercise, so now she is constantly pushing herself,” said Juleen Ruiz, a parent at Pine Middle.</span>
-
-<span style="font-weight: 400;">While the students learn in class what it feels like to exercise at an elevated heart rate, Fagan said they are also learning skills that will help them later in life.</span>
-
-<span style="font-weight: 400;">“They see their heart rate numbers, but they are learning what healthy exercise should feel like,” Fagan said. “Their body is telling them how they are doing. Eventually, they will know for themselves by kinesthetic awareness how well they are working out.”</span>
-
-<span style="font-weight: 400;">Students have already started to recognize that exercise and fitness helps them in their academic classes.</span>
-
-<span style="font-weight: 400;">“I have more energy in class to get more work done,” said Pine Middle School student Joseph Espinosa.</span>
-
+<p style="text-align: left;"><span style="font-weight: 400;">Students have begun to understand what a beneficial workout feels like.</span></p>
+<p style="text-align: left;"><span style="font-weight: 400;">“It is different because you actually have an idea on how hard you are working,” said student Griffin Strom.</span></p>
+<p style="text-align: left;"><span style="font-weight: 400;"><a href="https://ihtusa.com/wp-content/uploads/2017/11/WASHOE6.jpg"><img class="alignright wp-image-6170" src="https://ihtusa.com/wp-content/uploads/2017/11/WASHOE6-300x249.jpg" alt="Fagan" width="450" height="373" /></a>The students see their heart rates while working out, but the </span><a href="https://ihtusa.com/spirit-system/"><span style="font-weight: 400;">IHT’s Spirit System</span></a><span style="font-weight: 400;"> software takes that awareness further. Immediately after their class session, students receive an email detailing how their heart responded in the just-completed workout. Parents receive that email as well, getting an idea of exactly what their child accomplished during physical education that day.</span></p>
+<p style="text-align: left;"><span style="font-weight: 400;">“I learn how hard my daughter works in P.E. in getting her heart rate up, and I learned that she is not as happy as she could be with where her heart rate is during exercise, so now she is constantly pushing herself,” said Juleen Ruiz, a parent at Pine Middle.</span></p>
+<p style="text-align: left;"><span style="font-weight: 400;">While the students learn in class what it feels like to exercise at an elevated heart rate, Fagan said they are also learning skills that will help them later in life.</span></p>
+<p style="text-align: left;"><span style="font-weight: 400;">“They see their heart rate numbers, but they are learning what healthy exercise should feel like,” Fagan said. “Their body is telling them how they are doing. Eventually, they will know for themselves by kinesthetic awareness how well they are working out.”</span></p>
+<p style="text-align: left;"><span style="font-weight: 400;">Students have already started to recognize that exercise and fitness helps them in their academic classes.</span></p>
+<p style="text-align: left;"><span style="font-weight: 400;">“I have more energy in class to get more work done,” said Pine Middle School student Joseph Espinosa.</span></p>
 <span style="font-weight: 400;">Fagan and her colleagues acquired the heart rate monitors and accompanying software through a partnership with the State of Nevada Department of Health and Human Services Division of Public and Behavioral Health. Washoe leadership is also applying for grants that will enable the district to purchase the monitors and software and expand the program throughout the 64,000-student district.</span>
 
 <span style="font-weight: 400;">In addition to Fagan at Pine Middle School, students working with the following teachers are also taking part in the pilot:</span>
