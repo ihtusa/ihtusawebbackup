@@ -8,7 +8,7 @@ author: IHT Spirit
 post_excerpt: ""
 layout: post
 permalink: >
-  https://ihtusa.com/washoe-school-district-program-tests-physical-fitness-academic-performance-link/
+  https://ihtusa.com/washoe-program-proves-link-fitness-academic-performance/
 published: true
 post_date: 2017-11-16 12:46:30
 ---
