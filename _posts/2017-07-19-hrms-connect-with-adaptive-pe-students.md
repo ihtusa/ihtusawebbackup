@@ -1,7 +1,7 @@
 ---
 ID: 5603
 post_title: >
-  Ann Arbor adaptive PE students use HRMs
+  Ann Arbor adapted PE students use HRMs
   to manage their health
 author: IHT Spirit
 post_excerpt: ""
@@ -11,7 +11,7 @@ permalink: >
 published: true
 post_date: 2017-07-19 12:55:34
 ---
-July 19, 2017 - <span style="font-weight: 400;">A teacher’s unique use of heart rate monitors helped Ann Arbor, Mich., adaptive physical education students learn to manage their health during the school day.</span>
+July 19, 2017 - <span style="font-weight: 400;">A teacher’s unique use of heart rate monitors helped Ann Arbor, Mich., adapted physical education students learn to manage their health during the school day.</span>
 
 [caption id="attachment_5609" align="alignright" width="300"]<a href="https://ihtusa.com/wp-content/uploads/2017/07/Deak-photo.jpg"><img class="size-medium wp-image-5609" src="https://ihtusa.com/wp-content/uploads/2017/07/Deak-photo-300x262.jpg" alt="adaptive" width="300" height="262" /></a> Deak Swearingen (right) with colleague Gloria O'Neill.[/caption]
 
@@ -27,7 +27,7 @@ July 19, 2017 - <span style="font-weight: 400;">A teacher’s unique use of hea
 
 <span style="font-weight: 400;">“She would walk a lap in order to cool down to self-regulate so she doesn’t have a meltdown and hurt anyone or herself,” Swearingen explained. “She made that connection. She doesn’t have the ability to understand 110 beats per minute, but if I program the monitor appropriately, she understands it going from red to yellow to blue and she can come back to class.”</span>
 <h4><b>‘Technology doing what I hoped it would’</b></h4>
-<span style="font-weight: 400;">Teachers and their assistants – often present in adaptive learning environments – also benefitted from students wearing the wrist-based monitors. Swearingen said being able to see student heart rate served as a potential predictor to health or safety issues.</span>
+<span style="font-weight: 400;">Teachers and their assistants – often present in adapted learning environments – also benefitted from students wearing the wrist-based monitors. Swearingen said being able to see student heart rate served as a potential predictor to health or safety issues.</span>
 
 <span style="font-weight: 400;">“I have a young man who is prone to having seizures,” Swearingen said. “He’s also cognitively impaired, so that makes it challenging for him to tell us when he feels like he might be having a seizure.”</span>
 
@@ -41,7 +41,7 @@ July 19, 2017 - <span style="font-weight: 400;">A teacher’s unique use of hea
 
 <span style="font-weight: 400;">“</span><span style="font-weight: 400;">It allows you really to individualize learning, individualize instruction, and that’s the focal point of adaptive PE,” he said. </span>
 
-<span style="font-weight: 400;">By helping students develop at least a basic understanding about self-managing their health and well-being, Swearingen believes his program’s on the right path. He developed a curriculum specific to Ann Arbor’s adaptive PE population that he can share with teachers at the system’s other 13 campuses. Swearingen hopes to use the Zone monitors on as many as 120 students in 2017-18, up from 30.</span>
+<span style="font-weight: 400;">By helping students develop at least a basic understanding about self-managing their health and well-being, Swearingen believes his program’s on the right path. He developed a curriculum specific to Ann Arbor’s adapted PE population that he can share with teachers at the system’s other 13 campuses. Swearingen hopes to use the Zone monitors on as many as 120 students in 2017-18, up from 30.</span>
 
 <span style="font-weight: 400;">With training, Swearingen said teachers across the district with access to the district’s heart rate monitors can follow the protocols.</span>
 
