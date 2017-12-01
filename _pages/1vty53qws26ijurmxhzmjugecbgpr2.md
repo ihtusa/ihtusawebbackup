@@ -9,3 +9,4 @@ permalink: >
 published: true
 post_date: 2017-12-01 14:48:35
 ---
+[wordpress_file_upload]
