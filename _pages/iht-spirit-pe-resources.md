@@ -9,14 +9,14 @@ permalink: >
 published: true
 post_date: 2017-09-18 11:00:23
 ---
-<div id="pl-2709"  class="panel-layout" ><div id="pg-2709-0"  class="panel-grid panel-no-style" ><div id="pgc-2709-0-0"  class="panel-grid-cell"  data-weight="1" ><div id="panel-2709-0-0-0" class="so-panel widget widget_sow-image panel-first-child" data-index="0" data-style="{&quot;background_display&quot;:&quot;tile&quot;,&quot;featured_widgets&quot;:&quot;&quot;,&quot;bigger_title&quot;:&quot;&quot;}" ><div class="so-widget-sow-image so-widget-sow-image-default-eef982a7180b">
+<div id="pl-2709"  class="panel-layout" ><div id="pg-2709-0"  class="panel-grid panel-no-style"  data-style="{&quot;background_image_attachment&quot;:false,&quot;background_display&quot;:&quot;tile&quot;,&quot;cell_alignment&quot;:&quot;flex-start&quot;}" ><div id="pgc-2709-0-0"  class="panel-grid-cell"  data-weight="1" ><div id="panel-2709-0-0-0" class="so-panel widget widget_sow-image panel-first-child" data-index="0" data-style="{&quot;background_display&quot;:&quot;tile&quot;,&quot;featured_widgets&quot;:&quot;&quot;,&quot;bigger_title&quot;:&quot;&quot;}" ><div class="so-widget-sow-image so-widget-sow-image-default-eef982a7180b">
 
 <div class="sow-image-container">
-<a href="https://drive.google.com/file/d/0B8e5BMmP2zcDZWo3TmRQbk9ObmM/view" target="_blank" >	<img src="https://ihtusa.com/wp-content/uploads/2016/10/Catalog-Cover-662x1024.png" width="662" height="1024" srcset="https://ihtusa.com/wp-content/uploads/2016/10/Catalog-Cover-662x1024.png 662w, https://ihtusa.com/wp-content/uploads/2016/10/Catalog-Cover-194x300.png 194w, https://ihtusa.com/wp-content/uploads/2016/10/Catalog-Cover-768x1189.png 768w, https://ihtusa.com/wp-content/uploads/2016/10/Catalog-Cover.png 796w" sizes="(max-width: 662px) 100vw, 662px" title="Catalog Cover" 		class="so-widget-image"/>
+<a href="https://drive.google.com/file/d/0B8e5BMmP2zcDZWo3TmRQbk9ObmM/view" target="_blank" rel="noopener noreferrer" >	<img src="https://ihtusa.com/wp-content/uploads/2016/10/Catalog-Cover-662x1024.png" width="662" height="1024" srcset="https://ihtusa.com/wp-content/uploads/2016/10/Catalog-Cover-662x1024.png 662w, https://ihtusa.com/wp-content/uploads/2016/10/Catalog-Cover-194x300.png 194w, https://ihtusa.com/wp-content/uploads/2016/10/Catalog-Cover-768x1189.png 768w, https://ihtusa.com/wp-content/uploads/2016/10/Catalog-Cover.png 796w" sizes="(max-width: 662px) 100vw, 662px" title="Catalog Cover" 		class="so-widget-image"/>
 </a></div>
 
 </div></div><div id="panel-2709-0-0-1" class="so-panel widget widget_sow-button" data-index="1" data-style="{&quot;background_display&quot;:&quot;tile&quot;,&quot;featured_widgets&quot;:&quot;&quot;,&quot;bigger_title&quot;:&quot;&quot;}" ><div class="so-widget-sow-button so-widget-sow-button-atom-f65ebfc7e7d0"><div class="ow-button-base ow-button-align-center">
-	<a href="https://drive.google.com/file/d/0B8e5BMmP2zcDZWo3TmRQbk9ObmM/view" class=" ow-button-hover" target="_blank" 		>
+	<a href="https://drive.google.com/file/d/0B8e5BMmP2zcDZWo3TmRQbk9ObmM/view" class=" ow-button-hover" target="_blank" rel="noopener noreferrer" 		>
 		<span>
 			<span class="sow-icon-fontawesome" data-sow-icon="&#xf0ed;" ></span>
 			Click To Download IHT's Free EBook		</span>
@@ -25,30 +25,43 @@ post_date: 2017-09-18 11:00:23
 </div></div><div id="panel-2709-0-0-2" class="so-panel widget widget_sow-image" data-index="2" data-style="{&quot;background_image_attachment&quot;:false,&quot;background_display&quot;:&quot;tile&quot;,&quot;featured_widgets&quot;:&quot;&quot;,&quot;bigger_title&quot;:&quot;&quot;}" ><div class="so-widget-sow-image so-widget-sow-image-default-2daac9b0bc02">
 
 <div class="sow-image-container">
-	<img src="https://ihtusa.com/wp-content/uploads/2017/09/adidas-November-teacher-pdf-232x300.jpg" width="232" height="300" sizes="(max-width: 232px) 100vw, 232px" title="November adidas Lesson for IHT Spirit - teacher guide" 		class="so-widget-image"/>
+	<img src="https://ihtusa.com/wp-content/uploads/2017/12/adidas-lesson-December-pdf-232x300.jpg" width="232" height="300" sizes="(max-width: 232px) 100vw, 232px" title="December&#039;s adidas Lesson for IHT Spirit" 		class="so-widget-image"/>
 </div>
 
 </div></div><div id="panel-2709-0-0-3" class="so-panel widget widget_sow-button" data-index="3" data-style="{&quot;background_image_attachment&quot;:false,&quot;background_display&quot;:&quot;tile&quot;,&quot;featured_widgets&quot;:&quot;&quot;,&quot;bigger_title&quot;:&quot;&quot;}" ><div class="so-widget-sow-button so-widget-sow-button-atom-22c00c453984"><div class="ow-button-base ow-button-align-left">
-	<a href="https://drive.google.com/file/d/0B5c9Nj60vYwXbXdzTUJ6UW9DcGM/view?usp=sharing" class=" ow-button-hover" target="_blank" 		>
+	<a href="https://drive.google.com/file/d/1p273sNln0HtlD72heIhWRIIuWITfE-Ye/view?usp=sharing" class=" ow-button-hover" target="_blank" rel="noopener noreferrer" 		>
 		<span>
 			<span class="sow-icon-fontawesome" data-sow-icon="&#xf0ed;" ></span>
-			Click To Download November's adidas Lesson for IHT Spirit Teacher Guide		</span>
+			Click to download the December adidas Lesson for IHT Spirit: Fun, F.I.T.T.ness and Forever Strong		</span>
 	</a>
 </div>
 </div></div><div id="panel-2709-0-0-4" class="so-panel widget widget_sow-image" data-index="4" data-style="{&quot;background_image_attachment&quot;:false,&quot;background_display&quot;:&quot;tile&quot;,&quot;featured_widgets&quot;:&quot;&quot;,&quot;bigger_title&quot;:&quot;&quot;}" ><div class="so-widget-sow-image so-widget-sow-image-default-2daac9b0bc02">
 
 <div class="sow-image-container">
+	<img src="https://ihtusa.com/wp-content/uploads/2017/09/adidas-November-teacher-pdf-232x300.jpg" width="232" height="300" sizes="(max-width: 232px) 100vw, 232px" title="November adidas Lesson for IHT Spirit - teacher guide" 		class="so-widget-image"/>
+</div>
+
+</div></div><div id="panel-2709-0-0-5" class="so-panel widget widget_sow-button" data-index="5" data-style="{&quot;background_image_attachment&quot;:false,&quot;background_display&quot;:&quot;tile&quot;,&quot;featured_widgets&quot;:&quot;&quot;,&quot;bigger_title&quot;:&quot;&quot;}" ><div class="so-widget-sow-button so-widget-sow-button-atom-22c00c453984"><div class="ow-button-base ow-button-align-left">
+	<a href="https://drive.google.com/file/d/0B5c9Nj60vYwXbXdzTUJ6UW9DcGM/view?usp=sharing" class=" ow-button-hover" target="_blank" rel="noopener noreferrer" 		>
+		<span>
+			<span class="sow-icon-fontawesome" data-sow-icon="&#xf0ed;" ></span>
+			Click To Download November's adidas Lesson for IHT Spirit Teacher Guide		</span>
+	</a>
+</div>
+</div></div><div id="panel-2709-0-0-6" class="so-panel widget widget_sow-image" data-index="6" data-style="{&quot;background_image_attachment&quot;:false,&quot;background_display&quot;:&quot;tile&quot;,&quot;featured_widgets&quot;:&quot;&quot;,&quot;bigger_title&quot;:&quot;&quot;}" ><div class="so-widget-sow-image so-widget-sow-image-default-2daac9b0bc02">
+
+<div class="sow-image-container">
 	<img src="https://ihtusa.com/wp-content/uploads/2017/09/adidas-November-student-pdf-232x300.jpg" width="232" height="300" sizes="(max-width: 232px) 100vw, 232px" title="November adidas Lesson for IHT Spirit - student worksheet" 		class="so-widget-image"/>
 </div>
 
-</div></div><div id="panel-2709-0-0-5" class="so-panel widget widget_sow-button panel-last-child" data-index="5" data-style="{&quot;background_image_attachment&quot;:false,&quot;background_display&quot;:&quot;tile&quot;,&quot;featured_widgets&quot;:&quot;&quot;,&quot;bigger_title&quot;:&quot;&quot;}" ><div class="so-widget-sow-button so-widget-sow-button-atom-22c00c453984"><div class="ow-button-base ow-button-align-left">
-	<a href="https://drive.google.com/file/d/0B5c9Nj60vYwXTzVJV0RLdFVYR0k/view?usp=sharing" class=" ow-button-hover" target="_blank" 		>
+</div></div><div id="panel-2709-0-0-7" class="so-panel widget widget_sow-button panel-last-child" data-index="7" data-style="{&quot;background_display&quot;:&quot;tile&quot;,&quot;featured_widgets&quot;:&quot;&quot;,&quot;bigger_title&quot;:&quot;&quot;}" ><div class="so-widget-sow-button so-widget-sow-button-atom-22c00c453984"><div class="ow-button-base ow-button-align-left">
+	<a href="https://drive.google.com/file/d/0B5c9Nj60vYwXTzVJV0RLdFVYR0k/view?usp=sharing" class=" ow-button-hover" target="_blank" rel="noopener noreferrer" 		>
 		<span>
 			<span class="sow-icon-fontawesome" data-sow-icon="&#xf0ed;" ></span>
 			Click To Download November's adidas Lesson for IHT Spirit Student Worksheet		</span>
 	</a>
 </div>
-</div></div></div></div><div id="pg-2709-1"  class="panel-grid panel-no-style"  data-style="{&quot;background_display&quot;:&quot;tile&quot;,&quot;cell_alignment&quot;:&quot;flex-start&quot;}" ><div id="pgc-2709-1-0"  class="panel-grid-cell"  data-weight="1" ><div id="panel-2709-1-0-0" class="so-panel widget widget_sow-editor panel-first-child panel-last-child" data-index="6" data-style="{&quot;background_display&quot;:&quot;tile&quot;,&quot;featured_widgets&quot;:&quot;&quot;,&quot;bigger_title&quot;:&quot;&quot;}" ><div class="so-widget-sow-editor so-widget-sow-editor-base">
+</div></div></div></div><div id="pg-2709-1"  class="panel-grid panel-no-style"  data-style="{&quot;background_display&quot;:&quot;tile&quot;,&quot;cell_alignment&quot;:&quot;flex-start&quot;}" ><div id="pgc-2709-1-0"  class="panel-grid-cell"  data-weight="1" ><div id="panel-2709-1-0-0" class="so-panel widget widget_sow-editor panel-first-child panel-last-child" data-index="8" data-style="{&quot;background_display&quot;:&quot;tile&quot;,&quot;featured_widgets&quot;:&quot;&quot;,&quot;bigger_title&quot;:&quot;&quot;}" ><div class="so-widget-sow-editor so-widget-sow-editor-base">
 <div class="siteorigin-widget-tinymce textwidget">
 	<h3>Student Resource PDF Download</h3>
 [caption id="attachment_2691" align="alignleft" width="309"]<a href="https://ihtusa.com/wp-content/uploads/2016/10/Student_worksheet_1.pdf"><img class="wp-image-2691" src="https://ihtusa.com/wp-content/uploads/2016/09/FitKit.jpg" width="309" height="206" /></a> Student Lesson #1 adidas Worksheet PDF Download[/caption]
@@ -62,4 +75,4 @@ post_date: 2017-09-18 11:00:23
 [caption id="attachment_2691" align="alignleft" width="150"]<a href="https://ihtusa.com/wp-content/uploads/2017/09/Adidas-Lesson-October-HIIT-Your-Best-For-FitFest.pdf"><img class="aligncenter wp-image-6025 size-thumbnail" src="https://ihtusa.com/wp-content/uploads/2017/09/Adidas-Lesson-October-HIIT-Your-Best-For-FitFest-1-150x150.jpg" alt="lesson" width="150" height="150" /></a> October adidas Lesson: HIIT Your Best for FitFest[/caption]</div>
 </div></div></div></div></div>
 
-<style type="text/css" class="panels-style" data-panels-style-for-post="2709">@import url(https://ihtusa.com/wp-content/plugins/siteorigin-panels/css/front-flex.css); #pgc-2709-0-0 , #pgc-2709-1-0 { width:100%;width:calc(100% - ( 0 * 30px ) ) } #pg-2709-0 , #pl-2709 .so-panel { margin-bottom:30px } #pl-2709 .so-panel:last-child { margin-bottom:0px } #pg-2709-1.panel-no-style, #pg-2709-1.panel-has-style > .panel-row-style { -webkit-align-items:flex-start;align-items:flex-start } @media (max-width:780px){ #pg-2709-0.panel-no-style, #pg-2709-0.panel-has-style > .panel-row-style , #pg-2709-1.panel-no-style, #pg-2709-1.panel-has-style > .panel-row-style { -webkit-flex-direction:column;-ms-flex-direction:column;flex-direction:column } #pg-2709-0 .panel-grid-cell , #pg-2709-1 .panel-grid-cell { margin-right:0 } #pg-2709-0 .panel-grid-cell , #pg-2709-1 .panel-grid-cell { width:100% } #pl-2709 .panel-grid-cell { padding:0 } #pl-2709 .panel-grid .panel-grid-cell-empty { display:none } #pl-2709 .panel-grid .panel-grid-cell-mobile-last { margin-bottom:0px }  } </style>
+<style type="text/css" class="panels-style" data-panels-style-for-post="2709">@import url(https://ihtusa.com/wp-content/plugins/siteorigin-panels/css/front-flex.css); #pgc-2709-0-0 , #pgc-2709-1-0 { width:100%;width:calc(100% - ( 0 * 30px ) ) } #pg-2709-0 , #pl-2709 .so-panel { margin-bottom:30px } #pl-2709 .so-panel:last-child { margin-bottom:0px } #pg-2709-0.panel-no-style, #pg-2709-0.panel-has-style > .panel-row-style , #pg-2709-1.panel-no-style, #pg-2709-1.panel-has-style > .panel-row-style { -webkit-align-items:flex-start;align-items:flex-start } @media (max-width:780px){ #pg-2709-0.panel-no-style, #pg-2709-0.panel-has-style > .panel-row-style , #pg-2709-1.panel-no-style, #pg-2709-1.panel-has-style > .panel-row-style { -webkit-flex-direction:column;-ms-flex-direction:column;flex-direction:column } #pg-2709-0 .panel-grid-cell , #pg-2709-1 .panel-grid-cell { margin-right:0 } #pg-2709-0 .panel-grid-cell , #pg-2709-1 .panel-grid-cell { width:100% } #pl-2709 .panel-grid-cell { padding:0 } #pl-2709 .panel-grid .panel-grid-cell-empty { display:none } #pl-2709 .panel-grid .panel-grid-cell-mobile-last { margin-bottom:0px }  } </style>
