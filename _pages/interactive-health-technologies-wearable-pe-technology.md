@@ -1,6 +1,8 @@
 ---
 ID: 1582
-post_title: 'Interactive Health Technologies &#8211; Wearable PE Technology'
+post_title: >
+  PE Heart Rate Monitors | Technology for
+  PE
 author: Interactive Health Technologies
 post_excerpt: ""
 layout: page
