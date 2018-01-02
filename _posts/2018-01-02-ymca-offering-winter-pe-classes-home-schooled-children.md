@@ -12,7 +12,7 @@ permalink: >
 published: true
 post_date: 2018-01-02 14:55:26
 ---
-Originally published Dec. 27, 2017 in the <a href="https://www.wvgazettemail.com/metrokanawha/ymca-of-kanawha-valley-offering-winter-physical-education-classes-for/article_f65247ac-0d21-577b-b63e-84d976aff232.html">West Virginia Gazette-Mail</a>.
+Originally published Dec. 27, 2017 in the <a href="https://www.wvgazettemail.com/metrokanawha/ymca-of-kanawha-valley-offering-winter-physical-education-classes-for/article_f65247ac-0d21-577b-b63e-84d976aff232.html" target="_blank" rel="nofollow noopener">West Virginia Gazette-Mail</a>.
 
 By Ben Calwell
 
@@ -60,7 +60,7 @@ And when parents drop their children off for the Homeschool PE classes, they can
 
 For more information about the YMCA of Kanawha Valley’s Homeschool PE program, call White at 304-340-3533.
 
-Information is also available at <a href="http://www.ymcaofkv.org/">www.ymcaofkv.org</a>
+Information is also available at <a href="http://www.ymcaofkv.org/" target="_blank" rel="nofollow noopener">www.ymcaofkv.org</a>
 <h3 class="article-newsletter-signup">Seeking IHT Spirit System information?</h3>
 <p class="article-newsletter-signup">[contact-form-7 id="3054" title="How'd you find us?"]</p>
 [turbo_widget widget-prefix=pw_call_to_action&obj-class=PW_Call_To_Action&widget-pw_call_to_action--text=%5Bbutton+href%3D%22ihtusa.com%2Fzone%22%5Dadidas+Zone+for+IHT+Spirit+Demo%5B%2Fbutton%5D&widget-pw_call_to_action--button_text=]
