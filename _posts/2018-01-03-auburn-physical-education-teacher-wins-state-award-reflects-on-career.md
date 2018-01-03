@@ -19,49 +19,29 @@ By <a href="https://auburnpub.com/users/profile/Kelly%20Rocheleau" target="_bla
 <p class="subscriber-preview">That said, Connors, physical education teacher for Auburn Junior High School and varsity tennis coach for Auburn High School, feels it's important to let students know they don't have to seem as if everything is going perfectly in their lives all the time. For the sake of setting that example, she does sometimes mention to students when she is having a bad day. The students understand, she said, because they've had rough days too.</p>
 <p class="subscriber-only">"I think when we try to be something that we're not, it gives (students) a false image of what reality is really like," Connors said.</p>
 <p id="tncms-region-article_instory_top" class="tncms-region hidden-print"><!--more--><a href="https://ihtusa.com/wp-content/uploads/2018/01/5a41764c4bd33.image_.jpg"><img class="alignleft size-medium wp-image-7855" src="https://ihtusa.com/wp-content/uploads/2018/01/5a41764c4bd33.image_-300x161.jpg" alt="Auburn" width="300" height="161" /></a>Dr. Tamela Ray, Auburn's director of athletics, health and physical education, said Connors is both professional and genuine, demonstrating to children that adults have bad days but can still adapt to situations and get through the day. Ray said Connors is dedicated, takes the initiative and tries to get to know students.</p>
-<p class="subscriber-only"></p>
 "She finds the thing that hooks (students) and gets them committed to fitness for life," Ray said.
 
-&nbsp;
-<p class="subscriber-only"></p>
 Connors received a Secondary Physical Education Teacher of the Year award from the New York State Association for Health, Physical Education, Recreation and Dance in November. She said Ray presenting the award to her made it more special, as Connors said she modeled a lot of her approach to teaching after Ray.
 
-&nbsp;
-<p class="subscriber-only"></p>
 Connors has been a physical education teacher for 21 years and has spent 17 years with Auburn. She moved to the middle school this year after 16 years at the high school because the school had all-male physical education teachers for the last few years, and she felt it was important for female students at that age to have a PE teacher they could go to and relate to.
 
-&nbsp;
-<p class="subscriber-only"></p>
 She feels that for physical education it is important to emphasize teamwork in preparation for real-life scenarios, and not just how well an individual does at something.
 
-&nbsp;
-<p class="subscriber-only"></p>
 Connors helped develop Auburn's education adventure curriculum, which involves activities that emphasize learning skills students will need in their lives. For example, one activity can involve a variation where the group would pass around an object to distract the group. This allows students to deal with distractions just as people deal with unexpected distractions that get in the way, she said.
 
-&nbsp;
-<p class="subscriber-only"></p>
 As Connors' life has gone on, she said, she has gotten better at realizing that not everything is going to go perfectly and that her life has involved a lot of trial and error.
 
-&nbsp;
-<p class="subscriber-only"></p>
 "There's a reason I'm not a surgeon. I don't have to do everything right the first time," Connors said.
 
-&nbsp;
-<p class="subscriber-only"></p>
 Earlier this school year, she said, there was a home tennis game in which the other team didn't show up on time, as the other team thought the game was at a different time. Ten years ago, she would have been distraught by that situation, she said, instead of taking it in stride.
 
-&nbsp;
-<p class="subscriber-only"></p>
 Ray said the moment that emphasized Connors' ability to her was when Connors was doing a presentation in front of her peers at a state conference years ago. Connors was energetic and her peers were focused on what she was saying, Ray said.
 
-&nbsp;
-<p class="subscriber-only"></p>
 "It really made me look and step back and say, 'Wow, I'm really glad she's she's at Auburn and working with our kids,'" Ray said.
 
-&nbsp;
+Staff writer Kelly Rocheleau can be reached at (315) 282-2243 or <a href="mailto:kelly.rocheleau@lee.net">kelly.rocheleau@lee.net</a>. Follow him on Twitter @KellyRocheleau.
 
 </div>
-Staff writer Kelly Rocheleau can be reached at (315) 282-2243 or <a href="mailto:kelly.rocheleau@lee.net">kelly.rocheleau@lee.net</a>. Follow him on Twitter @KellyRocheleau.
 <div class="asset-tagline text-muted">
 <h3 class="article-newsletter-signup">Seeking IHT Spirit System information?</h3>
 <p class="article-newsletter-signup">[contact-form-7 id="3054" title="How'd you find us?"]</p>
