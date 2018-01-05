@@ -40,3 +40,6 @@ If it ain't broke, why change? It's always been this way for Spearfish. Every da
 "Our school decided as a core group that P.E. was what we call a non-negotiable," said Lyon. "They'll be P.E. every day for every kid and I don't know many schools that would vote that way that, yep, that's what we're doing."
 
 "Just the opportunity to see the kids every day, you know where the kids left off at, you know what you taught them," said Lee.
+<h3 class="article-newsletter-signup">Seeking IHT Spirit System information?</h3>
+<p class="article-newsletter-signup">[contact-form-7 id="3054" title="How'd you find us?"]</p>
+[turbo_widget widget-prefix=pw_call_to_action&obj-class=PW_Call_To_Action&widget-pw_call_to_action--text=%5Bbutton+href%3D%22ihtusa.com%2Fzone%22%5Dadidas+Zone+for+IHT+Spirit+Demo%5B%2Fbutton%5D&widget-pw_call_to_action--button_text=]
