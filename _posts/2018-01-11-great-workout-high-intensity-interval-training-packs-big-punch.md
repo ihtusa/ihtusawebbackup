@@ -11,7 +11,7 @@ permalink: >
 published: true
 post_date: 2018-01-11 16:10:53
 ---
-Originally published Dec. 21, 2017 in the <a href="http://www.mydaytondailynews.com/lifestyles/for-great-workout-high-intensity-interval-training-packs-big-punch/uSmioztdVD2UQYWfscYTUI/">Dayton Daily News</a>.
+Originally published Dec. 21, 2017 in the <a href="http://www.mydaytondailynews.com/lifestyles/for-great-workout-high-intensity-interval-training-packs-big-punch/uSmioztdVD2UQYWfscYTUI/" target="_blank" rel="nofollow noopener">Dayton Daily News</a>.
 
 By Debbie Juniewicz - Contributing Writer
 
@@ -60,3 +60,6 @@ Group training – which jumped up four spots from last year – wearable techno
 <strong>9. Fitness Programs for Older Adults.</strong> Many health and fitness professionals are taking the time to create age-appropriate fitness programs to keep older adults healthy and active.
 
 <strong>10. Functional Fitness.</strong> This is a trend toward using strength training to improve balance and ease of daily living. Functional fitness and special fitness programs for older adults are closely related.
+<h3 class="article-newsletter-signup">Seeking IHT Spirit System information?</h3>
+<p class="article-newsletter-signup">[contact-form-7 id="3054" title="How'd you find us?"]</p>
+[turbo_widget widget-prefix=pw_call_to_action&obj-class=PW_Call_To_Action&widget-pw_call_to_action--text=%5Bbutton+href%3D%22ihtusa.com%2Fzone%22%5Dadidas+Zone+for+IHT+Spirit+Demo%5B%2Fbutton%5D&widget-pw_call_to_action--button_text=]
