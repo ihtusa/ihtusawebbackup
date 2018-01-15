@@ -11,7 +11,7 @@ permalink: >
 published: true
 post_date: 2018-01-15 14:39:35
 ---
-Originally published Jan. 8, 2018 in the <a href="http://www.dailyherald.com/news/20180108/lake-villa-pe-teacher-focuses-on-positivity">Daily Herald</a>
+Originally published Jan. 8, 2018 in the <a href="http://www.dailyherald.com/news/20180108/lake-villa-pe-teacher-focuses-on-positivity" target="_blank" rel="nofollow noopener">Daily Herald</a>
 
 By Lee Filas
 
@@ -25,7 +25,7 @@ One way she spreads her message is with a "positivity cart" she rolls around and
 
 <!--more-->
 
-[caption id="attachment_7898" align="alignleft" width="500"]<a href="https://ihtusa.com/wp-content/uploads/2018/01/lakevilla2.jpg"><img class="wp-image-7898" src="https://ihtusa.com/wp-content/uploads/2018/01/lakevilla2-300x161.jpg" alt="Coia" width="500" height="268" /></a> Donna Coia, physical education teacher at Thompson Elementary School in Lake Villa, watches kids during her gym class. She was honored in November with the annual Thompson Shining Star Award for 2017.<br /> Steve Lundy | Staff Photographer[/caption]
+[caption id="attachment_7898" align="alignleft" width="500"]<a href="https://ihtusa.com/wp-content/uploads/2018/01/lakevilla2.jpg"><img class="wp-image-7898" src="https://ihtusa.com/wp-content/uploads/2018/01/lakevilla2-300x161.jpg" alt="Coia" width="500" height="268" /></a> Donna Coia, physical education teacher at Thompson Elementary School in Lake Villa, watches kids during her gym class. She was honored in November with the annual Thompson Shining Star Award for 2017.<br />Steve Lundy | Staff Photographer[/caption]
 
 "So many kids are quick to say, 'I'm stupid, I stink at this,'" Coia said. "I'm really a huge believer that if you tell yourself you can't do something, your brain will automatically say we can't do this."
 
@@ -43,7 +43,7 @@ Keim said other teachers at the school love her attitude and her willingness to 
 
 "She's a quiet leader who does a lot of motivation behind the scenes," Keim said. "She calls to the office every day asking if we need any help. She never wants recognition for it. She's very giving, works behind the scenes to help the staff out to create a wonderful environment for our students."
 
-[caption id="attachment_7899" align="alignright" width="246"]<a href="https://ihtusa.com/wp-content/uploads/2018/01/lakevilla1.jpg"><img class="wp-image-7899 size-medium" src="https://ihtusa.com/wp-content/uploads/2018/01/lakevilla1-246x300.jpg" alt="Coia" width="246" height="300" /></a> Thompson Elementary School physical education teacher Donna Coia blows her whistle during gym class.<br /> Steve Lundy | Staff Photographer[/caption]
+[caption id="attachment_7899" align="alignright" width="246"]<a href="https://ihtusa.com/wp-content/uploads/2018/01/lakevilla1.jpg"><img class="wp-image-7899 size-medium" src="https://ihtusa.com/wp-content/uploads/2018/01/lakevilla1-246x300.jpg" alt="Coia" width="246" height="300" /></a> Thompson Elementary School physical education teacher Donna Coia blows her whistle during gym class.<br />Steve Lundy | Staff Photographer[/caption]
 
 Coia's road to the gymnasium actually started in a fourth-grade classroom at the now-closed Pleviak Elementary School. She said she enjoyed teaching fourth grade from 1998 to 2003, then second grade from 2003 to 2010, but decided a change was needed.
 
