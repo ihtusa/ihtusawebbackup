@@ -49,6 +49,9 @@ The school received equipment, including nets, paddles and pickleballs, from the
 “You’ll see students in off-periods, after school, and even some before school using it to set up the nets and play” said teacher Lynn Galm. “The whole game is portable, fast to set up and kids have more time to play. We appreciate getting the equipment from the grant.”
 
 Within the town of Moriah, funding from the NYSDOH has allowed the CHSC grant to support projects such as updated benches, dog waste stations, bike racks and new pickleball equipment in order to increase opportunities for people of all ages and abilities to be physically active.
+<h3 class="article-newsletter-signup">Seeking IHT Spirit System information?</h3>
+<p class="article-newsletter-signup">[contact-form-7 id="3054" title="How'd you find us?"]</p>
+[turbo_widget widget-prefix=pw_call_to_action&obj-class=PW_Call_To_Action&widget-pw_call_to_action--text=%5Bbutton+href%3D%22ihtusa.com%2Fzone%22%5Dadidas+Zone+for+IHT+Spirit+Demo%5B%2Fbutton%5D&widget-pw_call_to_action--button_text=]
 
 </div>
 <aside class="tags"></aside>
