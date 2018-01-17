@@ -52,5 +52,6 @@ Regular education students will be able to earn capstone credits by participatin
 DeNegris, who recently held a meeting for students, said there is a lot of interest among her classmates.
 
 “This is such a positive thing that we’re expecting a lot of kids to be interested,” Loomis said.
-
-&nbsp;
+<h3 class="article-newsletter-signup">Seeking IHT Spirit System information?</h3>
+<p class="article-newsletter-signup">[contact-form-7 id="3054" title="How'd you find us?"]</p>
+[turbo_widget widget-prefix=pw_call_to_action&obj-class=PW_Call_To_Action&widget-pw_call_to_action--text=%5Bbutton+href%3D%22ihtusa.com%2Fzone%22%5Dadidas+Zone+for+IHT+Spirit+Demo%5B%2Fbutton%5D&widget-pw_call_to_action--button_text=]
