@@ -51,7 +51,7 @@ post_date: 2018-01-18 10:19:06
 
 <span style="font-weight: 400;">State education agencies received the authority to distribute the funding to districts as they saw fit. Some opted to spread the federal allocation evenly among the school districts -- with each district receiving a minimum of $10,000 according to </span><a href="http://blogs.edweek.org/edweek/campaign-k-12/2017/08/heres_what_states_are_doing_wi.html"><span style="font-weight: 400;">Education Week</span></a><span style="font-weight: 400;"> --  and a few created a competitive application process for the funds. </span>
 
-<span style="font-weight: 400;">As of Nov. 21, only seven states had distributed ESSA funding and eight others were in the process of distributing them, including Texas ($36.3 million in Title IV), Massachusetts ($6 million), Maryland ($5.9 million) and Ohio ($15 million). </span>
+<span style="font-weight: 400;">As of Nov. 21, 2017 only seven states had distributed ESSA funding and eight others were in the process of distributing them, including Texas ($36.3 million in Title IV), Massachusetts ($6 million), Maryland ($5.9 million) and Ohio ($15 million). </span>
 
 <span style="font-weight: 400;">Nine states have indicated they’ll distribute funding to districts by the end of December, and another five have announced plans to distribute funding in advance of the Sept. 2018 federal deadline. The remaining states and territories haven’t indicated when they plan to pass the funding along to the local school districts.</span>
 
