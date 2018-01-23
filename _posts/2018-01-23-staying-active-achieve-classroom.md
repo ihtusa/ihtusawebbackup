@@ -11,9 +11,9 @@ permalink: >
 published: true
 post_date: 2018-01-23 14:25:07
 ---
-Originally published Jan. 11, 2018 in the <a href="http://www.liherald.com/fivetowns/stories/staying-active-to-achieve-more-in-the-classroom,99122">LI/5 towns Herald</a>.
+Originally published Jan. 11, 2018 in the <a href="http://www.liherald.com/fivetowns/stories/staying-active-to-achieve-more-in-the-classroom,99122" target="_blank" rel="nofollow noopener">LI/5 towns Herald</a>.
 <h3 id="subtitle">Educators believe recess is key to educational success</h3>
-By <a href="mailto:tmarko@liherald.com">Tyler Marko</a>
+By <a href="mailto:tmarko@liherald.com" target="_blank" rel="nofollow noopener">Tyler Marko</a>
 
 Whether it was climbing on the monkey bars, pumping your legs on the swings or playing tag, odds are that recess was one of the few activities that made those grueling schooldays fun. That break from sitting at a classroom desk to expel excess energy are likely some of your fondest school memories.
 
