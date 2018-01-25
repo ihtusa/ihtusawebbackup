@@ -9,11 +9,11 @@ permalink: >
 published: true
 post_date: 2018-01-25 11:49:58
 ---
-Originally published Jan. 19, 2018 in the <a href="https://www.wvnews.com/theet/news/it-s-something-i-could-do-forever-harrison-county-teacher/article_ba12a05a-963c-5cf1-8319-349d2a638c53.html">Exponent Telegram</a>.
+Originally published Jan. 19, 2018 in the <a href="https://www.wvnews.com/theet/news/it-s-something-i-could-do-forever-harrison-county-teacher/article_ba12a05a-963c-5cf1-8319-349d2a638c53.html" target="_blank" rel="nofollow noopener">Exponent Telegram</a>.
 
 By Victoria L. Cann
 
-LOST CREEK — South Harrison High School has been represented well by Felicia Pancoast, who has received the honor of being named the 2017 Health Educator of the Year by the West Virginia Association of Health and Physical Education, Recreation and Dance.
+LOST CREEK — South Harrison High School has been represented well by Felicia Pancoast, who has received the honor of being named the 2017 Health Educator of the Year by the <a href="http://www.wvahperd.org/" target="_blank" rel="nofollow noopener">West Virginia Association of Health and Physical Education, Recreation </a>and Dance.
 
 The educator is identified as having best made significant contributions to the profession in the areas of teaching, research and services.
 
@@ -57,7 +57,7 @@ Josh Grant, West Virginia Department of Education health and physical education 
 
 “Felicia Pancoast is definitely a must have teacher,” he said. “Her expertise is called upon through textbook adoption process, standards revision, and assisting as a reviewer for possible embedding of health education credit and is the individual I call upon when needing representation in high school health education.”
 
-All of these duties are above the outstanding job she does at South Harrison High School delivering high quality Health instruction to the students she serves, Grant mentioned.
+All of these duties are above the outstanding job she does at South Harrison High School delivering <a href="https://ihtusa.com/personalizing-learning-using-immediate-feedback/" target="_blank" rel="nofollow noopener">high-quality Health instruction</a> to the students she serves, Grant mentioned.
 
 “Beyond all of her accomplishments in regards to health education, Felicia Pancoast is the type of teacher any parent would want their child to have,” he said. “She is very knowledgeable about her content, but most of all cares about kids.”
 <h3 class="article-newsletter-signup">Seeking IHT Spirit System information?</h3>
