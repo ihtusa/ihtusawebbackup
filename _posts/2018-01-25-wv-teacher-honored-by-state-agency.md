@@ -1,6 +1,6 @@
 ---
 ID: 7929
-post_title: '&#8216;It&#8217;s something I could do forever&#8217;: Harrison County teacher named 2017 Health Educator of the Year'
+post_title: '&#8216;It&#8217;s something I could do forever&#8217;'
 author: IHT Spirit
 post_excerpt: ""
 layout: post
