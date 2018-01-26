@@ -11,11 +11,11 @@ permalink: >
 published: true
 post_date: 2018-01-26 16:20:49
 ---
-Originally published in the Jan. 23, 2018 in the <a href="http://m.startribune.com/unique-phys-ed-class-at-wayzata-high-school-breaks-down-barriers/470609333/?section=sports">Star Tribune</a>.
+Originally published in the Jan. 23, 2018 in the <a href="http://m.startribune.com/unique-phys-ed-class-at-wayzata-high-school-breaks-down-barriers/470609333/?section=sports" target="_blank" rel="nofollow noopener">Star Tribune</a>.
 
 By Jim Paulsen, Star Tribune
 
-Filtering into a final-period physical education class at Wayzata High School, students put on heart-rate monitors, then mingle quietly until class begins and each finds a partner.
+Filtering into a final-period physical education class at Wayzata High School, students put on <a href="https://ihtusa.com/zone">heart-rate monitors</a>, then mingle quietly until class begins and each finds a partner.
 
 The day’s focus is tennis — temporary nets are strung up across the gym floor — but first things first. Partners play catch, then deliver the ball on one bounce. Simple, progressive steps follow. Most of the class period is over before physical education instructor Mike Doyle breaks out modified rackets, and they barely get used.
 
@@ -31,9 +31,7 @@ It’s called unified physical education, and it pairs students with special nee
 <div id="google_ads_iframe_/7932/mobile/mob_startribune.com/mob_sports/mob_sports_preps_0__container__">“I was part of the first group to take the class last year and after I took it, I was like, ‘This is so cool,’ ” said junior Mimi Schrader, a starting point guard for the Wayzata girls’ basketball team.</div>
 </div>
 </div>
-<aside class="related-links">&nbsp;
-
-</aside>
+<aside class="related-links"> </aside>
 <h4 class="Text_ChapterHead">The genesis of the class</h4>
 Doyle came up with the idea when he was teaching basketball to a group of students with special needs.
 
@@ -54,7 +52,7 @@ While the class itself is the focus, its influence is obvious. Kids with special
 </div>
 </div>
 <h4 class="Text_ChapterHead">Testimonials</h4>
-Matthew St. John is a senior who has always been one of the more socially outgoing special needs students. He plays adapted sports and hands out water for the boys’ basketball team. The addition of the unified PE class has been a vital part of Matthew becoming just a typical student, say his parents, Kevin and Nicole St. John.
+Matthew St. John is a senior who has always been one of the more socially outgoing special needs students. He plays <a href="https://ihtusa.com/hrms-connect-with-adaptive-pe-students/">adapted sports</a> and hands out water for the boys’ basketball team. The addition of the unified PE class has been a vital part of Matthew becoming just a typical student, say his parents, Kevin and Nicole St. John.
 
 “Kids with special needs are very aware of their surroundings. They want to be included. They want to be just like everyone else,” Kevin St. John said.
 
