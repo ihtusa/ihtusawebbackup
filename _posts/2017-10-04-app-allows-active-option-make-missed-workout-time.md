@@ -1,0 +1,56 @@
+---
+ID: 6026
+post_title: >
+  New app enables P.E. students to easily
+  make up missed class time
+author: IHT Spirit
+post_excerpt: ""
+layout: post
+permalink: >
+  https://ihtusa.com/app-allows-active-option-make-missed-workout-time/
+published: true
+post_date: 2017-10-04 15:01:20
+---
+Oct. 4, 2017 - <span style="font-weight: 400;">After years of asking his students to sign a piece of paper asserting they will make up missed classwork, <a href="http://www.fremont25.k12.wy.us/" target="_blank" rel="nofollow noopener">Riverton (Wyoming) Middle School</a> P.E. teacher Mike Bradley can use heart rate technology with a smartphone app for a better solution.</span>
+
+<span style="font-weight: 400;">Bradley, who introduced the </span><a href="https://ihtusa.com/zone/" target="_blank" rel="nofollow noopener"><span style="font-weight: 400;">adidas Zone for IHT Spirit</span></a><span style="font-weight: 400;"> wrist heart rate monitors and </span><a href="https://ihtusa.com/spirit-system/" target="_blank" rel="nofollow noopener"><span style="font-weight: 400;">IHT Spirit System</span></a><span style="font-weight: 400;"> to his program last year, is already taking advantage of the new</span><a href="https://ihtusa.com/iht-spirit-mobile-app/" target="_blank" rel="nofollow noopener"><span style="font-weight: 400;"> IHT Spirit Mobile App</span></a><span style="font-weight: 400;"> to help students make up for lost time. Released on Sept. 19 as a free download from both the Apple and Google Play stores, the IHT Spirit Mobile App allows users to control their adidas Zone monitors from their phones. </span>
+
+<span style="font-weight: 400;">The app enables Spirit System teachers to teach students beyond the classroom. Students often miss class for doctor’s appointments, and like a math or English teacher, Bradley believes the missed work should be made up.</span><!--more-->
+
+[caption id="attachment_6028" align="alignright" width="300"]<a href="https://ihtusa.com/wp-content/uploads/2017/10/bradley.jpg"><img class="size-medium wp-image-6028" src="https://ihtusa.com/wp-content/uploads/2017/10/bradley-300x288.jpg" alt="make" width="300" height="288" /></a> Mike Bradley explains aspects of the IHT Spirit System to fellow teachers.[/caption]
+
+<span style="font-weight: 400;">“Think about it this way,” he said. “If a student misses P.E. once, he’s missed out on 20 percent of the exercise time at school that week. That’s huge.”</span>
+<h4><b>‘Don’t give up a workout day’</b></h4>
+<span style="font-weight: 400;">Until this year, Bradley assigned make-up work and asked that students provide a signed confirmation that they’d completed the work. While he could assign active homework, he had no way to assess the quality of effort the student put towards completing an assignment as simple as “exercise for 30 minutes.”</span>
+
+<span style="font-weight: 400;">“It used to be that we’d send home a piece of paper with an assignment to make up and they’d sign it saying they did the workout, but you don’t really know,” he said.</span>
+
+<span style="font-weight: 400;">More prevalent than active homework, P.E. teachers gave students written homework as make-up work. While there is value in having students write a report that connects them with an aspect of physical education in addition to supporting academic skills such as research and writing, a written assignment doesn’t make up for the lost activity time. </span>
+
+<span style="font-weight: 400;">For students with the app, Bradley can send them home with one of his adidas Zone for IHT Spirit wrist heart rate monitors. </span>
+
+<span style="font-weight: 400;">“Now, you can send a monitor home and have them do it through their app,” he said. “If for no other reason, that’s one day a kid didn’t take off from being active. I don’t want them to give up a workout day.”</span>
+<h4><b>Teacher-to-Student Feedback</b></h4>
+<span style="font-weight: 400;">Students can simply log in to their teacher’s group through the app, activate their Zone monitor and complete the assigned workout. Just as they would in class, they’ll receive an immediate workout summary email that gives them the ability to journal about their workout, review their class session history and connect with Bradley for any necessary feedback. He tested the process with his son over the summer.</span>
+
+<span style="font-weight: 400;">“It would concern him when his heart rate stayed in the blue [zone] for an entire section of his workout,” Bradley said. “He is one of the hardest working athletes in his school, so it bothered him when he didn’t get the results he was expecting. It was very cool to see his reaction. We were able to talk about the different parts of the workouts he was doing just to get the student’s point of view.”</span>
+
+<span style="font-weight: 400;">For Bradley, the ability to utilize the App to help students make up for lost active time is vital to his mission. Bradley purchased IHT’s heart rate monitors and software with the expectation that students would get increased activity time in class.</span>
+
+<span style="font-weight: 400;">To that end, Bradley changed his teaching style in order to get his students moving from the moment they arrive and get dressed out for class.</span>
+
+<span style="font-weight: 400;"><a href="https://ihtusa.com/wp-content/uploads/2017/10/bradleyblogfea.jpg"><img class="alignleft wp-image-6027" src="https://ihtusa.com/wp-content/uploads/2017/10/bradleyblogfea-300x161.jpg" alt="make" width="500" height="268" /></a>“The class used to come in and we got started by sitting in squats while I took roll as quickly as I could,” he said. “We don’t sit in squats anymore. Now they come into the gym and immediately start doing jumping jacks and staying busy.”</span>
+
+<span style="font-weight: 400;">Previously Bradley had no way to quantify exactly how much time students spent actively moving. With students now wearing the adidas Zone heart rate monitors, Bradley can see exactly how many active minutes his students record and he can share that data with administrators.</span>
+
+<span style="font-weight: 400;">“More time with the students moving is the key,” he said. “We are always looking for ways to be more efficient so we can increase that time.”</span>
+<h4><b>Minutes of hard work matter</b></h4>
+<span style="font-weight: 400;">Having students utilize the Zone monitors through the App away from school will also help Bradley focus on the importance of moderate to vigorous physical activity. As evidenced by his son and daughter quickly taking to the IHT Spirit Mobile App over the summer, young people are quick to utilize all forms of technology, even exercise technology. As the fitness wearable movement cycles through steps and calories as measures of effort, Bradley reinforces the idea that nothing duplicates the benefit of time spent exercising at an elevated heart rate.</span>
+
+<span style="font-weight: 400;">“I focus on heart rate, and here’s why,” Bradley said. “I can walk 10,000 steps in a day without getting my heart rate up, and we have to get our heart rates up for those steps to really benefit us. If you get your heart rate up often enough, then you’re helping your overall health and fitness.”</span>
+
+<span style="font-weight: 400;">And he wants to take advantage of every tool that allows him to help his students understand that concept.</span>
+<h4>Seeking IHT Spirit System information?</h4>
+[contact-form-7 id="463" title="Contact Us"]
+
+[turbo_widget widget-prefix=pw_call_to_action&obj-class=PW_Call_To_Action&widget-pw_call_to_action--text=%5Bbutton+href%3D%22ihtusa.com%2Fzone%22%5Dadidas+Zone+for+IHT+Spirit+Demo%5B%2Fbutton%5D&widget-pw_call_to_action--button_text=]
