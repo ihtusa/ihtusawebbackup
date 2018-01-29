@@ -1,9 +1,8 @@
 ---
 ID: 6168
 post_title: >
-  Washoe School District Program Tests
-  Link Between Physical Fitness, Academic
-  Performance
+  Washoe Schools Program Tests Link
+  Between Fitness, Academic Performance
 author: IHT Spirit
 post_excerpt: ""
 layout: post
