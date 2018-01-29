@@ -1,8 +1,8 @@
 ---
 ID: 6058
 post_title: >
-  Teachers leave no funding stone unturned
-  in quest for heart rate technology
+  P.E. teachers leave no stone unturned in
+  quest for new funding
 author: IHT Spirit
 post_excerpt: ""
 layout: post
