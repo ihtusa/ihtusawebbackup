@@ -30,3 +30,6 @@ post_date: 2018-01-31 15:53:46
 <span style="font-weight: 400;">“The CEO of Essentia Health, the hospital in Fosston, he was there as part of the Rotary,” Hemberger said. “He talked to me afterwards and said they’d like to be a part of it.” The hospital donated the remaining funds necessary for Hemberger to purchase the heart rate monitors.</span>
 <h3><b>Community Events</b></h3>
 <span style="font-weight: 400;">Teachers in Pflugerville and San Antonio, Texas, hosted fundraisers that showcased the heart rate monitors they planned to purchase. The events, part of </span><a href="https://ihtusa.com/hendrickson-hosts-fitfest-fundraiser/"><span style="font-weight: 400;">IHT’s turnkey fundraising FitFest program</span></a><span style="font-weight: 400;">, enabled participants to wear adidas Zone HRMs in order to see exactly what students would be using in class. More events are scheduled for Spring 2018.</span>
+<h3 class="article-newsletter-signup">Seeking IHT Spirit System information?</h3>
+<p class="article-newsletter-signup">[contact-form-7 id="3054" title="How'd you find us?"]</p>
+[turbo_widget widget-prefix=pw_call_to_action&obj-class=PW_Call_To_Action&widget-pw_call_to_action--text=%5Bbutton+href%3D%22ihtusa.com%2Fzone%22%5Dadidas+Zone+for+IHT+Spirit+Demo%5B%2Fbutton%5D&widget-pw_call_to_action--button_text=]
