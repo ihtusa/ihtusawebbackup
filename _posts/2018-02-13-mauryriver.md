@@ -1,15 +1,14 @@
 ---
-ID: 3525
+ID: 8082
 post_title: >
-  Maury River Middle adds IHT Spirit
-  System to individualize PE for students
+  Maury River MS adds IHT Spirit System to
+  individualize PE for students
 author: IHT Spirit
 post_excerpt: ""
 layout: post
-permalink: >
-  https://ihtusa.com/maury-river-middle-adds-spirit-system/
+permalink: https://ihtusa.com/mauryriver/
 published: true
-post_date: 2017-06-02 16:46:08
+post_date: 2018-02-13 23:31:55
 ---
 <span style="font-weight: 400;">June 2, 2017 - <a href="http://mrms.rockbridge.k12.va.us/" target="_blank" rel="noopener noreferrer">Maury River Middle School</a> (Lexington, Va.) aims to change the way Virginia schools engage students through physical education.</span>
 
