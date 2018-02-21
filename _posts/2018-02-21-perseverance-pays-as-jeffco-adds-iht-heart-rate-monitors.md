@@ -1,8 +1,8 @@
 ---
 ID: 5840
 post_title: >
-  Perseverance pays off as JeffCo adds
-  P.E. heart rate monitors
+  JeffCo PE students use heart rate
+  monitors to master healthy habits
 author: IHT Spirit
 post_excerpt: ""
 layout: post
