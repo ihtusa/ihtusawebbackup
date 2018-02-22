@@ -11,6 +11,7 @@ permalink: >
 published: true
 post_date: 2018-02-21 09:58:07
 ---
+<h2><em><span style="font-weight: 400;">Teacher works with school district, technology partner to navigate new legislative guidelines</span></em></h2>
 <span style="font-weight: 400;">“I relate the use of [heart rate monitors] in physical education to Chromebooks for classroom teachers,” said Everitt Middle School (Colo.) physical education teacher Bradley Hull. “It is absolutely essential for instruction. My number one philosophy as a PE teacher is for students to take what they learn in class outside of class so they can become lifelong movers.”</span>
 
 <span style="font-weight: 400;">Last summer, the Colorado legislature passed the </span><a href="https://www.cde.state.co.us/dataprivacyandsecurity/dplaw-districts" target="_blank" rel="nofollow noopener"><span style="font-weight: 400;">Student Data Transparency and Security Act</span></a><span style="font-weight: 400;">, a law that requires technology companies to meet specific conditions before a school can partner with them. For Hull, the change meant he had to immediately stop using heart rate monitors he’d already purchased. When the company Hull originally partnered with failed to receive approved vendor status, the teacher had to find another company whose security practices met the state’s standards. </span><!--more-->
