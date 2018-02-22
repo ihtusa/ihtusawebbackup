@@ -35,7 +35,7 @@ The new federal education law, the Every Student Succeeds Act, or ESSA, also pro
 
 “At least we’re at the table now,” said Carly Wright, advocacy director for SHAPE. “It sends a message: The federal government does believe [physical education] should be part of a student’s education; it should be part of the school day.”
 
-Charles Hillman, a kinesiology professor at Northeastern University in Boston who studies the connection between the body and the brain, says there’s strong evidence that supports making physical education and recess a priority in schools.
+Charles Hillman, a kinesiology professor at Northeastern University in Boston who studies the connection between the body and the brain, says there’s <a href="https://ihtusa.com/muscular-fitness-enhances-cognitive-improvement/">strong evidence that supports making physical education and recess a priority</a> in schools.
 
 “The goal is to get kids moving throughout the school day,” Hillman said. While he grants that academic class time is also important, “clearly the academic at this point is at the cost of being physically active, and I think there has to be some level of accommodation.”
 
