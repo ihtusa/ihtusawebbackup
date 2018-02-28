@@ -1,9 +1,9 @@
 ---
 ID: 3009
 post_title: >
-  Spirit System personalizes learning for
-  students highlighted by 6 key seconds of
-  coaching every day
+  Spirit System personalizes daily
+  learning with immediate delivery of
+  student data
 author: IHT Spirit
 post_excerpt: ""
 layout: post
