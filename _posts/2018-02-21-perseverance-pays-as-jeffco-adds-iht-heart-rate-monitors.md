@@ -31,7 +31,7 @@ post_date: 2018-02-21 09:58:07
 <span style="font-weight: 400;">Hull’s PE program drives his students to take what they learn beyond the school walls, and the adidas Zone heart rate monitors will help reinforce daily lessons.</span>
 
 <span style="font-weight: 400;">“They can see their own heart rate, and with IHT’s monitors, they can see the color on their wrist and that way they know themselves if they are working at a proper intensity,” he said. “It also teaches individual ownership of their learning as well.”</span>
-<h3><b><a href="https://ihtusa.com/wp-content/uploads/2017/08/Jeffco3-FUTP60-feature.jpg"><img class="aligncenter wp-image-5841" src="https://ihtusa.com/wp-content/uploads/2017/08/Jeffco3-FUTP60-feature-300x161.jpg" alt="Hull" width="600" height="321" /></a>Finding funding for more than heart rate monitors</b></h3>
+<h3><b>Finding funding for more than heart rate monitors</b></h3>
 <span style="font-weight: 400;">Technology comes at a cost, and Hull spends a portion of each week seeking out and talking with his administrative team about grants he can apply to receive. </span>
 
 <span style="font-weight: 400;">“I work at a Title 1 school which makes me want to apply for as many grants as possible,” he said. “Anything that I think I might have a chance for, I apply.”</span>
