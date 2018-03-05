@@ -50,3 +50,7 @@ A growing body of research says more physically active kids do better in school.
 <p class="p1">TCAPS got $42,000 in grants from Munson Healthcare and the Michigan Health Endowment Fund to run the movement lab this year. Principal Tisdale says they hope to keep the program going.</p>
 <p class="p2">"The next step is to look at how can this be sustainable beyond a grant," he says.</p>
 <p class="p2">Tisdale says movement lab could help kids in all grades, not just kindergarteners and first graders.</p>
+
+<h3 class="article-newsletter-signup">Seeking IHT Spirit System information?</h3>
+<p class="article-newsletter-signup">[contact-form-7 id="3054" title="How'd you find us?"]</p>
+[turbo_widget widget-prefix=pw_call_to_action&obj-class=PW_Call_To_Action&widget-pw_call_to_action--text=%5Bbutton+href%3D%22ihtusa.com%2Fzone%22%5Dadidas+Zone+for+IHT+Spirit+Demo%5B%2Fbutton%5D&widget-pw_call_to_action--button_text=]
