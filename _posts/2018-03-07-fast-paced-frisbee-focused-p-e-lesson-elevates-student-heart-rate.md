@@ -18,7 +18,7 @@ post_date: 2018-03-07 19:46:55
 
 <span style="font-weight: 400;">“It’s just a kids’ toy at the secondary level,” Pulling said. “But when we teach them how to play ultimate frisbee or do frisbee golf, it’s kind of like their youthful excitement comes back to life.”</span><!--more-->
 <h3><b>‘They just eat it up’</b></h3>
-<span style="font-weight: 400;">The Fun Frisbee Fitness lesson works as an introductory lesson in a unit that includes ultimate frisbee and disc golf. The lesson takes the backyard game of “<a href="https://www.kanjam.com/" target="_blank" rel="nofollow noopener">Kan Jam</a>” – where players simply take turns throwing frisbees at a target, looking to acquire points – and adds an active element to it.</span>
+<span style="font-weight: 400;">The Fun Frisbee Fitness lesson works as an introductory lesson in a unit that includes ultimate frisbee and disc golf. The lesson takes the backyard game of “<a href="http://popl.ink/DVZvrQ" target="_blank" rel="nofollow noopener">Kan Jam</a>” – where players simply take turns throwing frisbees at a target, looking to acquire points – and adds an active element to it.</span>
 
 [caption id="attachment_8206" align="alignleft" width="300"]<a href="https://ihtusa.com/wp-content/uploads/2018/03/Pulling.jpg"><img class="wp-image-8206 size-medium" src="https://ihtusa.com/wp-content/uploads/2018/03/Pulling-300x223.jpg" alt="frisbee fitness" width="300" height="223" /></a> <em><strong>Portland High School P.E. teacher Andrew Pulling created a frisbee fitness lesson.</strong></em>[/caption]
 
@@ -38,8 +38,8 @@ post_date: 2018-03-07 19:46:55
 
 <span style="font-weight: 400;">He introduces the unit by presenting students with a standardized rubric that outlines everything he wants students to learn from the lesson:</span>
 <ul>
- 	<li style="font-weight: 400;"><span style="font-weight: 400;">Manually calculating <a href="https://www.ncbi.nlm.nih.gov/pubmed/21268470" target="_blank" rel="nofollow noopener">maximum heart rate (MHR)</a> prior to activity</span></li>
- 	<li style="font-weight: 400;"><span style="font-weight: 400;">Dynamic warm-up including aspects of the <a href="https://pyfp.org/">Presidential Youth Fitness Program</a> testing</span></li>
+ 	<li style="font-weight: 400;"><span style="font-weight: 400;">Manually calculating <a href="http://popl.ink/nfyYgZ" target="_blank" rel="nofollow noopener">maximum heart rate (MHR)</a> prior to activity</span></li>
+ 	<li style="font-weight: 400;"><span style="font-weight: 400;">Dynamic warm-up including aspects of the <a href="http://popl.ink/LPSgMc">Presidential Youth Fitness Program</a> testing</span></li>
  	<li style="font-weight: 400;"><span style="font-weight: 400;">Understanding of game rules and expectations</span></li>
  	<li style="font-weight: 400;"><span style="font-weight: 400;">Manually calculating heart rate during activity and tracking the fitness zone in which each student is exercising.</span></li>
 </ul>
