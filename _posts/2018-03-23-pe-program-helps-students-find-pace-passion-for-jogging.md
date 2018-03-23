@@ -17,7 +17,7 @@ post_date: 2018-03-23 16:16:53
 
 <span style="font-weight: 400;">Rich and Enos take students of all athletic abilities out on the trails adjacent to the school campus and deliver lessons that focus on measuring heart rate and moving at a pace that’s both sustainable and health-enhancing.</span><!--more-->
 
-[caption id="attachment_8260" align="alignright" width="450"]<a href="https://ihtusa.com/wp-content/uploads/2018/03/running-journalpost.jpg"><img class="wp-image-8260" src="https://ihtusa.com/wp-content/uploads/2018/03/running-journalpost-300x161.jpg" alt="jogging" width="450" height="241" /></a> <em><strong>Students are learning the health benefits of jogging during their physical education class.</strong></em>[/caption]
+[caption id="attachment_8261" align="alignright" width="450"]<a href="https://ihtusa.com/wp-content/uploads/2018/03/running-journalpost-1.jpg"><img class="wp-image-8261" src="https://ihtusa.com/wp-content/uploads/2018/03/running-journalpost-1-300x161.jpg" alt="jogging" width="450" height="241" /></a> <em><strong>Students learn the long-term benefits of jogging during their physical education class.</strong></em>[/caption]
 
 <span style="font-weight: 400;">“For us, knowing that we have kids at all different fitness levels, our biggest goal is that they get out and try their best,” Rich said. “It doesn’t matter if your friend is jogging at this speed, if you need to jog a little slower, all that matters is what you need to do.”</span>
 
