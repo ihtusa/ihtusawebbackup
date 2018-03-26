@@ -7,7 +7,7 @@ author: IHT Spirit
 post_excerpt: ""
 layout: post
 permalink: >
-  https://ihtusa.com/adding-p-e-heart-rate-monitors-motivates-students-to-increase-activity-in-health-class/
+  https://ihtusa.com/adding-pe-heart-rate-monitors-motivates-students-to-increase-activity-in-health-class/
 published: true
 post_date: 2018-03-26 14:33:07
 ---
