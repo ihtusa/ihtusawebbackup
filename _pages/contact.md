@@ -8,14 +8,15 @@ permalink: https://ihtusa.com/contact/
 published: true
 post_date: 2015-05-04 07:30:41
 ---
-<div id="pl-120"  class="panel-layout" ><div id="pg-120-0"  class="panel-grid panel-has-style"  data-style="{&quot;padding&quot;:&quot;60px&quot;,&quot;background_display&quot;:&quot;tile&quot;}" ><div class="panel-row-style panel-row-style-for-120-0" ><div id="pgc-120-0-0"  class="panel-grid-cell"  data-weight="0.2502081599" ><div id="panel-120-0-0-0" class="so-panel widget widget_black-studio-tinymce widget_black_studio_tinymce panel-first-child panel-last-child" data-index="0" data-style="{&quot;background_image_attachment&quot;:false,&quot;background_display&quot;:&quot;tile&quot;,&quot;featured_widgets&quot;:true,&quot;bigger_title&quot;:&quot;&quot;}" ><div class="featured-widget panel-widget-style panel-widget-style-for-120-0-0-0" ><h3 class="widget-title"><span class="widget-title__inline">IHT HQ</span></h3><div class="textwidget"><strong>Contact Us = Interactive Health Technologies, LLC.</strong>
+<div id="pl-120"  class="panel-layout" ><div id="pg-120-0"  class="panel-grid panel-has-style"  data-style="{&quot;padding&quot;:&quot;60px&quot;,&quot;background_display&quot;:&quot;tile&quot;}" ><div class="panel-row-style panel-row-style-for-120-0" ><div id="pgc-120-0-0"  class="panel-grid-cell"  data-weight="0.2502081599" ><div id="panel-120-0-0-0" class="so-panel widget widget_black-studio-tinymce widget_black_studio_tinymce panel-first-child panel-last-child" data-index="0" data-style="{&quot;background_image_attachment&quot;:false,&quot;background_display&quot;:&quot;tile&quot;,&quot;featured_widgets&quot;:true,&quot;bigger_title&quot;:&quot;&quot;}" ><div class="featured-widget panel-widget-style panel-widget-style-for-120-0-0-0" ><h3 class="widget-title"><span class="widget-title__inline">IHT HQ</span></h3><div class="textwidget"><p>Contact Us</p>
+<strong>Interactive Health Technologies, LLC.</strong>
 1101 W 34th Street
 Suite 213
 Austin, TX 78705
 
 t. 512.522.9354
 f. 512.879.1885
-<a href="mailto:spirit@ihtusa.com">spirit@ihtusa.com</a></div></div></div></div><div id="pgc-120-0-1"  class="panel-grid-cell"  data-weight="0.7497918401" ><div id="panel-120-0-1-0" class="so-panel widget widget_black-studio-tinymce widget_black_studio_tinymce panel-first-child panel-last-child" data-index="1" data-style="{&quot;background_image_attachment&quot;:false,&quot;background_display&quot;:&quot;tile&quot;,&quot;featured_widgets&quot;:&quot;&quot;,&quot;bigger_title&quot;:true}" ><div class="widget-title--big panel-widget-style panel-widget-style-for-120-0-1-0" ><h3 class="widget-title"><span class="widget-title__inline">DROP US A LINE</span></h3><div class="textwidget"><div role="form" class="wpcf7" id="wpcf7-f463-o1" lang="en-US" dir="ltr">
+<a href="mailto:spirit@ihtusa.com">spirit@ihtusa.com</a></div></div></div></div><div id="pgc-120-0-1"  class="panel-grid-cell"  data-weight="0.7497918401" ><div id="panel-120-0-1-0" class="so-panel widget widget_black-studio-tinymce widget_black_studio_tinymce panel-first-child panel-last-child" data-index="1" data-style="{&quot;background_display&quot;:&quot;tile&quot;,&quot;featured_widgets&quot;:&quot;&quot;,&quot;bigger_title&quot;:true}" ><div class="widget-title--big panel-widget-style panel-widget-style-for-120-0-1-0" ><h3 class="widget-title"><span class="widget-title__inline">DROP US A LINE</span></h3><div class="textwidget"><div role="form" class="wpcf7" id="wpcf7-f463-o1" lang="en-US" dir="ltr">
 <div class="screen-reader-response"></div>
 <form action="/wp-admin/post.php#wpcf7-f463-o1" method="post" class="wpcf7-form" novalidate="novalidate">
 <div style="display: none;">
@@ -41,7 +42,7 @@ School District/Organization<br />
         <span class="wpcf7-form-control-wrap your-subject"><input type="text" name="your-subject" value="" size="40" class="wpcf7-form-control wpcf7-text wpcf7-validates-as-required" aria-required="true" aria-invalid="false" placeholder="District/Organization" /></span><br />
 Your Message<br />
         <span class="wpcf7-form-control-wrap your-message"><textarea name="your-message" cols="40" rows="10" class="wpcf7-form-control wpcf7-textarea wpcf7-validates-as-required" aria-required="true" aria-invalid="false" placeholder="Let us know how we can help!"></textarea></span><br />
-<span id="hp5abd0a928b2ab" class="wpcf7-form-control-wrap emailiht-120-wrap" style="display:none !important; visibility:hidden !important;"><label  class="hp-message">Please leave this field empty.</label><input class="wpcf7-form-control wpcf7-text"  type="text" name="emailiht-120" value="" size="40" tabindex="-1" autocomplete="nope" /></span><br />
+<span id="hp5abd0add83f84" class="wpcf7-form-control-wrap emailiht-120-wrap" style="display:none !important; visibility:hidden !important;"><label  class="hp-message">Please leave this field empty.</label><input class="wpcf7-form-control wpcf7-text"  type="text" name="emailiht-120" value="" size="40" tabindex="-1" autocomplete="nope" /></span><br />
   <input type='hidden' id="zc_gad" name="zc_gad" value=""/><br />
       <input type="submit" value="GET STARTED" class="wpcf7-form-control wpcf7-submit btn btn-primary pull-right" />
     </div>
