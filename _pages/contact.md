@@ -8,7 +8,7 @@ permalink: https://ihtusa.com/contact/
 published: true
 post_date: 2015-05-04 07:30:41
 ---
-<div id="pl-120"  class="panel-layout" ><div id="pg-120-0"  class="panel-grid panel-has-style"  data-style="{&quot;padding&quot;:&quot;60px&quot;,&quot;background_display&quot;:&quot;tile&quot;}" ><div class="panel-row-style panel-row-style-for-120-0" ><div id="pgc-120-0-0"  class="panel-grid-cell"  data-weight="0.2502081599" ><div id="panel-120-0-0-0" class="so-panel widget widget_black-studio-tinymce widget_black_studio_tinymce panel-first-child panel-last-child" data-index="0" data-style="{&quot;background_image_attachment&quot;:false,&quot;background_display&quot;:&quot;tile&quot;,&quot;featured_widgets&quot;:true,&quot;bigger_title&quot;:&quot;&quot;}" ><div class="featured-widget panel-widget-style panel-widget-style-for-120-0-0-0" ><h3 class="widget-title"><span class="widget-title__inline">IHT HQ</span></h3><div class="textwidget"><p>Contact Us</p>
+<div id="pl-120"  class="panel-layout" ><div id="pg-120-0"  class="panel-grid panel-has-style"  data-style="{&quot;padding&quot;:&quot;60px&quot;,&quot;background_display&quot;:&quot;tile&quot;}" ><div class="panel-row-style panel-row-style-for-120-0" ><div id="pgc-120-0-0"  class="panel-grid-cell"  data-weight="0.2502081599" ><div id="panel-120-0-0-0" class="so-panel widget widget_black-studio-tinymce widget_black_studio_tinymce panel-first-child panel-last-child" data-index="0" data-style="{&quot;background_display&quot;:&quot;tile&quot;,&quot;featured_widgets&quot;:true,&quot;bigger_title&quot;:&quot;&quot;}" ><div class="featured-widget panel-widget-style panel-widget-style-for-120-0-0-0" ><h3 class="widget-title"><span class="widget-title__inline">IHT HQ</span></h3><div class="textwidget"><p>Contact Us</p>
 <strong>Interactive Health Technologies, LLC.</strong>
 1101 W 34th Street
 Suite 213
@@ -16,7 +16,7 @@ Austin, TX 78705
 
 t. 512.522.9354
 f. 512.879.1885
-<a href="mailto:spirit@ihtusa.com">spirit@ihtusa.com</a></div></div></div></div><div id="pgc-120-0-1"  class="panel-grid-cell"  data-weight="0.7497918401" ><div id="panel-120-0-1-0" class="so-panel widget widget_black-studio-tinymce widget_black_studio_tinymce panel-first-child panel-last-child" data-index="1" data-style="{&quot;background_display&quot;:&quot;tile&quot;,&quot;featured_widgets&quot;:&quot;&quot;,&quot;bigger_title&quot;:true}" ><div class="widget-title--big panel-widget-style panel-widget-style-for-120-0-1-0" ><h3 class="widget-title"><span class="widget-title__inline">DROP US A LINE</span></h3><div class="textwidget"><div role="form" class="wpcf7" id="wpcf7-f463-o1" lang="en-US" dir="ltr">
+<a href="mailto:spirit@ihtusa.com">spirit@ihtusa.com</a></div></div></div></div><div id="pgc-120-0-1"  class="panel-grid-cell"  data-weight="0.7497918401" ><div id="panel-120-0-1-0" class="so-panel widget widget_black-studio-tinymce widget_black_studio_tinymce panel-first-child panel-last-child" data-index="1" data-style="{&quot;background_image_attachment&quot;:false,&quot;background_display&quot;:&quot;tile&quot;,&quot;featured_widgets&quot;:&quot;&quot;,&quot;bigger_title&quot;:true}" ><div class="widget-title--big panel-widget-style panel-widget-style-for-120-0-1-0" ><h3 class="widget-title"><span class="widget-title__inline">DROP US A LINE</span></h3><div class="textwidget"><div role="form" class="wpcf7" id="wpcf7-f463-o1" lang="en-US" dir="ltr">
 <div class="screen-reader-response"></div>
 <form action="/wp-admin/post.php#wpcf7-f463-o1" method="post" class="wpcf7-form" novalidate="novalidate">
 <div style="display: none;">
@@ -42,7 +42,7 @@ School District/Organization<br />
         <span class="wpcf7-form-control-wrap your-subject"><input type="text" name="your-subject" value="" size="40" class="wpcf7-form-control wpcf7-text wpcf7-validates-as-required" aria-required="true" aria-invalid="false" placeholder="District/Organization" /></span><br />
 Your Message<br />
         <span class="wpcf7-form-control-wrap your-message"><textarea name="your-message" cols="40" rows="10" class="wpcf7-form-control wpcf7-textarea wpcf7-validates-as-required" aria-required="true" aria-invalid="false" placeholder="Let us know how we can help!"></textarea></span><br />
-<span id="hp5abd0add83f84" class="wpcf7-form-control-wrap emailiht-120-wrap" style="display:none !important; visibility:hidden !important;"><label  class="hp-message">Please leave this field empty.</label><input class="wpcf7-form-control wpcf7-text"  type="text" name="emailiht-120" value="" size="40" tabindex="-1" autocomplete="nope" /></span><br />
+<span id="hp5abd0b2f936b9" class="wpcf7-form-control-wrap emailiht-120-wrap" style="display:none !important; visibility:hidden !important;"><label  class="hp-message">Please leave this field empty.</label><input class="wpcf7-form-control wpcf7-text"  type="text" name="emailiht-120" value="" size="40" tabindex="-1" autocomplete="nope" /></span><br />
   <input type='hidden' id="zc_gad" name="zc_gad" value=""/><br />
       <input type="submit" value="GET STARTED" class="wpcf7-form-control wpcf7-submit btn btn-primary pull-right" />
     </div>
@@ -79,6 +79,20 @@ Your Message<br />
 </div>
 <div class="wpcf7-response-output wpcf7-display-none"></div></form></div>
 
-Want To View Our PE Blog? <a href="http://ihtusa.com/pe-blog-news">Click Here</a></div></div></div></div></div></div><div id="pg-120-1"  class="panel-grid panel-no-style" ><div id="pgc-120-1-0"  class="panel-grid-cell"  data-weight="1" ><div id="panel-120-1-0-0" class="so-panel widget widget_pw_call_to_action widget-call-to-action panel-first-child panel-last-child" data-index="2" data-style="{&quot;background_display&quot;:&quot;tile&quot;,&quot;featured_widgets&quot;:&quot;&quot;,&quot;bigger_title&quot;:&quot;&quot;}" >[siteorigin_widget class="PW_Call_To_Action"]<input type="hidden" value="{&quot;instance&quot;:{&quot;text&quot;:&quot;&quot;,&quot;button_text&quot;:&quot;&lt;a href=\&quot;#TOP\&quot;&gt;BACK TO TOP&lt;\/a&gt;&quot;},&quot;args&quot;:{&quot;before_widget&quot;:&quot;&lt;div id=\&quot;panel-120-1-0-0\&quot; class=\&quot;so-panel widget widget_pw_call_to_action widget-call-to-action panel-first-child panel-last-child\&quot; data-index=\&quot;2\&quot; data-style=\&quot;{&amp;quot;background_display&amp;quot;:&amp;quot;tile&amp;quot;,&amp;quot;featured_widgets&amp;quot;:&amp;quot;&amp;quot;,&amp;quot;bigger_title&amp;quot;:&amp;quot;&amp;quot;}\&quot; &gt;&quot;,&quot;after_widget&quot;:&quot;&lt;\/div&gt;&quot;,&quot;before_title&quot;:&quot;&lt;h3 class=\&quot;widget-title\&quot;&gt;&lt;span class=\&quot;widget-title__inline\&quot;&gt;&quot;,&quot;after_title&quot;:&quot;&lt;\/span&gt;&lt;\/h3&gt;&quot;,&quot;widget_id&quot;:&quot;widget-1-0-0&quot;}}" />[/siteorigin_widget]</div></div></div></div>
+&nbsp;
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
+
+Want To View Our PE Blog? <a href="http://ihtusa.com/pe-blog-news">Click Here</a></div></div></div></div></div></div><div id="pg-120-1"  class="panel-grid panel-no-style" ><div id="pgc-120-1-0"  class="panel-grid-cell"  data-weight="1" ><div id="panel-120-1-0-0" class="so-panel widget widget_pw_call_to_action widget-call-to-action panel-first-child panel-last-child" data-index="2" data-style="{&quot;background_image_attachment&quot;:false,&quot;background_display&quot;:&quot;tile&quot;,&quot;featured_widgets&quot;:&quot;&quot;,&quot;bigger_title&quot;:&quot;&quot;}" >[siteorigin_widget class="PW_Call_To_Action"]<input type="hidden" value="{&quot;instance&quot;:{&quot;text&quot;:&quot;&quot;,&quot;button_text&quot;:&quot;&lt;a href=\&quot;#TOP\&quot;&gt;BACK TO TOP&lt;\/a&gt;&quot;},&quot;args&quot;:{&quot;before_widget&quot;:&quot;&lt;div id=\&quot;panel-120-1-0-0\&quot; class=\&quot;so-panel widget widget_pw_call_to_action widget-call-to-action panel-first-child panel-last-child\&quot; data-index=\&quot;2\&quot; data-style=\&quot;{&amp;quot;background_image_attachment&amp;quot;:false,&amp;quot;background_display&amp;quot;:&amp;quot;tile&amp;quot;,&amp;quot;featured_widgets&amp;quot;:&amp;quot;&amp;quot;,&amp;quot;bigger_title&amp;quot;:&amp;quot;&amp;quot;}\&quot; &gt;&quot;,&quot;after_widget&quot;:&quot;&lt;\/div&gt;&quot;,&quot;before_title&quot;:&quot;&lt;h3 class=\&quot;widget-title\&quot;&gt;&lt;span class=\&quot;widget-title__inline\&quot;&gt;&quot;,&quot;after_title&quot;:&quot;&lt;\/span&gt;&lt;\/h3&gt;&quot;,&quot;widget_id&quot;:&quot;widget-1-0-0&quot;}}" />[/siteorigin_widget]</div></div></div></div>
 
 <style type="text/css" class="panels-style" data-panels-style-for-post="120">@import url(https://ihtusa.com/wp-content/plugins/siteorigin-panels/css/front-flex.min.css); #pgc-120-0-0 { width:25.0208%;width:calc(25.0208% - ( 0.7497918401 * 30px ) ) } #pgc-120-0-1 { width:74.9792%;width:calc(74.9792% - ( 0.2502081599 * 30px ) ) } #pg-120-0 , #pl-120 .so-panel { margin-bottom:30px } #pgc-120-1-0 { width:100%;width:calc(100% - ( 0 * 30px ) ) } #pl-120 .so-panel:last-child { margin-bottom:0px } #pg-120-0> .panel-row-style { padding:60px } @media (max-width:780px){ #pg-120-0.panel-no-style, #pg-120-0.panel-has-style > .panel-row-style , #pg-120-1.panel-no-style, #pg-120-1.panel-has-style > .panel-row-style { -webkit-flex-direction:column;-ms-flex-direction:column;flex-direction:column } #pg-120-0 .panel-grid-cell , #pg-120-1 .panel-grid-cell { margin-right:0 } #pg-120-0 .panel-grid-cell , #pg-120-1 .panel-grid-cell { width:100% } #pgc-120-0-0 { margin-bottom:30px } #pl-120 .panel-grid-cell { padding:0 } #pl-120 .panel-grid .panel-grid-cell-empty { display:none } #pl-120 .panel-grid .panel-grid-cell-mobile-last { margin-bottom:0px }  } </style>
