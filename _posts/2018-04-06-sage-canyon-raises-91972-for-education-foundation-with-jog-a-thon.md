@@ -21,13 +21,9 @@ The Del Mar Schools Education Foundation is on the home stretch for its fundrais
 
 <!--more-->
 
-&nbsp;
-
 [caption id="attachment_8340" align="alignright" width="300"]<a href="https://ihtusa.com/wp-content/uploads/2018/04/sd-1522843464-24xv53j71w-snap-image.jpg"><img class="wp-image-8340 size-medium" src="https://ihtusa.com/wp-content/uploads/2018/04/sd-1522843464-24xv53j71w-snap-image-300x161.jpg" alt="jog-a-thon" width="300" height="161" /></a> Courtesy photo. Del Mar Times[/caption]
 
 This year the DMSEF’s goal is to raise $1.9 million to fund STEAM+ learning specialists in the subjects of science, technology, engineering, arts, mathematics and physical education for all eight Del Mar Union School District schools in Del Mar and Carmel Valley.
-
-&nbsp;
 
 If DMSEF is not able to reach its goal, there will be a direct impact on STEAM+ staffing decisions for next year as the district's budget projection allows the district to fund approximately 60 percent of STEAM+ specialists, leaving the remaining 40 percent up to DMSEF to fund, Polizzotto said.
 
