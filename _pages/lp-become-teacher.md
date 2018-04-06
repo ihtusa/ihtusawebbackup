@@ -1,11 +1,10 @@
 ---
-ID: 8092
+ID: 8351
 post_title: LP Become Teacher
 author: Jack Hoover
 post_excerpt: ""
 layout: page
-permalink: >
-  https://schools.ihtusa.com/lp-become-teacher/
+permalink: https://ihtusa.com/lp-become-teacher/
 published: true
-post_date: 2018-04-06 11:49:53
+post_date: 2018-04-06 15:32:18
 ---
