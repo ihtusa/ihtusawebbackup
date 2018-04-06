@@ -1,11 +1,10 @@
 ---
-ID: 8372
+ID: 14622
 post_title: Groups
 author: Jack Hoover
 post_excerpt: ""
 layout: page
-permalink: >
-  http://ihtusa.staging.wpengine.com/groups/
+permalink: https://ihtusa.com/groups/
 published: true
-post_date: 2018-04-06 14:30:36
+post_date: 2018-04-06 16:03:42
 ---
