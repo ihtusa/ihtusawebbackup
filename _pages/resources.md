@@ -1,6 +1,6 @@
 ---
 ID: 44
-post_title: PE Blog | IHT Spirit System News
+post_title: 'PE Resources Information &#8211; Heart Rate Training Lessons'
 author: Interactive Health Technologies
 post_excerpt: ""
 layout: page
