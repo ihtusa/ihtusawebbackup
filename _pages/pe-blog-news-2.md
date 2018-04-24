@@ -8,8 +8,7 @@ permalink: https://ihtusa.com/pe-blog-news-2/
 published: true
 post_date: 2016-05-10 13:16:49
 ---
-PE Blog | Physical Education News
-
+<h1>PE Blog | Physical Education News</h1>
 [wp_blog_designer id="1"]
 
 &nbsp;
