@@ -11,7 +11,7 @@ permalink: >
 published: true
 post_date: 2018-04-24 12:20:11
 ---
-Originally published Feb. 22, 2018 in <a href="https://www.theguardian.com/commentisfree/2018/feb/22/exercise-schools-pe-lessons-exams">The Guardian</a>.
+Originally published Feb. 22, 2018 in <a href="https://www.theguardian.com/commentisfree/2018/feb/22/exercise-schools-pe-lessons-exams" target="_blank" rel="nofollow noopener">The Guardian</a>.
 
 By Anna Kessel
 
