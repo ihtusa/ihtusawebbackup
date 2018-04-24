@@ -1,10 +1,10 @@
 ---
 ID: 1869
-post_title: PE Blog | IHT Spirit System News
+post_title: PE Heart Rate Training Blog
 author: Brandon Stephens
 post_excerpt: ""
 layout: page
-permalink: https://ihtusa.com/pe-blog-news/
+permalink: https://ihtusa.com/pe-blog-news-2/
 published: true
 post_date: 2016-05-10 13:16:49
 ---
