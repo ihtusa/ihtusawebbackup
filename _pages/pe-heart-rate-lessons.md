@@ -1,6 +1,8 @@
 ---
 ID: 7996
-post_title: P.E. Heart Rate Lessons
+post_title: >
+  Physical Education Heart Rate Training
+  Lessons
 author: IHT Spirit
 post_excerpt: ""
 layout: page
