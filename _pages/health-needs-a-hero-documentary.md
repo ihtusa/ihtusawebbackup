@@ -1,46 +1,14 @@
 ---
 ID: 979
-post_title: Health Needs a Hero
+post_title: 'Health Needs a Hero &#8211; Documentary'
 author: Interactive Health Technologies
-post_date: 2015-07-22 19:27:40
 post_excerpt: ""
 layout: page
 permalink: >
   https://ihtusa.com/resources/health-needs-a-hero-documentary/
 published: true
-subtitle:
-  - ""
-background_image:
-  - ""
-background_image_horizontal_position:
-  - center
-background_image_vertical_position:
-  - center
-background_image_repeat:
-  - repeat
-background_image_attachment:
-  - scroll
-background_color:
-  - ""
-sidebar:
-  - right
-slider_content:
-  - caption
-slides:
-  - "0"
-auto_cycle:
-  - "1"
-cycle_interval:
-  - "5000"
-panels_data:
-  - 'a:3:{s:7:"widgets";a:2:{i:0;a:5:{s:4:"type";s:6:"visual";s:5:"title";s:0:"";s:4:"text";s:839:"<h3 style="font-size: 44px; text-align: center;">HEALTH NEEDS A HERO</h3><h3 style="font-size: 36px; text-align: center;"><strong>FULL LENGTH VERSION</strong></h3><p style="text-align: center;">Written and Directed by IHT Co-Founder, Jen Ohlson, "<strong>Health Needs a Hero</strong>" is a powerful, inspirational documentary that takes an in-depth look at the root of the issues surrounding the childhood obesity epidemic, the solutions to reverse the trends and a call-to-action for each of us to take personal responsibility in bringing about positive change. Narrated by Academy Award Nominee Edward James Olmos and told through the heart of Ashley Castoreno, a recent graduate of an inner-city San Antonio, Texas high school, who proves that one person really can make a difference.</p><p>[embed]https://vimeo.com/75737227[/embed]</p>";s:6:"filter";s:1:"1";s:11:"panels_info";a:5:{s:5:"class";s:30:"WP_Widget_Black_Studio_TinyMCE";s:4:"grid";i:1;s:4:"cell";i:1;s:2:"id";i:0;s:5:"style";a:4:{s:27:"background_image_attachment";b:0;s:18:"background_display";s:4:"tile";s:16:"featured_widgets";s:0:"";s:12:"bigger_title";b:1;}}}i:1;a:3:{s:4:"text";s:0:"";s:11:"button_text";s:30:"<a href="#TOP">BACK TO TOP</a>";s:11:"panels_info";a:6:{s:5:"class";s:17:"PW_Call_To_Action";s:3:"raw";b:0;s:4:"grid";i:2;s:4:"cell";i:0;s:2:"id";i:1;s:5:"style";a:3:{s:18:"background_display";s:4:"tile";s:16:"featured_widgets";s:0:"";s:12:"bigger_title";s:0:"";}}}}s:5:"grids";a:3:{i:0;a:2:{s:5:"cells";i:1;s:5:"style";a:0:{}}i:1;a:2:{s:5:"cells";i:3;s:5:"style";a:1:{s:18:"background_display";s:4:"tile";}}i:2;a:2:{s:5:"cells";i:1;s:5:"style";a:0:{}}}s:10:"grid_cells";a:5:{i:0;a:2:{s:4:"grid";i:0;s:6:"weight";i:1;}i:1;a:2:{s:4:"grid";i:1;s:6:"weight";d:0.049751243782000000026588537593852379359304904937744140625;}i:2;a:2:{s:4:"grid";i:1;s:6:"weight";d:0.90049751243599995831345950136892497539520263671875;}i:3;a:2:{s:4:"grid";i:1;s:6:"weight";d:0.049751243782000000026588537593852379359304904937744140625;}i:4;a:2:{s:4:"grid";i:2;s:6:"weight";i:1;}}}'
-ampforwp-amp-on-off:
-  - default
+post_date: 2015-07-22 19:27:40
 ---
-&nbsp;
-<h3 style="font-size: 44px; text-align: center;">HEALTH NEEDS A HERO</h3>
-<h3 style="font-size: 36px; text-align: center;"><strong>FULL LENGTH VERSION</strong></h3>
-<p style="text-align: center;">Written and Directed by IHT Co-Founder, Jen Ohlson, "<strong>Health Needs a Hero</strong>" is a powerful, inspirational documentary that takes an in-depth look at the root of the issues surrounding the childhood obesity epidemic, the solutions to reverse the trends and a call-to-action for each of us to take personal responsibility in bringing about positive change. Narrated by Academy Award Nominee Edward James Olmos and told through the heart of Ashley Castoreno, a recent graduate of an inner-city San Antonio, Texas high school, who proves that one person really can make a difference.</p>
-&nbsp;
+<div id="pl-979"  class="panel-layout" ><div id="pg-979-0"  class="panel-grid panel-no-style" ><div id="pgc-979-0-0"  class="panel-grid-cell panel-grid-cell-empty"  data-weight="1" ></div></div><div id="pg-979-1"  class="panel-grid panel-no-style"  data-style="{&quot;background_display&quot;:&quot;tile&quot;}" ><div id="pgc-979-1-0"  class="panel-grid-cell panel-grid-cell-empty"  data-weight="0.049751243782" ></div><div id="pgc-979-1-1"  class="panel-grid-cell panel-grid-cell-mobile-last"  data-weight="0.900497512436" ><div id="panel-979-1-1-0" class="so-panel widget widget_black-studio-tinymce widget_black_studio_tinymce panel-first-child panel-last-child" data-index="0" data-style="{&quot;background_image_attachment&quot;:false,&quot;background_display&quot;:&quot;tile&quot;,&quot;featured_widgets&quot;:&quot;&quot;,&quot;bigger_title&quot;:true}" ><div class="widget-title--big panel-widget-style panel-widget-style-for-979-1-1-0" ><div class="textwidget"><h3 style="font-size: 44px; text-align: center;">HEALTH NEEDS A HERO</h3><h3 style="font-size: 36px; text-align: center;"><strong>FULL LENGTH VERSION</strong></h3><p style="text-align: center;">Written and Directed by IHT Co-Founder, Jen Ohlson, "<strong>Health Needs a Hero</strong>" is a powerful, inspirational documentary that takes an in-depth look at the root of the issues surrounding the childhood obesity epidemic, the solutions to reverse the trends and a call-to-action for each of us to take personal responsibility in bringing about positive change. Narrated by Academy Award Nominee Edward James Olmos and told through the heart of Ashley Castoreno, a recent graduate of an inner-city San Antonio, Texas high school, who proves that one person really can make a difference.</p><p></p></div></div></div></div><div id="pgc-979-1-2"  class="panel-grid-cell panel-grid-cell-empty"  data-weight="0.049751243782" ></div></div><div id="pg-979-2"  class="panel-grid panel-no-style" ><div id="pgc-979-2-0"  class="panel-grid-cell"  data-weight="1" ><div id="panel-979-2-0-0" class="so-panel widget widget_pw_call_to_action widget-call-to-action panel-first-child panel-last-child" data-index="1" data-style="{&quot;background_display&quot;:&quot;tile&quot;,&quot;featured_widgets&quot;:&quot;&quot;,&quot;bigger_title&quot;:&quot;&quot;}" >[siteorigin_widget class="PW_Call_To_Action"]<input type="hidden" value="{&quot;instance&quot;:{&quot;text&quot;:&quot;&quot;,&quot;button_text&quot;:&quot;&lt;a href=\&quot;#TOP\&quot;&gt;BACK TO TOP&lt;\/a&gt;&quot;},&quot;args&quot;:{&quot;before_widget&quot;:&quot;&lt;div id=\&quot;panel-979-2-0-0\&quot; class=\&quot;so-panel widget widget_pw_call_to_action widget-call-to-action panel-first-child panel-last-child\&quot; data-index=\&quot;1\&quot; data-style=\&quot;{&amp;quot;background_display&amp;quot;:&amp;quot;tile&amp;quot;,&amp;quot;featured_widgets&amp;quot;:&amp;quot;&amp;quot;,&amp;quot;bigger_title&amp;quot;:&amp;quot;&amp;quot;}\&quot; &gt;&quot;,&quot;after_widget&quot;:&quot;&lt;\/div&gt;&quot;,&quot;before_title&quot;:&quot;&lt;h3 class=\&quot;widget-title\&quot;&gt;&lt;span class=\&quot;widget-title__inline\&quot;&gt;&quot;,&quot;after_title&quot;:&quot;&lt;\/span&gt;&lt;\/h3&gt;&quot;,&quot;widget_id&quot;:&quot;widget-2-0-0&quot;}}" />[/siteorigin_widget]</div></div></div></div>
 
-<a href="#TOP">BACK TO TOP</a>
+<style type="text/css" class="panels-style" data-panels-style-for-post="979">@import url(https://ihtusa.com/wp-content/plugins/siteorigin-panels/css/front-flex.min.css); #pgc-979-0-0 , #pgc-979-2-0 { width:100%;width:calc(100% - ( 0 * 30px ) ) } #pg-979-0 , #pg-979-1 , #pl-979 .so-panel { margin-bottom:30px } #pgc-979-1-0 , #pgc-979-1-2 { width:4.9751%;width:calc(4.9751% - ( 0.950248756218 * 30px ) ) } #pgc-979-1-1 { width:90.0498%;width:calc(90.0498% - ( 0.099502487564 * 30px ) ) } #pl-979 #panel-979-1-1-0 , #pl-979 #panel-979-2-0-0 {  } #pl-979 .so-panel:last-child { margin-bottom:0px } @media (max-width:780px){ #pg-979-0.panel-no-style, #pg-979-0.panel-has-style > .panel-row-style , #pg-979-1.panel-no-style, #pg-979-1.panel-has-style > .panel-row-style , #pg-979-2.panel-no-style, #pg-979-2.panel-has-style > .panel-row-style { -webkit-flex-direction:column;-ms-flex-direction:column;flex-direction:column } #pg-979-0 .panel-grid-cell , #pg-979-1 .panel-grid-cell , #pg-979-2 .panel-grid-cell { margin-right:0 } #pg-979-0 .panel-grid-cell , #pg-979-1 .panel-grid-cell , #pg-979-2 .panel-grid-cell { width:100% } #pgc-979-1-0 , #pgc-979-1-1 { margin-bottom:30px } #pl-979 .panel-grid-cell { padding:0 } #pl-979 .panel-grid .panel-grid-cell-empty { display:none } #pl-979 .panel-grid .panel-grid-cell-mobile-last { margin-bottom:0px }  } </style>
