@@ -2,7 +2,7 @@
 ID: 2016
 post_title: >
   Physical Education Heart Rate Training
-  Testimonials
+  Reviews
 author: IHT Spirit
 post_excerpt: ""
 layout: page
