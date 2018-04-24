@@ -1,6 +1,6 @@
 ---
 ID: 1869
-post_title: PE Heart Rate Training Blog
+post_title: 'PE Heart Rate Training News &#8211; PE Blog'
 author: Brandon Stephens
 post_excerpt: ""
 layout: page
