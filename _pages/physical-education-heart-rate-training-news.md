@@ -11,5 +11,4 @@ permalink: >
 published: true
 post_date: 2018-04-24 16:23:12
 ---
-<h1>HEALTH &amp; FITNESS NEWS</h1>
 [wp_blog_designer id="1"]
