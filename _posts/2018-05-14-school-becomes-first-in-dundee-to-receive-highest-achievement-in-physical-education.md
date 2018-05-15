@@ -8,7 +8,7 @@ author: IHT Spirit
 post_excerpt: ""
 layout: post
 permalink: >
-  https://ihtusa.com/school-becomes-first-in-dundee-to-receive-highest-achievement-in-physical-education/
+  http://ticket1108805.wpengine.com/school-becomes-first-in-dundee-to-receive-highest-achievement-in-physical-education/
 published: true
 post_date: 2018-05-14 20:58:01
 ---
